@@ -10,6 +10,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 - Basic markdown syntax (links, images, titles, bullets, etc)
 - Export a Python notebook from Google Colab
 - Load a csv using pandas
+- (At home) Refresh your Python from this tutorial at [Kaggle](https://www.kaggle.com/learn/python)
 
 ## Week 2
 - Loading various data types: csv, json from APIs, etc 
