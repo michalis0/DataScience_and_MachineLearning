@@ -6,6 +6,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 ## Week 1
 - Introduction to Python notebooks and Google colab
 - What are Python notebooks?
+- How to load a file from github in Google Colab.
 - Shortcuts to Google colab (switch between markdown and code, etc)
 - Basic markdown syntax (links, images, titles, bullets, etc)
 - Export a Python notebook from Google Colab
