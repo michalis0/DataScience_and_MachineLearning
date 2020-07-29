@@ -4,6 +4,9 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 
 
 ## Week 1
+- Everyone joins class slack channel.
+- Brief intro to slack
+------
 - Introduction to Python notebooks and Google colab
 - What are Python notebooks?
 - Shortcuts to Google colab (switch between markdown and code, etc)
