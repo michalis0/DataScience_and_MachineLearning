@@ -16,7 +16,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 - What is git?
 - How to load a file from github in Google Colab.
 - Export a Python notebook from Google Colab
-- Load a csv using pandas, basic operations, some simple visualizations,eg histogram, etc.
+- Embed code in the cell: Load a csv using pandas, basic operations, some simple visualizations,eg histogram, etc.
 - (At home) Refresh your Python from this tutorial at [Kaggle](https://www.kaggle.com/learn/python)
 
 ## Week 2
