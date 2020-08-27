@@ -5,7 +5,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 
 ## Week 1
 - Introduction
-- Explanation of Assignment 0.
+- Explanation of Assignment 0 (show an example from last year).
 - Everyone joins class Slack channel. We will use Slack for all communication in the class.
 - Brief intro how to use slack.
 ------
