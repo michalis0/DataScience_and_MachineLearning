@@ -8,6 +8,8 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 - Explanation of Assignment 0 (show an example from last year).
 - Everyone joins class Slack channel. We will use Slack for all communication in the class.
 - Brief intro how to use slack.
+-- Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.  
+
 ------
 - Introduction to Python notebooks and Google colab
 - What are Python notebooks?
