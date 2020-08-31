@@ -5,7 +5,8 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 
 ## Week 1
 - Introduction of Teaching Assistants.
-- Explanation of Assignment 0 (show an example).
+- Explanation of Assignment 0
+  - An example: https://www.youtube.com/watch?v=dkX6whEGN1Y
 - Everyone joins class Slack channel. We will use Slack for all communication in the class.
 - Brief intro how to use slack.
   - Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.  
