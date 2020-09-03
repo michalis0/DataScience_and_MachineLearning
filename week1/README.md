@@ -32,7 +32,7 @@ After you have become familiar with Colab you can do the following exercises:
 
 ---
 
-![Exercise 1](/week1%20-%20Python%20Notebooks/Exercise1.png)
+![Exercise 1](/week1/Exercise1.png)
 
 ---
 
@@ -40,6 +40,6 @@ After you have become familiar with Colab you can do the following exercises:
 
 ---
 
-![Exercise 2](/week1%20-%20Python%20Notebooks/Exercise2.png)
+![Exercise 2](/week1/Exercise2.png)
 
 ---
