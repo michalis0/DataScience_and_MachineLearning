@@ -20,6 +20,9 @@
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 - Autocomplete in Google Colab for code [optional]
     - When you write Python code in Colab it helps you "autocomplete" the code. Check out [this noteboook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
+    
+## Python
+Python will be the main programming language we will be using throughout this course. If you feel like you need to review some basics about Python, You can follow this [Python course](https://www.kaggle.com/learn/python) from kaggle.
 
 
 ## Exercises
