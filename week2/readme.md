@@ -12,7 +12,11 @@ We will cover:
 - convert columns datatypes to proper datatype
 - remove rows with nulls
 
+## To Do:
 
+- Go through [this notebook]() to learn how to load datasets in different formats (csv, json, etc) into pandas dataframe
+
+- 
 Complete all the walkthroughs and exercises in this folder by opening them in colab:
 https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas
 ©
