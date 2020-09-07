@@ -1,3 +1,10 @@
+# Introduction
+
+- Introduction of Teaching Assistants.
+- Everyone joins class Slack channel. We will use Slack for all communication in the class.
+- Brief introduction on how to use slack.
+    - Exercise (everyone): Post a message under #general introducing yourself, where you are from and a fun fact about you.
+
 # Colab and Python Notebooks
 
 ## What we will cover in the lab
