@@ -27,6 +27,7 @@
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 - Autocomplete in Google Colab for code [optional]
     - When you write Python code in Colab it helps you "autocomplete" the code. Check out [this noteboook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
+- You may need to export a colab notebook as `.ipynb` file and save it to you computer (for instance when you want to submit your assignments in moodle). To do so just go to __File -> Download .ipynb__.
     
 ## Python
 Python will be the main programming language we will be using throughout this course. If you feel like you need to review some basics about Python, You can follow this [Python course](https://www.kaggle.com/learn/python) from kaggle.
@@ -53,3 +54,29 @@ After you have become familiar with Colab you can do the following exercises:
 ![Exercise 2](/week1/Exercise2.png)
 
 ---
+
+## Assignment 0
+__Description.__ Find an interesting dataset from the Internet. It is better if the dataset is relatively new, e.g., after year 2000, and it should not contain only a few datapoints. You can find many at Kaggle or at the UCI Machine Learning Repository. I would also urge you to find data about Switzerland! Many data about Switzerland can be found at https://opendata.swiss/en/.
+
+The dataset may be in CSV, JSON, XLS or other format. Prepare a Python notebook that should answer in some narrative form the following:
+
+__Task 1:__
+
+Describe the dataset. Why did you choose it? What is it about? Put a link where one can download it. What is the dimensionality of the dataset (number of columns)? What is the cardinality of the dataset (number of rows/objects)?
+
+To answer the above you have to read the readme file, and look at the data. For this assignment you can use Excel (or even Pandas if you are familiar with it).
+
+__Task 2:__
+
+What kind of questions would one be interested to ask/answer about this dataset? For example, predict something about…, etc.
+
+__Task 3:__
+
+Prepare a short video (max 1min) with the following content:
+•Your name and student ID.
+•What is the dataset about and a link where you found it.
+•What questions one can ask on it? 
+
+The video should include voice-over and (optionally) the face of the narrator in the beginning (“my name is Y, I will present the dataset Z.”). To create the video, you may use Camtasia or Quicktime Player and iMovie on Mac. Upload the video in youtube and embed the link in the notebook (as in the Lab assignments). Check out [this link](https://www.youtube.com/watch?v=dkX6whEGN1Y) to see an example video from last year.
+
+
