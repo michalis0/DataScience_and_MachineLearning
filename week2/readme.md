@@ -14,9 +14,10 @@ We will cover:
 
 ## To Do:
 
-- Go through [this notebook]() to learn how to load datasets in different formats (csv, json, etc) into pandas dataframe
+- Go through [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Basic_Pandas_Load_File.ipynb) to learn how to load datasets in different formats (csv, json, etc) into pandas dataframe
 
-- 
-Complete all the walkthroughs and exercises in this folder by opening them in colab:
-https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas
-©
+- follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Loading_Data_WebAPI.ipynb) to learn how to obtain data from a web api.
+
+- (at home) Complete all the walkthroughs and exercises in the "Selecting Subsets" folder. By going over these notebooks you will learn how to filter your dataframe by rows or columns and also how to select a subset of a dataframe. So make sure to do so, as these operations are very important in data analysis. (_Note that you should load the data with the raw links from Github if you want to run these notebook in colab_)
+
+
