@@ -1,5 +1,8 @@
 # Colab and Python Notebooks
-
+- Introduction of Teaching Assistants.
+- Everyone joins class Slack channel. We will use Slack for all communication in the class.
+- Brief intro how to use slack.
+  - Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.  
 ## What we will cover in the lab
 
 - What are Python notebooks? 
