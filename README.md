@@ -5,7 +5,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 
 - Week 1: Introduction to Python Notebooks and Google Colab
 - Week 2: Python and Pandas
-- Week 3: Python, Pandas and Exploratory Data Analysis
+- Week 3: Pandas and Exploratory Data Analysis
 - Week 4: Linear Regression
 - Week 5: Classification 1
 - Week 6: Text Analytics
