@@ -1,5 +1,10 @@
 # Colab and Python Notebooks
-
+- Introduction of Teaching Assistants.
+- Link to the Moodle page of the course: https://moodle.unil.ch/course/view.php?id=17164
+- Everyone joins class Slack channel. We will use Slack for all communication in the class.
+- Brief intro how to use slack.
+  - Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
+- Breif explanation of Assignment 0. You can find the full description of the assignment here. Note that this is an ungraded but __mandatory__ assignment. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the last year's submissions
 ## What we will cover in the lab
 
 - What are Python notebooks? 
@@ -49,27 +54,6 @@ After you have become familiar with Colab you can do the following exercises:
 ---
 
 ## Assignment 0
-__Description.__ Find an interesting dataset from the Internet. It is better if the dataset is relatively new, e.g., after year 2000, and it should not contain only a few datapoints. You can find many at Kaggle or at the UCI Machine Learning Repository. I would also urge you to find data about Switzerland! Many data about Switzerland can be found at https://opendata.swiss/en/.
-
-The dataset may be in CSV, JSON, XLS or other format. Prepare a Python notebook that should answer in some narrative form the following:
-
-__Task 1:__
-
-Describe the dataset. Why did you choose it? What is it about? Put a link where one can download it. What is the dimensionality of the dataset (number of columns)? What is the cardinality of the dataset (number of rows/objects)?
-
-To answer the above you have to read the readme file, and look at the data. For this assignment you can use Excel (or even Pandas if you are familiar with it).
-
-__Task 2:__
-
-What kind of questions would one be interested to ask/answer about this dataset? For example, predict something about…, etc.
-
-__Task 3:__
-
-Prepare a short video (max 1min) with the following content:
-•Your name and student ID.
-•What is the dataset about and a link where you found it.
-•What questions one can ask on it? 
-
-The video should include voice-over and (optionally) the face of the narrator in the beginning (“my name is Y, I will present the dataset Z.”). To create the video, you may use Camtasia or Quicktime Player and iMovie on Mac. Upload the video in youtube and embed the link in the notebook (as in the Lab assignments). Check out [this link](https://www.youtube.com/watch?v=dkX6whEGN1Y) to see an example video from last year.
+__Description.__ Check out the [moodle page](https://moodle.unil.ch/mod/assign/view.php?id=841167).
 
 
