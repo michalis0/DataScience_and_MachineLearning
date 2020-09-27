@@ -20,4 +20,6 @@ We will cover:
 
 - (at home) Complete all the walkthroughs and exercises in the "Selecting Subsets" folder. By going over these notebooks you will learn how to filter your dataframe by rows or columns and also how to select a subset of a dataframe. So make sure to do so, as these operations are very important in data analysis. (_Note that you should load the data with the raw links from Github if you want to run these notebook in colab_)
 
+- (at home) Complete these tutorials in Kaggle about [data cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values)
+
 
