@@ -18,7 +18,7 @@ We will cover:
 
 - follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Loading_Data_WebAPI.ipynb) to learn how to obtain data from a web api.
 
--follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Data_Cleaning_in_Pandas.ipynb#scrollTo=eqLRUv6UF1jC) to review how to do data cleaning with pandas.
+- follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Data_Cleaning_in_Pandas.ipynb#scrollTo=eqLRUv6UF1jC) to review how to do data cleaning with pandas.
 
 - (at home) Complete all the walkthroughs and exercises in the "Selecting Subsets" folder. By going over these notebooks you will learn how to filter your dataframe by rows or columns and also how to select a subset of a dataframe. So make sure to do so, as these operations are very important in data analysis. (_Note that you should load the data with the raw links from Github if you want to run these notebook in colab_)
 
