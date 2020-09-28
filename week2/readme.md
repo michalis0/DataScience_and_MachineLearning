@@ -14,7 +14,7 @@ We will cover:
 
 ## To Do:
 
-- Go through [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Basic_Pandas_Load_File.ipynb) to learn how to load datasets in different formats (csv, json, etc) into pandas dataframe
+- Go through [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Basic_Pandas_Load_File.ipynb) to learn how to load datasets in different formats (csv, json, etc) into a pandas dataframe
 
 - follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Loading_Data_WebAPI.ipynb) to learn how to obtain data from a web api.
 
