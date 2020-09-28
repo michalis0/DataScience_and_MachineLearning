@@ -1,4 +1,4 @@
-# Introduction to Pandas
+# Introduction to Pandas and Data Cleaning
 In week 2 you will learn how to use [Pandas](https://pandas.pydata.org/), a fast and powerful library for data analysis and manipulation in Python.
 
 ## What will be covered?
