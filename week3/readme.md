@@ -20,4 +20,4 @@ This week we are going to cover more advanced operations with pandas, mainly:
 
 - The notebook ["More_Visualization.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week3/More_Visualization.ipynb) shows two examples of advanced visualization with pandas.
 
-- Finally, you can test what you have learned by doing some [Exercises](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/week3/Exercises)
+- Finally, you can test what you have learned by doing some [Exercises](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/week3/Exercises).
