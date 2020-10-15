@@ -11,4 +11,4 @@ In this week's lab we are going to cover the following topics:
 - Visualizing the decision boundary of a simple classifier
 
 ### To Do
-Follow the notebook "" to learn how to build a complete classification pipeline from scratch.
+Follow the notebook "Classification_Logistic_Regession.ipynb" to learn how to build a complete classification pipeline from scratch.
