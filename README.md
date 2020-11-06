@@ -9,6 +9,7 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 - Week 4: Linear Regression
 - Week 5: Classification 1
 - Week 6: Text Analytics
+- Week 7: Text Embeddings & Introduction to Git
 
 
 ## Data to explore
