@@ -4,7 +4,7 @@
 - Everyone joins class Slack channel. We will use Slack for all communication in the class.
 - Brief intro how to use slack.
   - Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
-- Breif explanation of Assignment 0. You can find the full description of the assignment here. Note that this is an ungraded but __mandatory__ assignment. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the last year's submissions
+- Presentation of Assignment 0. You can find the full description of the assignment here. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the past year's submissions
 ## What we will cover in the lab
 
 - What are Python notebooks? 
