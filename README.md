@@ -19,5 +19,10 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 ## Data to explore
 https://github.com/fivethirtyeight/data
 
+### Regression
+= [Appliance Energy Prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
+- [Facebook Comment Volume](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#)
+
 ### Recommendation Systems
 - [Book-crossings Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
+- [MovieLens](https://grouplens.org/datasets/movielens/)
