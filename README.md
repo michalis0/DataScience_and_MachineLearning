@@ -18,3 +18,6 @@ This repository includes content for the "Data Mining and Machine Learning" clas
 
 ## Data to explore
 https://github.com/fivethirtyeight/data
+
+### Recommendation Systems
+- [Book-crossings Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
