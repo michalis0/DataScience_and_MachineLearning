@@ -1,20 +1,21 @@
 # Data Mining and Machine Learning 
 ## University of Lausanne
 
-This repository includes content for the "Data Mining and Machine Learning" class by Prof. Vlachos
+**Instructor**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 
+This repository includes content for the "Data Mining and Machine Learning".
 
 - Week 1: [Introduction to Python Notebooks and Google Colab](week1)
 - Week 2: [Python and Pandas](week2)
 - Week 3: [Pandas and Exploratory Data Analysis](week3)
-- Week 4: Linear Regression
-- Week 5: Classification 1 (Logistic Regression, Evaluation, Accuracy)
-- Week 6: Text Analytics
-- Week 7: Text Embeddings & Introduction to Git
-- Week 8: Classification 2 (kNN, Decision Trees)
-- Week 9: Clustering
-- Week 10: Dimensionality Reduction
-- Week 11: Recommender Systems
+- Week 4: Linear Regression 1
+- Week 5: Linear Regression 2
+- Week 6: Classification 1 (Logistic Regression, Evaluation, Accuracy)
+- Week 7: Classification 2 (kNN, Decision Trees)
+- Week 8: Text Analytics 1
+- Week 9: Text Analytics 2
+- Week 10: Dimensionality Reduction 
+- Week 11: Clustering
 
 
 ## Data to explore
