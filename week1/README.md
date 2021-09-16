@@ -1,10 +1,11 @@
 # Colab and Python Notebooks
-- Introduction of Teaching Assistants.
+- Introductions
 - Link to the Moodle page of the course: https://moodle.unil.ch/course/view.php?id=17164
 - Everyone joins class Slack channel. We will use Slack for all communication in the class.
 - Brief intro how to use slack.
   - Exercise (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
-- Presentation of Assignment 0. You can find the full description of the assignment here. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the past year's submissions
+- Brief explanation of Assignment 0. You can find the full description of the assignment here. Note that this is an ungraded but __mandatory__ assignment. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the last year's submissions
+
 ## What we will cover in the lab
 
 - What are Python notebooks? 
@@ -12,9 +13,6 @@
 - What is [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)? (click on the link to review)
     - It is a Python notebook that runs on the cloud so you don't need to install anything on your PC. It runs on the browser.
     - Difference between Code and Text/Markdown: A Python notebook contains two types of cells. Today we will deal with the text/markdown part.
-- Shortcuts for entering code and markdown mode in Colab.
-    - Convert cell to code cell:	`Ctrl/Cmd M Y`
-    - Convert cell to text/markdown cell:	`Ctrl/Cmd M M`
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
     - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
     - Tables
