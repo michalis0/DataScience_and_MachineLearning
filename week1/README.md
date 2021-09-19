@@ -18,12 +18,12 @@
     - What is the difference between Code and Text/Markdown: a Python notebook contains two types of cells. Today we will deal with the text/markdown part.
     - You will need a free Google account to access Colab (if you do not already have one)
 
-## Additional ressources (optional)
+## Additional resources (optional)
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - Review [this](https://www.markdownguide.org/basic-syntax/) for markdown features or the shorter [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Autocomplete in Google Colab for code. When you write Python code in Colab it helps you "autocomplete" the code. Check out [this noteboook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
     
-## Python
+## Python [todo at home]
 Python will be the main programming language we will be using throughout this course. If you feel like you need to review some basics about Python, you can follow this [Python course](https://www.kaggle.com/learn/python) from Kaggle.
 
 
