@@ -27,11 +27,20 @@
 Python will be the main programming language we will be using throughout this course. If you feel like you need to review some basics about Python, you can follow this [Python course](https://www.kaggle.com/learn/python) from Kaggle.
 
 
-## Exercise
+## Exercises
 
-After you have become familiar with Colab you can do the following exercise:
+After you have become familiar with Colab you can do the following exercises:
+
+**Exercise 1:**
 
 1. Create your own brief CV/resumé using markdown in Colab. You can use [this example as a template](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/ExerciseQuickCV.ipynb). Download and save the notebook in your computer.
 2. Create your own GitHub account, then create a public repository and in it upload your notebook CV.
+
+**Exercise 2:** Recreate this in Colab.
+
+---
+
+![Exercise 2](/week1/Exercise2.png)
+
 
 
