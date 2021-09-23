@@ -7,7 +7,7 @@
   - Brief intro on how to use Slack. Everyone please join [the class Slack channel](https://join.slack.com/t/slack-yrv2725/shared_invite/zt-ul6jzzmd-S2LXimp4wBdKWARU_TFsTw). We will use Slack for all course-related communications outside the class & lab.
   - **Slack Exercise** (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
 - **[Walkthrough](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/Notebooks_Introduction.ipynb)**: introduction of Google Colab & Python Notebooks
-- Brief explanation of __Assignment 0__ due Sunday October 10, 23.59pm. You can find the full description of the assignment [here](https://moodle.unil.ch/mod/assign/view.php?id=841167). Note that this is a __mandatory__ assignment. To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the previous years' submissions.
+- Brief explanation of __Assignment 0__ due Sunday October 10, 23.59pm. You can find the full description of the assignment [here](https://moodle.unil.ch/mod/assign/view.php?id=841167). To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the previous years' submissions.
 
 ## What is covered in the [walkthrough](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/Notebooks_Introduction.ipynb)
 
