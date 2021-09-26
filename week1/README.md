@@ -9,7 +9,7 @@
 - **[Walkthrough](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/Notebooks_Introduction.ipynb)**: introduction of Google Colab & Python Notebooks
 - Brief explanation of __Assignment 0__ due Sunday October 10, 23.59pm. You can find the full description of the assignment [here](https://moodle.unil.ch/mod/assign/view.php?id=841167). To get an idea about this assignment, check out [this video](https://www.youtube.com/watch?v=dkX6whEGN1Y) from one of the previous years' submissions.
 
-## What is covered in the [walkthrough](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/Notebooks_Introduction.ipynb)
+## What is covered in the [walkthrough Notebooks_Introduction.ipynb](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week1/Notebooks_Introduction.ipynb)
 
 - What are Python notebooks? 
     - They are a complete narrative of code and comments that can render many HTML components, such as images, hyperlinks, videos, etc. The goal of a notebook is to demonstrate some code to explain some idea in the most engaging way possible.
