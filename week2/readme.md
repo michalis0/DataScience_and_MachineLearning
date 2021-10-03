@@ -19,7 +19,7 @@ In week 2 you will learn how to use [Pandas](https://pandas.pydata.org/), a fast
 
 - Follow [this notebook](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week2/Loading_Data_WebAPI.ipynb) to learn how to obtain data from a web api.
 
-- Complete all the walkthroughs and exercises in the "Selecting Subsets" folder. This is a more detailed presentation than during the lab. By going over these notebooks you will learn how to filter your dataframe by rows or columns and also how to select a subset of a dataframe. So make sure to do so, as these operations are very important in data analysis. (_Note that you should load the data with the raw links from Github if you want to run these notebook in colab_)
+- Complete all the walkthroughs and **exercises** in the [Selecting Subsets](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/week2/Selecting%20Subsets) folder. This is a more detailed presentation than during the lab. By going over these notebooks you will learn how to filter your dataframe by rows or columns and also how to select a subset of a dataframe. So make sure to do so, as these operations are very important in data analysis. (_Note that you should load the data with the raw links from Github if you want to run these notebook in colab_)
 
 - Complete these tutorials in Kaggle about [data cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values). 
 
