@@ -14,7 +14,7 @@ This week we are going to cover more advanced operations with pandas, mainly:
 ## To Do
 - The notebook ["EDA and Data visualization.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week3/EDA_and_Data_visualization.ipynb) presents two examples of EDA on real world datasets: New York city resturant inspections and vehicle collision data from New York Police Department.
 
-- Follow the notebook ["Advanced_Pandas.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week3/Advanced_Pandas_Operations_Aggregation.ipynb) to learn how to do more advanced aggregation in pandas.
+- Follow the notebook ["Advanced_Pandas_Operations_Aggregation.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week3/Advanced_Pandas_Operations_Aggregation.ipynb) to learn how to do more advanced aggregation in pandas.
 
 - The notebook ["Advanced_Pandas_Operations_Merge.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week3/Advanced_Pandas_Operations_Merge.ipynb) shows different ways of joining two datasets.
 
