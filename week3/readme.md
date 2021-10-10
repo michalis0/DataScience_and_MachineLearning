@@ -17,4 +17,4 @@ This week we are going to cover more advanced operations with Pandas, mainly:
 
 - You can test what you have learned by doing some [Exercises](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/week3/Exercises).
 
-- More detailed step-by-step tutorials [/Other_tuorials]
+- More detailed step-by-step tutorials [Other_tutorials](Other_tutorials)
