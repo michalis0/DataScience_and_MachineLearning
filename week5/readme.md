@@ -13,6 +13,6 @@ In this week's lab we are going to cover the following topics:
 
 
 ## To Do
-- Start with the notebook ["Ridge_Regression.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week4/Linear_Regression_Basics.ipynb#scrollTo=f7a_hEfThRmX). In this notebook, we try to predict the house prices using a linear model. This time, we will be using all of the features in the data and will learn how to preprocess the features and how to select a subset of features that can improve the regression score. We then train a ridge regression model and observe the effect of the regularization hyper-parameter.
+- Start with the notebook ["Ridge_Regression.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week5/Ridge_regression.ipynb). In this notebook, we try to predict the house prices using a linear model. This time, we will be using all of the features in the data and will learn how to preprocess the features and how to select a subset of features that can improve the regression score. We then train a ridge regression model and observe the effect of the regularization hyper-parameter.
 
 - Follow the notebook ["Linear_Regression_Deeper.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week4/Linear_Regression_Deeper.ipynb#scrollTo=1K6vWbOsh95y) to get a deeper understanding of the overfitting and generalisation concepts.
