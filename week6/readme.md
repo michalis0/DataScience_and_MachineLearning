@@ -11,4 +11,6 @@ In this week's lab we are going to cover the following topics:
 - Visualizing the decision boundary of a simple classifier
 
 ### To Do
-Follow the notebook "Classification_Logistic_Regession.ipynb" to learn how to build a complete classification pipeline from scratch.
+Follow the notebook [Classification_Logistic_Regession.ipynb](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week6/Classification_Logistic_Regression.ipynb) to learn how to build a complete classification pipeline from scratch.
+
+Have a look at the two exercise notebooks proposed to gain further insight.
