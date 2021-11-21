@@ -1,4 +1,4 @@
-# Text Analytics
+# Text Analytics 1
 
 In this week's lab we are going to cover the following topics:
 
