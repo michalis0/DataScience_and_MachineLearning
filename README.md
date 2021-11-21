@@ -12,7 +12,7 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 5: [Linear Regression 2](week5)
 - Week 6: [Classification 1 (Logistic Regression, Evaluation, Accuracy)](week6)
 - Week 7: [Classification 2 (kNN, Decision Trees)](week7)
-- Week 8: Text Analytics 1
+- Week 8: [Text Analytics 1](week8)
 - Week 9: Text Analytics 2
 - Week 10: Dimensionality Reduction 
 - Week 11: Clustering
