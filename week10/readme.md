@@ -8,4 +8,4 @@ In this week's lab we are going to cover the following topics:
 
 # Walkthrough
 
-Follow the notebook "Dimesionality_reduction.ipynb".
+Follow the notebook [Dimensionality_reduction.ipynb](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week10/Dimensionality_reduction.ipynb).
