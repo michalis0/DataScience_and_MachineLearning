@@ -6,4 +6,4 @@ In this week's lab we are going to cover the following:
 - Runtime complexity comparison of the two algorithms
 
 ### Walkthrough
-Follow the notebook "Clustering.ipynb".
+Follow the notebook ["Clustering.ipynb"](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week11/Clustering.ipynb).
