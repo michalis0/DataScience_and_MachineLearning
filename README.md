@@ -14,8 +14,8 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 7: [Classification 2 (kNN, Decision Trees)](week7)
 - Week 8: [Text Analytics 1](week8)
 - Week 9: [Text Analytics 2](week9)
-- Week 10:[Dimensionality Reduction](week10)
-- Week 11: Clustering
+- Week 10: [Dimensionality Reduction](week10)
+- Week 11: [Clustering](week11)
 
 
 ## Data to explore
