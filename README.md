@@ -19,7 +19,8 @@ This repository includes content for the "Data Mining and Machine Learning".
 
 
 ## Data to explore
-https://github.com/fivethirtyeight/data
+- [75 Public datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/)
+- https://github.com/fivethirtyeight/data
 
 ### Regression
 - [Appliance Energy Prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
