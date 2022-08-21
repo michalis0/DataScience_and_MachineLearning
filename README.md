@@ -19,6 +19,7 @@ This repository includes content for the "Data Mining and Machine Learning".
 
 
 ## Data to explore
+- [OpenML](https://www.openml.org/)
 - [75 Public datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/)
 - https://github.com/fivethirtyeight/data
 
