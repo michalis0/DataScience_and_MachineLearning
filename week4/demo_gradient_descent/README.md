@@ -1,1 +1,0 @@
-# 02 Linear Regression using Gradient Descent
