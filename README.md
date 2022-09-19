@@ -5,7 +5,7 @@
 
 This repository includes content for the "Data Mining and Machine Learning".
 
-- Week 1: [No Lecture](week1)
+- Week 1: [No Lecture]
 - Week 2: [Introduction to Python Notebooks and Google Colab](week2)
 - Week 3: [Python and Pandas](week3)
 - Week 4: [Pandas and Exploratory Data Analysis]
