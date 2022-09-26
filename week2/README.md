@@ -34,7 +34,7 @@ After you have become familiar with Colab you can do the following exercises:
 
 Create your own brief CV/resumé using markdown in Colab. You can use [this example as an idea to get you started](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/week2/quickCV). Create a new notebook in Colab, then download and save this new notebook in your computer.
 
-**Exercise 2:** Recreate [this](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week2/Exercise2.png) in Colab.
+**Exercise 2:** Recreate [this](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week2/week2_exercise2.png) in Colab.
 
 ![Exercise 2](/week2/week2_exercise2.png)
 
