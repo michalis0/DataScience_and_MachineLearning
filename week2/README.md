@@ -36,7 +36,19 @@ Create your own brief CV/resumé using markdown in Colab. You can use [this exam
 
 **Exercise 2:** Recreate [this](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week2/week2_exercise2.png) in Colab.
 
-![Exercise 2](/week2/week2_exercise2.png)
+
+**Exercise 3 - Pandas (if time allows):**
+
+Create a notebook in Colab and do the following tasks:
+- Create a Pandas dataframe with data downloaded from [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD). You need to download the data directly on python.
+- Visualize the first rows of the dataset. Then, the last ones.
+- Get a quick overview of descriptive statistics of the data 
+- Print the data types of the features
+- Convert the "SCORE" feature to numeric type
+- Plot an histogram of all the features
+- Print the most common values in the "DBA" column
+
+
 
 ---
 
