@@ -38,7 +38,7 @@
 * Computer
     * Programming: R, Python, C++
 * Languages
-    * English, French, Spanish, German and Italian 
+    * English, French, Spanish, German and Chinese 
 ---
 ## Hobbies
 
