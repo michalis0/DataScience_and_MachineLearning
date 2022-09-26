@@ -36,7 +36,7 @@ Create your own brief CV/resumé using markdown in Colab. You can use [this exam
 
 **Exercise 2:** Recreate [this](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week2/Exercise2.png) in Colab.
 
-![Exercise 2](/week2/Exercise2.png)
+![Exercise 2](/week2/week2_exercise2.png)
 
 ---
 
