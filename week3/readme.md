@@ -33,4 +33,4 @@ For next week, you should be familiar with:
 - all the functions present in the exercises
 - all the functions in the [Data Cleaning in Pandas Summary Sheet](DataCleaning%20in%20Pandas%20Summary.pdf)
 
-Also, work on the [assignment](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/Assignment/Assignment_Q1_to_Q3_2022)! Overall, it will require some time, so you shoud start asap.
+**Also, work on the [assignment](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/Assignment/Assignment_Q1_to_Q3_2022)! Overall, it will require some time, so you shoud start asap.**
