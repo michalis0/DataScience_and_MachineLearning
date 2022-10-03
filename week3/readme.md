@@ -29,6 +29,7 @@ We will also quickly explain the assignment question 1 to 3 and how to clone a r
 
 ## To Do For Next Week:
 See all the above points under "To do [at home]"
+
 For next week, you should be familiar with:
 - all the pandas functions we have seen during the labs 
 - all the functions present in the exercises
