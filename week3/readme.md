@@ -3,7 +3,7 @@ This week you will learn how to use [Pandas](https://pandas.pydata.org/), a fast
 We will also quickly explain the assignment question 1 to 3 and how to clone a repository. 
 
 ## Lab structure
-- Explanation of the Assignment question 1 to 3: 
+- Explanation of the [Assignment question 1 to 3](https://github.com/michalis0/DataMining_and_MachineLearning/tree/master/Assignment/Assignment_Q1_to_Q3_2022): 
    - The question 1 to 3 are released and are available in Moodle. 
 - Explanation on how to clone a repository from Git by using "GitHub desktop".
 - 2 walkthroughs including a couple of practical exercises:
