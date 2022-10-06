@@ -1,5 +1,7 @@
 # Assignment DMML course, questions 1 to 3.
 
+**DEADLINE: Oct 23 @23.59 (Lausanne Time)**
+
 Instructions:
 - Click on the file "Assignment_Q1_to_Q3_2022.ipynb" in Github. 
 - Click the "Open in Colab" button
