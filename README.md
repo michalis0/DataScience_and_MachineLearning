@@ -8,7 +8,7 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 1: [No Lecture]
 - Week 2: [Introduction to Python Notebooks and Google Colab](week2)
 - Week 3: [Python and Pandas](week3)
-- Week 4: [Pandas and Exploratory Data Analysis]
+- Week 4: [Pandas and Exploratory Data Analysis](week4)
 - Week 5: [Linear Regression]
 - Week 6: [Classification 1 (Logistic Regression, Evaluation, Accuracy)]
 - Week 7: [Classification 2 (kNN, Decision Trees)]
