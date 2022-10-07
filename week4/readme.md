@@ -9,7 +9,7 @@ This week we are going to cover more advanced operations with Pandas, mainly:
 
 - Aggregating data with Pandas: The notebook ["Advanced_Pandas_Operations_Aggregation.ipynb"](Advanced_Pandas_Operations_Aggregation.ipynb)
 
-- Joining or merging two datasets: The notebook ["Advanced_Pandas_Operations_Merge.ipynb"](Advanced_Pandas_Operations_Merge.ipynb)
+- Joining or merging two datasets: The notebook ["Advanced_Pandas_Operations_Merge.ipynb"](Advanced_Pandas_Operations_Merge.ipynb) or [(direct link)](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week4/EDA_and_Data_visualization.ipynb)
 
 ## To Do at Home
 
