@@ -5,11 +5,11 @@ This week, we are going to learnhow to do Exploratory Data Analysis (EDA) which 
 ## Walk-throughs we will cover
 This week we are going to cover more advanced operations with Pandas, mainly:
 
-- Visualizing statistical features of a dataset: The notebook ["EDA and Data visualization.ipynb"](EDA_and_Data_visualization.ipynb)
+- Visualizing statistical features of a dataset: The notebook ["EDA and Data visualization.ipynb"](EDA_and_Data_visualization.ipynb) or [(direct link)](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week4/EDA_and_Data_visualization.ipynb)
 
 - Aggregating data with Pandas: The notebook ["Advanced_Pandas_Operations_Aggregation.ipynb"](Advanced_Pandas_Operations_Aggregation.ipynb)
 
-- Joining or merging two datasets: The notebook ["Advanced_Pandas_Operations_Merge.ipynb"](Advanced_Pandas_Operations_Merge.ipynb) or [(direct link)](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week4/EDA_and_Data_visualization.ipynb)
+- Joining or merging two datasets: The notebook ["Advanced_Pandas_Operations_Merge.ipynb"](Advanced_Pandas_Operations_Merge.ipynb) 
 
 ## To Do at Home
 
