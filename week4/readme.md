@@ -13,8 +13,10 @@ This week we are going to cover more advanced operations with Pandas, mainly:
 
 ## To Do at Home
 
+There's A LOT of useful material in this week's folder! Make sure to check everything.
+
 - More advanced visualization (e.g, Maps): The notebook ["More_Visualization.ipynb"](More_Visualization.ipynb) shows examples of plotting maps with Pandas.
 
-- You can test what you have learned by doing some [Exercises](Exercises).
+- Test what you have learned by doing some [Exercises](Exercises).
 
 - More detailed step-by-step tutorials [Other_tutorials](Other_tutorials)
