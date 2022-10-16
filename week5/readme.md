@@ -9,6 +9,6 @@ In this week's lab we are going to cover the following topics:
 
 ## To Do
 
-- Fill in the notebook "regression_students.ipynb" as an exercise to test your skills in solving a linear regression problem.
+- Fill in the notebook "regression_houses.ipynb" as an exercise to test your skills in solving a linear regression problem.
 - 
-- If you're interested in the implementation from scratch of Gradient Descent, you can use the notebook ["Linear_Regression_Derivation.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week5/Linear_Regression_Derivation.ipynb) (Optional material)
+- If you're interested in the implementation from scratch of Gradient Descent and its functioning, you can use the notebook ["Linear_Regression_Derivation.ipynb"](https://colab.research.google.com/github/michalis0/DataMining_and_MachineLearning/blob/master/week5/Linear_Regression_Derivation.ipynb) and the Demo of Gradient Descent (Optional material but supa dupa interesting!)
