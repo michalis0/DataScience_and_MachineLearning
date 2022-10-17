@@ -9,7 +9,7 @@ In this week's lab we are going to cover the following topics:
 
 Plan of the day:
 - Walkthrough of the slides "Regression_tips_and_tricks.pdf"
-- Exercise "regression_houses.ipynb"
+- Exercise ["regression_exercise.ipynb"](regression_exercise.ipynb)
 - Individual work on the assignment
 
 
