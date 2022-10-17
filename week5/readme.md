@@ -8,7 +8,7 @@ In this week's lab we are going to cover the following topics:
 - What's adjusted R^2 
 
 Plan of the day:
-- Walkthrough of the slides ["Regression tips and tricks.pdf"](Regression tips and tricks.pdf)
+- Walkthrough of the slides "Regression tips and tricks.pdf"
 - Exercise ["regression_exercise.ipynb"](regression_exercise.ipynb)
 - Individual work on the assignment
 
