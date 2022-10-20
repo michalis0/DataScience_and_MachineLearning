@@ -8,7 +8,7 @@ In this week's lab we are going to cover the following topics:
 - Train and test accuracy to evaluate a classification model
 - Precision and Recall, a metric which shows how good our model is in predicting a class label
 - Confusion matrix
-- Visualizing the decision boundary of a simple classifier
+
 
 Some points will be pretty useful for the second part of the assignment. 
 
