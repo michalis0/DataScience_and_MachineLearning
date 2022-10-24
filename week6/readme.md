@@ -13,6 +13,6 @@ In this week's lab we are going to cover the following topics:
 Some points will be pretty useful for the second part of the assignment. 
 
 ### To Do
-Follow the notebook [Classification_Logistic_Regession.ipynb]() to learn how to build a complete classification pipeline from scratch.
+Follow the notebook [Classification_Logistic_Regession.ipynb](Classification_Logistic_Regression.ipynb) to learn how to build a complete classification pipeline from scratch.
 
 Have a look at the two exercise notebooks proposed to gain further insight.
