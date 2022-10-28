@@ -16,7 +16,7 @@ Follow the notebook [Classification_2.ipynb](https://github.com/michalis0/DataMi
 - Upload the dataset iris by using iris = datasets.load_iris()
 - Have a look at the data and do some cleaning, if needed
 - Classify the points with KNN, finding the optimal value for k
-- Classify the points with Decision Trees as well.
+- Classify the points with Decision Trees as well, finding the optimal depth of the tree.
 - Which algorithm provided the best accuracy?
 
 
