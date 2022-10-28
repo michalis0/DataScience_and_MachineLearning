@@ -11,7 +11,7 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 4: [Pandas and Exploratory Data Analysis](week4)
 - Week 5: [Linear Regression](week5)
 - Week 6: [Classification 1 (Logistic Regression, Evaluation, Accuracy)](week6)
-- Week 7: [Classification 2 (kNN, Decision Trees)]
+- Week 7: [Classification 2 (kNN, Decision Trees)](week7)
 - Week 8: [No Lecture] 
 - Week 9: [Recommender Systems]
 - Week 10: [Text Analytics]
