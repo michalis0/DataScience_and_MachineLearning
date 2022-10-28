@@ -11,6 +11,15 @@ In this week's lab we are going to cover the following topics:
 ### Walkthrough
 Follow the notebook [Classification_2.ipynb](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week7/Classification_2.ipynb).
 
+### Exercise (freestyle)
+- Create a new notebook 
+- Upload the dataset iris by using iris = datasets.load_iris()
+- Have a look at the data and do some cleaning, if needed
+- Classify the points with KNN, finding the optimal value for k
+- Classify the points with Decision Trees as well.
+- Which algorithm provided the best accuracy?
+
+
 ### To do at home
 Check out an easy exercise at the end of the walkthrough notebook.
 
