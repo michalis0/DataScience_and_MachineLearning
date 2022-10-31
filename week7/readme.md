@@ -7,6 +7,7 @@ In this week's lab we are going to cover the following topics:
 - Drug classification using KNN and Decision Trees
 - Tuning hyperparameters with GridSearch
 - Using ColumnTransformer to apply normalisation only to some columns
+- Quick reminder/overview on [ROC curve](ROC_AUC.pdf)
 
 ### Walkthrough
 Follow the notebook [Classification_2.ipynb](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week7/Classification_2.ipynb).
