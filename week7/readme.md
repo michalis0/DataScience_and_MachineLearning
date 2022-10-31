@@ -24,8 +24,7 @@ Follow the notebook [Classification_2.ipynb](https://github.com/michalis0/DataMi
 ### To do at home
 Check out an easy exercise at the end of the walkthrough notebook.
 
-### Other interesting material
-https://www.kaggle.com/code/kashnitsky/topic-3-decision-trees-and-knn/notebook
-
+### Other interesting material
+- https://www.kaggle.com/code/kashnitsky/topic-3-decision-trees-and-knn/notebook
 - More on ROC curve in the book "Hands-on Machine Learning
 with Scikit-Learn, Keras & TensorFlow" from Aurélien Géron, pp. 97-100
