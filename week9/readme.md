@@ -12,3 +12,13 @@ Follow the notebook "Text_Analytics.ipynb". Sentiment analysis.
 
 ### Exercise
 Download an ready-made classifier for sentiment from Huggingface and compare it's accuracy and F1-score to the classifier you built in the walkthrough (for the same data). Which one is better and by how much?
+
+### Project presentation
+Project and kaggle competition. 20% of your project grade will depend on your rank at the kaggle competition.
+
+> 20% Kaggle Rank
+> 50% code quality (using classes, documentation, etc)
+> 30% github quality + video quality.
+
+Your focus should be on winning kaggle rather than producing a super-perfect video.
+The winning team will receive some goodies in the last lecture. (picture to be attached!)
