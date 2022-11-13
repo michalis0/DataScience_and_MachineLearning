@@ -12,6 +12,7 @@ Follow the notebook ["Text_Analytics.ipynb"](Text_Analytics.ipynb). Sentiment an
 
 ### Exercise
 Download an ready-made classifier for sentiment from Huggingface and compare it's accuracy and F1-score to the classifier you built in the walkthrough (for the same data). Which one is better and by how much?
+
 Link : [https://huggingface.co/blog/sentiment-analysis-python](https://huggingface.co/blog/sentiment-analysis-python)
 
 - Notebook [Text_Similarity.ipynb](Text_Similarity.ipynb)
