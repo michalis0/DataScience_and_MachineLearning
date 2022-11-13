@@ -8,10 +8,14 @@ In this week's lab we are going to cover the following topics:
 - An example of Text Classification
 
 ### Walkthrough
-Follow the notebook "Text_Analytics.ipynb". Sentiment analysis.
+Follow the notebook ["Text_Analytics.ipynb"](Text_Analytics.ipynb). Sentiment analysis.
 
 ### Exercise
 Download an ready-made classifier for sentiment from Huggingface and compare it's accuracy and F1-score to the classifier you built in the walkthrough (for the same data). Which one is better and by how much?
+Link : [https://huggingface.co/blog/sentiment-analysis-python](https://huggingface.co/blog/sentiment-analysis-python)
+
+- Notebook [Text_Similarity.ipynb](Text_Similarity.ipynb)
+- If we have enough time, this is notebook [Tokenization_stemming_lemmatization.ipynb](Tokenization_stemming_lemmatization.ipynb) is good to train again tokenization stemming and lemmatization.
 
 ### Project presentation
 Project and kaggle competition. 20% of your project grade will depend on your rank at the kaggle competition.
