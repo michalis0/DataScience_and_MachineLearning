@@ -1,4 +1,4 @@
-# Text Analytics 2 lala
+# Text Analytics 2 lala is not a music class
 
 In this week's lab we are going to cover the following topics:
 - How to push and pull with Github desktop & how to solve a conflict 
