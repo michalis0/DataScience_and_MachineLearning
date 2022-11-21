@@ -8,7 +8,7 @@ In this week's lab we are going to cover the following topics:
 - Sample submission on Kaggle for the competition 
 
 
-### To Do In fact this is not for today 
+### To Do
 - Follow the tutorial from kaggle on word embeddings: https://www.kaggle.com/matleonard/word-vectors
 - Follow the notebook ["Text_Analytics_2.ipynb"](Text_Analytics_2.ipynb).
 - Sample submission on Kaggle 
