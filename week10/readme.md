@@ -1,4 +1,4 @@
-# Text analytics 2
+# Text analytics 2 roberto
 
 In this week's lab we are going to cover the following topics:
 - How to push and pull with Github desktop & how to solve a conflict 
