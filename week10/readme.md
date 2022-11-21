@@ -10,5 +10,5 @@ In this week's lab we are going to cover the following topics:
 
 ### To Do
 - Follow the tutorial from kaggle on word embeddings: https://www.kaggle.com/matleonard/word-vectors
-- Follow the notebook "Text_Analytics_2.ipynb".
+- Follow the notebook ["Text_Analytics_2.ipynb"](Text_Analytics_2.ipynb).
 - Sample submission on Kaggle 
