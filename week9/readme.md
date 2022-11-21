@@ -26,4 +26,4 @@ Project and kaggle competition. 20% of your project grade will depend on your ra
 - 30% github quality (15%) + video quality (15%).
 
 Your focus should be on winning kaggle rather than producing a super-perfect video.
-The winning team will receive some goodies in the last lecture. (picture to be attached!)
+The winning team will receive some goodies in the last lecture.
