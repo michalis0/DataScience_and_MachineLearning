@@ -1,7 +1,7 @@
 # Neural Networks 
 
 In this week's lab we are going to cover the following topics:
-- building a regression model using Pytorch 
+- building a regression model using Pytorch : [Pytorch_regression.ipynb](Pytorch_regression.ipynb)
 
 
 ### To Do
