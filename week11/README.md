@@ -1,7 +1,7 @@
 # Neural Networks 
 
 In this week's lab we are going to cover the following topics:
-- talking about Tensors from PyTorch : https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
+- talking about Tensors from PyTorch : [link](https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html)
 - building a regression model using Pytorch : [Pytorch_regression.ipynb](Pytorch_regression.ipynb)
 
 
