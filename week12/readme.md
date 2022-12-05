@@ -3,7 +3,7 @@
 
 In this week's lab we are going to cover the following topics:
 - Example of a well-structured git repository (Useful for your project!)
-- Introduction to Classes (and Objects) in python (Useful for your project!)
+- Introduction to Classes (and Objects) in python (Useful for your project!) 
 - Dimensionality reduction 
 
 # Dimensionality Reduction (if time allows)
@@ -15,7 +15,7 @@ In this week's lab we are going to cover the following topics:
 
 # Walkthrough
 
-- Follow the notebook on class example in python
+- Follow the [notebook on class example in python](use_of_Classes.ipynb)
 - Follow the notebook [Dimensionality_reduction.ipynb](Dimensionality_reduction.ipynb).
 
 # Additional resources 
