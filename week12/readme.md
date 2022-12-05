@@ -2,8 +2,8 @@
 # Today's lab 
 
 In this week's lab we are going to cover the following topics:
-- Introduction to Classes (and Objects) in python 
 - Example of a well-structured git repository (Useful for your project!)
+- Introduction to Classes (and Objects) in python (Useful for your project!)
 - Dimensionality reduction 
 
 # Dimensionality Reduction (if time allows)
