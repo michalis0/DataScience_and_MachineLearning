@@ -17,7 +17,7 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 10: [Text Analytics 2](week10)
 - Week 11: [Neural Networks](week11)
 - Week 12: [Dimensionality Reduction](week12)
-- Week 13: [Clustering]
+- Week 13: [Clustering](week13)
 
 
 
