@@ -9,4 +9,4 @@ In this week's lab we are going to cover the following:
 Follow the notebook ["Clustering.ipynb"](Clustering.ipynb).
 
 ### To Do 
-- exercise on clustering 
+- [exercise on clustering](k_means_clustering_practice_text.ipynb) 
