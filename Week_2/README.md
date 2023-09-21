@@ -20,7 +20,7 @@
     
 ## Just for those that need to catch up!
  - Review [Python](https://www.kaggle.com/learn/python)
- - Review [Pandas](https://www.kaggle.com/learn/pandas)
+ - Review [Pandas](https://www.kaggle.com/learn/pandas) or [here](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Pandas%20and%20Python/walkthroughs/02_1_Selecting_Subsets_with_%5B_%5D%2C_loc_and_iloc.ipynb) for even more basic steps.
  - Review [Visualization with Python](https://www.kaggle.com/learn/data-visualization)
 
 
