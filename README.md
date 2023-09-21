@@ -1,7 +1,7 @@
 # Data Science and Machine Learning 
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/))
+**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
 
 This repository includes content for the "Data Mining and Machine Learning".
 
