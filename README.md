@@ -1,24 +1,14 @@
 # Data Science and Machine Learning 
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
+**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/))
 
 This repository includes content for the "Data Mining and Machine Learning".
 
 - Week 1: [No Lecture]
-- Week 2: [Introduction to Python Notebooks and Google Colab](week2)
-- Week 3: [Python and Pandas](week3)
-- Week 4: [Pandas and Exploratory Data Analysis](week4)
-- Week 5: [Linear Regression](week5)
-- Week 6: [Classification 1 (Logistic Regression, Evaluation, Accuracy)](week6)
-- Week 7: [Classification 2 (kNN, Decision Trees)](week7)
-- Week 8: [No Lecture] 
-- Week 9: [Text Analytics](week9)
-- Week 10: [Text Analytics 2](week10)
-- Week 11: [Neural Networks](week11)
-- Week 12: [Dimensionality Reduction](week12)
-- Week 13: [Clustering](week13)
-
+- Week 2: [Review: Google Colab/Pandas/Visualization](Week_2)
+- Week 3: [Regression](Week_3)
+- Week 4: [Classification](Week_4)
 
 
 ## Data to explore
