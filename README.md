@@ -1,4 +1,4 @@
-8# Data Science and Machine Learning 
+# Data Science and Machine Learning 
 ## University of Lausanne, HEC
 
 **Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
