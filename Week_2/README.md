@@ -8,7 +8,7 @@
   - **Slack Exercise** (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
 - **[Walkthrough](https://github.com/michalis0/DataScience_and_MachineLearning/blob/master/Week_2/Week_2.ipynb)**: introduction of Google Colab, Pandas & Data visualization.
 
-## What is will learn 
+## What you will learn 
 - Review of Google Colab
 - Basic operations with pandas
 - Data visualization with pandas 
