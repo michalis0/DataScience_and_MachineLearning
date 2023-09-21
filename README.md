@@ -3,7 +3,7 @@
 
 **Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
 
-This repository includes content for the "Data Mining and Machine Learning".
+This repository includes content for the "Data Science and Machine Learning".
 
 - Week 1: [No Lecture]
 - Week 2: [Review: Google Colab/Pandas/Visualization](Week_2)
