@@ -10,7 +10,7 @@ This repository includes content for the "Data Science and Machine Learning".
 - Week 3: [Regression](Week_3)
 - Week 4: [Classification](Week_4)
 - Week 5: [Neural Networks](Week_5)
-- Week 6: [Neural Networks](Week_6)
+- Week 6: [Text Analytics](Week_6)
 - Week 7: [Internet of Things](Week_7)
 - Week 8: [No Lecture]
 - Week 9: [Gen AI](Week_9)
