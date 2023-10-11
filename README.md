@@ -25,7 +25,7 @@ This repository includes content for the "Data Science and Machine Learning".
 - [OpenML](https://www.openml.org/)
 - [75 Public datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/)
 - https://github.com/fivethirtyeight/data
-- [Kaggle](https://www.kaggle.com)
+- [Kaggle](https://www.kaggle.com/datasets)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [Data.gov](https://www.data.gov)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
