@@ -1,958 +1,958 @@
-,UserID,first_name,last_name,birthday,country,marital_status,number_of_kids,employment
-0,317991,Lu***,Al*****,29.07.03,AR,1,2,Web Designer
-1,241892,Ma****,Ro*******,10.11.99,AR,1,0,Banker
-2,303376,Fr****,Ac****,25.07.84,AR,1,0,Kitchen staff
-3,761992,Fr****,Go***,20.03.70,AR,1,0,Teaching Assistant
-4,373318,Jo***,Ro***,05.10.71,AR,1,0,Administrative employee
-5,938770,Ri*****,Ro***,16.12.59,AR,1,1,Professor
-6,676003,Cr******,Ro*******,24.07.67,AR,0,0,Lawyer
-7,169743,Li*****,Fe*******,19.09.68,AR,0,,Doctor
-8,255073,Al****,Ga****,06.09.98,AR,0,2,Manager
-9,468560,Ga******,Fe*******,18.04.60,AR,1,2,Lawyer
-10,263592,Ni*****,Sa*****,03.10.01,AR,1,2,Banker
-11,437022,Ga******,Ro*******,24.04.98,AR,0,,Teaching Assistant
-12,189915,Ma*****,na*,22.08.73,AR,0,,Web Designer
-13,660506,Ju**,Go***,30.11.04,AR,1,3,Librarian
-14,302708,Ed*****,Fl****,08.11.04,AR,1,,Doctor
-15,244162,Di***,Be*****,14.09.62,AR,1,0,Lawyer
-16,774730,Se****,To****,06.09.76,AR,0,3,Web Designer
-17,892754,Ro**,Go******,12.04.96,AR,,4,Consultant
-18,100684,Ma*****,Me****,17.06.76,AR,,0,Administrative employee
-18,100684,Ma*****,Me****,17.06.76,AR,,0,Administrative employee
-19,911014,Ma*****,Me****,19.05.57,AR,1,1,Banker
-20,601633,Ad*****,Lo***,18.09.79,AR,1,4,Banker
-21,645054,Su*****,Ed**,10.04.57,AT,0,0,Professor
-22,944932,Ka*******,Hu***,04.09.58,AT,,2,Web Designer
-23,255830,Ch*******,Be****,26.12.59,AT,1,1,Professor
-24,353527,Mo****,Mü****,17.05.56,AT,1,1,Teaching Assistant
-25,930234,Su*****,Ba***,09.04.72,AT,0,,Banker
-26,531937,Sa*****,Fu***,30.03.95,AT,0,2,Teaching Assistant
-27,413250,Ma*****,Ma***,27.04.87,AT,0,0,Lawyer
-28,601958,Ma*****,Sc*******,01.06.58,AT,1,2,Librarian
-29,717019,Ch*******,Ed**,28.01.95,AT,,2,Administrative employee
-30,596063,Ka*******,Fu***,05.04.72,AT,1,1,Teaching Assistant
-31,308658,Br******,St*****,23.07.89,AT,1,,Administrative employee
-32,744938,Ch*******,Le*****,27.03.52,AT,0,,Web Designer
-33,764821,So***,Ed**,25.06.57,AT,0,4,Consultant
-34,499175,El*******,Fu***,18.11.73,AT,1,,Kitchen staff
-35,291994,Pe***,Le*****,04.02.69,AT,,1,Consultant
-36,880689,Do*****,Ba***,05.10.53,AT,1,0,Professor
-37,919502,Ma*****,Ba***,27.01.81,AT,1,,Banker
-38,340001,Wo******,Pi*****,22.11.00,AT,1,4,Banker
-39,512604,Me******,Qu*****,12.02.75,AZ,0,0,Teaching Assistant
-40,165305,Ka****,Ag****,14.08.70,AZ,0,0,Librarian
-41,334769,Gu***,El*****,24.06.90,AZ,0,0,Banker
-42,564061,Em**,Al*****,29.03.99,AZ,1,3,Web Designer
-43,678161,Se***,Ag****,06.12.95,AZ,0,,Librarian
-44,569587,Gu****,Qa*****,03.07.79,AZ,0,,Manager
-45,848523,Gu***,Ba******,02.12.91,AZ,,4,Teaching Assistant
-46,910382,Ni***,El****,21.03.75,AZ,,0,Administrative employee
-47,794398,Ay***,Qu******,19.08.74,AZ,0,,Professor
-48,306495,Ra***,Is*******,12.12.85,AZ,0,0,Doctor
-49,647912,Se****,Ma*****,28.09.56,AZ,1,0,Lawyer
-50,946059,El***,Al*****,06.04.59,AZ,0,0,Manager
-51,917315,Nu***,Ab*****,02.10.55,AZ,1,0,Consultant
-52,716537,Fi***,Me*******,02.08.02,AZ,0,,Lawyer
-53,504629,Ay***,Ke*****,15.02.86,AZ,1,0,Banker
-54,872332,Ni***,El****,07.10.53,AZ,,1,Administrative employee
-55,520229,Fu**,Is*******,12.01.93,AZ,1,2,Doctor
-56,229860,Ke***,Ba*****,24.11.95,AZ,0,,Lawyer
-57,861915,Ay***,Al*****,26.02.78,AZ,0,1,Doctor
-58,308845,Az**,El*****,16.10.63,AZ,0,1,Librarian
-59,654987,Vu***,Me*******,11.02.54,AZ,1,4,Librarian
-60,398531,Ce****,Qa*****,05.06.63,AZ,1,0,Teaching Assistant
-61,560152,Ay***,Al*****,04.11.82,AZ,0,,Banker
-62,327507,Ra***,Qu******,03.01.93,AZ,0,0,Kitchen staff
-63,888670,Ay***,Hu******,06.06.03,AZ,0,1,Lawyer
-64,613185,Ke***,Ha*****,25.03.74,AZ,,1,Librarian
-65,604322,Gu***,Mu********,03.10.04,AZ,0,,Administrative employee
-66,597007,Na****,Is***,01.11.03,BD,,1,Banker
-67,595591,Ta*****,Kh**,12.04.81,BD,1,,Teaching Assistant
-68,561296,Jo*,Sa**,14.05.65,BD,,,Consultant
-69,449514,Ab******,Ha***,29.10.02,BD,1,2,Web Designer
-70,819045,Ha***,Ra****,16.06.56,BD,1,1,Web Designer
-71,899768,Is***,Sa**,22.12.52,BD,1,0,Librarian
-72,251233,Sh*****,Ma****,16.03.88,BD,1,0,Doctor
-73,470030,Ka**,Ha***,24.07.67,BD,,4,Manager
-74,511852,Ha***,Mi**,25.11.83,BD,,0,Manager
-75,344946,Ay****,Bi****,06.12.02,BD,1,0,Lawyer
-76,932285,Nu****,Is***,14.11.79,BD,1,3,Professor
-77,169664,Ja****,Is***,12.07.04,BD,1,0,Administrative employee
-78,226545,Ru***,Ho*****,04.04.60,BD,,0,Doctor
-79,534300,Ch*****,Du****,26.10.66,BE,,0,Kitchen staff
-80,275629,An*,Ja****,17.09.77,BE,,2,Teaching Assistant
-81,265615,Er**,La*****,13.03.67,BE,1,2,Web Designer
-82,867078,Lu*,Ja****,19.04.94,BE,0,2,Web Designer
-83,618568,Do*******,Wo*****,16.06.69,BE,0,1,Professor
-84,728073,Ni*****,Ae***,16.04.75,BE,,0,Banker
-85,512128,Ci***,Me*****,29.05.69,BE,1,1,Librarian
-86,222875,Th****,Ae***,07.03.53,BE,0,1,Kitchen staff
-87,160212,Er**,Pe*****,27.04.81,BE,1,0,Manager
-88,627731,Ch*******,He*****,06.01.78,BE,,1,Lawyer
-89,466624,Al***,Go******,08.11.57,BE,0,3,Kitchen staff
-90,903438,Ma**,El,08.03.86,BE,1,4,Web Designer
-91,957997,Ch********,La*****,30.08.90,BE,0,3,Kitchen staff
-92,362662,Mi****,De*****,22.01.95,BE,0,1,Manager
-93,892546,So****,Wi*****,11.11.59,BE,0,0,Consultant
-94,777470,Ch********,Ve*******,23.05.83,BE,0,1,Administrative employee
-95,118722,Th****,Wo*****,12.02.57,BE,1,,Manager
-96,397912,Al***,Ve*******,16.06.97,BE,0,0,Teaching Assistant
-97,123562,So****,El,09.09.95,BE,0,0,Librarian
-98,939524,St****,Mi******,06.02.55,BE,0,3,Administrative employee
-99,387676,Ni****,Pa*****,19.08.79,BE,0,1,Doctor
-100,860681,So***,Ma**,10.04.63,BE,0,3,Banker
-101,789726,Ci***,Be*,23.09.51,BE,1,2,Kitchen staff
-102,167822,Pl****,Ni*****,14.04.66,BG,1,4,Administrative employee
-103,919782,Ge*****,Ge******,09.11.84,BG,,2,Librarian
-104,571370,Di*****,Ив*****,15.03.73,BG,1,0,Consultant
-105,752431,Kr******,Di*******,27.05.69,BG,1,,Librarian
-106,388211,Ga****,Di******,11.12.85,BG,0,,Administrative employee
-107,863210,Ni*****,Di*******,12.03.51,BG,0,0,Consultant
-108,717780,Hr******,Ге******,15.12.61,BG,1,0,Web Designer
-109,863592,Ne**,Di*******,14.08.99,BG,1,2,Doctor
-110,898254,Te*****,Iv****,07.02.56,BG,1,0,Kitchen staff
-111,243358,Ге****,Iv*****,24.12.57,BG,0,,Web Designer
-112,424603,Ni*****,Pe****,16.11.76,BG,1,2,Web Designer
-113,632973,Pe***,Ге*******,26.03.69,BG,1,0,Librarian
-114,142868,Си****,Pe****,30.06.67,BG,0,,Librarian
-115,599462,Та**,Ге*******,15.01.82,BG,0,0,Lawyer
-116,278850,Ca****,Na********,25.12.04,BR,,,Web Designer
-117,601265,El****,Lo***,26.03.61,BR,1,0,Web Designer
-118,402663,El****,Al*****,16.02.68,BR,1,3,Administrative employee
-119,226609,Ga*****,Ol******,22.03.82,BR,1,2,Kitchen staff
-120,790344,Fr*******,Al***,27.08.52,BR,0,0,Banker
-121,862416,Fr*******,Ri*****,01.07.65,BR,1,0,Librarian
-122,134514,Ma*****,Ma*****,27.06.62,BR,0,0,Manager
-123,615453,Lu**,Sa****,02.05.85,BR,,0,Web Designer
-124,177842,Jo**,Go***,15.08.51,BR,1,0,Kitchen staff
-125,551506,Br***,Fe******,09.04.61,BR,0,1,Web Designer
-126,933648,Pa***,Ol******,19.07.92,BR,0,,Lawyer
-127,365406,Fe****,Co***,06.02.79,BR,1,2,Manager
-128,825733,Al***,Ca******,23.04.94,BR,0,4,Teaching Assistant
-129,329574,Jo**,Ma*****,20.03.51,BR,0,,Web Designer
-130,220420,Ma*****,So****,23.12.84,BR,0,3,Web Designer
-131,927140,Da****,Si***,05.04.97,BR,1,0,Administrative employee
-132,881143,Jo**,Ca******,21.02.67,BR,,0,Lawyer
-133,805210,Ed*****,Pe*****,06.08.89,BR,,2,Kitchen staff
-134,596661,La*****,Co***,04.07.51,BR,1,2,Professor
-135,688784,Da****,So****,15.10.03,BR,0,3,Manager
-136,219047,Sa****,So***,11.01.73,BR,1,0,Kitchen staff
-137,154955,Ma****,Go***,05.03.02,BR,,,Teaching Assistant
-138,947999,Ch***,Gi**,14.05.03,CA,,1,Manager
-139,829946,Mi**,Sh****,07.12.56,CA,1,1,Web Designer
-140,732448,Ra****,Gi**,12.09.53,CA,,2,Kitchen staff
-141,463087,Li**,Pa***,19.06.04,CA,1,,Teaching Assistant
-142,242912,Am****,Si***,26.08.74,CA,0,0,Teaching Assistant
-143,443524,Mi**,Wa**,10.10.55,CA,0,1,Lawyer
-144,464891,Ry**,Sm***,29.09.53,CA,0,0,Banker
-145,501209,Ch*******,Ng****,17.04.03,CA,1,,Professor
-146,380835,Me*****,Ki*,03.09.77,CA,1,0,Administrative employee
-147,823355,Am****,Ch**,08.03.90,CA,1,1,Doctor
-148,456546,Su***,Gi**,24.02.54,CA,1,3,Banker
-149,790046,St*******,Sa****,15.03.83,CA,0,1,Manager
-150,932281,He*****,Ng****,09.04.89,CA,0,0,Web Designer
-151,538431,St*******,Br***,10.07.80,CA,1,2,Administrative employee
-152,297653,Br***,Wo**,22.09.68,CA,1,0,Lawyer
-153,206269,Ki*,Ki*,08.05.88,CA,0,1,Banker
-154,96336,Ma*****,Br***,27.04.82,CA,1,4,Consultant
-155,273453,Lu**,Ke****,15.07.98,CH,0,1,Professor
-156,112768,Do*******,Me***,28.05.95,CH,1,0,Banker
-157,785535,Ma**,St*****,05.01.95,CH,0,,Manager
-158,446376,Na****,Me***,29.12.63,CH,1,1,Web Designer
-159,205381,Ma**,Pe*****,28.01.75,CH,1,0,Kitchen staff
-160,614048,Ka***,Ro*******,12.01.69,CH,0,1,Administrative employee
-161,931353,Ma*****,Fe*******,09.10.96,CH,0,1,Administrative employee
-162,773737,Ja****,Me***,27.09.94,CH,1,0,Manager
-163,937775,Ch*******,Fe*******,14.02.51,CH,0,,Professor
-46,910382,Ni***,El****,21.03.75,AZ,,0,Administrative employee
-164,805237,Re**,St*****,11.08.02,CH,1,,Doctor
-165,793505,Ur*,Ol******,16.11.58,CH,0,3,Lawyer
-166,638693,Ro****,Ro*******,05.03.76,CH,,2,Consultant
-167,747112,Pa****,Kr******,17.12.89,CH,,2,Teaching Assistant
-168,419563,Be******,Mü****,22.10.86,CH,1,3,Manager
-169,299485,Br******,Da******,24.08.85,CH,0,0,Manager
-170,752845,Pa******,Ca******,28.11.54,CL,0,1,Doctor
-171,278360,Al*******,Ro***,10.05.83,CL,1,1,Teaching Assistant
-172,494514,Al*******,Ca****,02.04.79,CL,1,2,Consultant
-173,157584,Ce*****,Ca******,02.09.68,CL,0,,Kitchen staff
-174,153161,Pa******,Go******,08.08.71,CL,0,,Teaching Assistant
-175,571364,Ca****,Re***,07.02.85,CL,0,1,Manager
-176,303529,Ju**,Ca******,13.07.66,CL,0,0,Kitchen staff
-177,481237,Mi****,Es******,31.12.71,CL,,0,Web Designer
-178,796491,Mi****,Ro***,06.03.76,CL,0,2,Doctor
-179,938286,Ma****,So**,08.02.93,CL,,,Banker
-180,205775,Fr*******,Mu***,01.11.75,CL,1,0,Administrative employee
-181,133154,Ro**,Fu*****,22.09.68,CL,1,0,Banker
-182,658036,Al*******,Si***,14.08.83,CL,,2,Administrative employee
-183,182040,Al*******,Di**,28.08.68,CL,0,1,Manager
-184,425341,Mi****,Fl****,08.01.55,CL,1,0,Consultant
-185,375333,Ro**,Ca****,07.10.90,CL,,0,Banker
-186,778887,Fr*******,Di**,29.09.85,CL,0,3,Consultant
-187,583984,Mi****,Pe***,08.02.79,CO,0,0,Consultant
-188,892108,An*,Ji*****,16.06.87,CO,,,Doctor
-189,236456,Li*****,To****,07.07.62,CO,0,,Doctor
-190,539227,Se*******,Va****,29.03.92,CO,0,0,Web Designer
-191,564387,Li*****,Qu******,13.03.59,CO,1,0,Kitchen staff
-192,676494,Fe******,Di**,10.09.96,CO,1,2,Librarian
-193,430864,Fe******,Va******,08.03.80,CO,0,1,Professor
-194,899581,Ju**,Go******,12.10.60,CO,1,2,Professor
-195,541677,Cr******,Ro***,15.12.78,CO,,,Consultant
-196,240613,Ma****,Go***,19.08.63,CO,0,2,Professor
-197,475447,Gl****,Ro***,30.07.88,CO,0,,Kitchen staff
-198,859112,Ca****,Lo***,06.01.68,CO,0,2,Banker
-199,673755,Al*******,Va******,11.07.84,CO,1,,Administrative employee
-200,541833,Lu**,Ro***,20.06.78,CO,0,1,Lawyer
-201,126115,Cl*****,Ma******,02.11.89,CO,1,3,Kitchen staff
-202,839591,An****,Mu***,19.06.97,CO,0,0,Web Designer
-203,453712,An*,Ma******,18.03.59,CO,1,1,Professor
-204,544861,Os***,To****,14.08.55,CO,0,0,Teaching Assistant
-205,544078,Al*******,Lo***,17.11.96,CO,1,1,Teaching Assistant
-206,183509,An****,Mo**,19.10.63,CR,0,1,Doctor
-207,233165,Ma*****,He*******,08.01.55,CR,,2,Teaching Assistant
-208,259083,Ra****,Ar***,13.12.74,CR,1,1,Librarian
-209,512432,Ka****,Go******,17.02.01,CR,1,1,Kitchen staff
-210,935750,Sh*****,Sa*****,03.09.79,CR,,2,Kitchen staff
-211,874150,An***,Ro***,30.05.97,CR,1,2,Kitchen staff
-212,484182,Ka*******,Sa*****,24.05.02,CR,0,1,Professor
-213,745938,Ed***,Ra*****,13.08.94,CR,1,0,Administrative employee
-214,291359,Es*****,Ca******,04.01.70,CR,1,0,Consultant
-215,728010,Sh*****,Qu*****,11.08.50,CR,,,Teaching Assistant
-216,499672,Br***,Ag*****,25.06.92,CR,1,1,Manager
-217,336775,Ke*****,Qu*****,15.07.93,CR,1,,Consultant
-218,386207,Ma****,Ca****,23.11.57,CR,0,,Consultant
-219,757865,Al****,He*******,12.06.73,CR,0,1,Consultant
-220,744124,Ma****,Ca******,01.05.72,CR,1,0,Lawyer
-221,641947,Ma******,Ca****,24.04.91,CR,1,1,Consultant
-222,631749,Ma*****,Qu*****,23.11.77,CR,0,0,Manager
-223,306277,Ju*********,Es******,10.08.68,CR,0,1,Manager
-224,235799,Ma******,Ar***,01.12.76,CR,0,1,Manager
-225,710764,Ra*****,He*******,27.05.76,CR,0,4,Manager
-226,781819,Li***,Ar***,03.07.87,CR,1,1,Professor
-227,666304,Al****,Ca****,11.09.92,CR,1,2,Kitchen staff
-228,936933,Sh*****,Va****,12.12.00,CR,0,0,Teaching Assistant
-229,553754,Sh*****,Es******,27.05.66,CR,0,0,Librarian
-230,388481,Ma*****,Mo**,27.03.94,CR,,,Teaching Assistant
-231,549118,Ma******,Sa*****,12.02.69,CR,1,1,Lawyer
-232,700708,Ka****,Mo**,23.06.52,CR,0,1,Librarian
-233,817857,Ro***,Qu*****,25.10.83,CR,1,1,Administrative employee
-234,874839,Ca****,Qu*****,04.02.76,CR,1,0,Teaching Assistant
-235,693763,Ca****,So****,28.01.55,CR,0,0,Doctor
-236,370133,Pa***,Če***,21.02.69,CZ,,2,Administrative employee
-237,367673,Ve******,Pr*********,08.09.63,CZ,0,1,Lawyer
-238,619595,Zu****,No***,24.04.88,CZ,1,1,Lawyer
-239,752974,Mi****,No***,18.12.57,CZ,0,,Professor
-240,103928,Ma****,Pr*********,30.11.84,CZ,0,4,Banker
-241,830225,Ha**,Ve****,28.07.81,CZ,,2,Professor
-242,307584,Ka***,No***,21.05.91,CZ,,3,Professor
-243,245167,Lu***,No***,28.03.91,CZ,1,1,Banker
-244,893389,Kr******,Dv*******,21.08.85,CZ,0,1,Administrative employee
-245,199853,Le***,Če***,16.07.81,CZ,1,,Consultant
-246,397601,Ba*****,No***,06.12.98,CZ,0,0,Manager
-247,442794,Mi******,No*****,23.07.51,CZ,0,2,Consultant
-248,145612,Mo****,Ku******,13.10.72,CZ,1,,Professor
-249,949985,Ma***,Ma***,13.12.75,CZ,0,2,Professor
-250,954902,Ve******,Ma***,07.09.89,CZ,,1,Banker
-251,448389,Ke*****,Ne*****,01.07.55,DE,0,,Lawyer
-252,422134,Da****,Me***,31.01.02,DE,1,1,Consultant
-253,852073,He***,Ne*****,18.09.00,DE,0,4,Web Designer
-254,822072,Ma***,Sc******,15.06.99,DE,0,0,Lawyer
-255,628503,An**,Ne*****,03.04.67,DE,0,1,Banker
-256,102027,Pe***,Sc*****,08.04.64,DE,,,Teaching Assistant
-257,953342,Mo****,Sc****,07.03.68,DE,1,1,Lawyer
-258,397921,Su*****,Ri*****,03.06.01,DE,0,1,Professor
-259,927269,Th****,Be****,05.05.68,DE,0,4,Manager
-260,360869,An*****,Wa****,13.05.94,DE,0,,Doctor
-261,228819,Ju***,Kl***,05.08.75,DE,1,1,Librarian
-262,317639,He***,Ho******,15.09.94,DE,0,,Web Designer
-263,554189,Ki*,Mø****,15.01.60,DK,,0,Lawyer
-264,913560,Ma**,Ha****,21.11.63,DK,1,3,Lawyer
-265,648234,An****,Mø****,19.02.75,DK,0,2,Kitchen staff
-266,901061,Ra****,Jø*******,02.02.79,DK,1,,Professor
-267,294336,Ma**,Sø******,06.02.94,DK,0,2,Administrative employee
-268,943792,Je****,Kn*****,05.06.99,DK,1,3,Librarian
-269,267733,Sø***,Ma****,14.09.98,DK,0,0,Kitchen staff
-270,638192,An****,Mø****,28.06.89,DK,1,2,Manager
-271,353596,Ch*******,Ol***,24.07.71,DK,1,2,Teaching Assistant
-272,718820,Ha***,Jø*******,22.12.51,DK,0,,Administrative employee
-273,408523,Le**,Sø******,13.09.69,DK,,1,Professor
-274,610518,An*****,An******,15.02.53,DK,1,,Manager
-275,348465,Ch*******,Sø******,17.06.88,DK,0,,Administrative employee
-276,350035,Mi****,La****,19.08.53,DK,0,4,Teaching Assistant
-277,348955,Am***,Mi****,26.05.77,DZ,,4,Professor
-278,99437,Fa****,Ka***,02.02.98,DZ,0,,Web Designer
-279,570734,Yo****,ال*****,14.04.72,DZ,1,0,Web Designer
-280,743377,Am**,Mi****,04.10.85,DZ,0,1,Doctor
-281,605766,na*,Mi****,15.03.89,DZ,0,0,Manager
-282,957079,Br****,Ab***,23.01.60,DZ,0,3,Manager
-283,774151,Me****,Mo*,15.04.62,DZ,0,,Administrative employee
-284,150642,So****,Ch,15.06.87,DZ,1,0,Doctor
-285,356865,Br****,Ab***,06.03.79,DZ,1,3,Librarian
-286,621691,نو*,Ka***,24.12.57,DZ,1,2,Librarian
-287,888216,Sa**,Mc*,22.05.76,DZ,1,3,Administrative employee
-274,610518,An*****,An******,15.02.53,DK,1,,Manager
-288,210667,أم,Ma****,02.11.62,DZ,1,0,Web Designer
-289,794594,Mi**,Ch,01.01.95,DZ,1,2,Consultant
-290,524465,Ka***,Am***,28.03.57,DZ,1,4,Lawyer
-291,740078,Am**,Ab***,19.06.99,DZ,1,0,Librarian
-292,754702,An********,Sa**,13.03.57,EE,1,0,Librarian
-293,429697,Li**,Re****,28.07.59,EE,1,3,Administrative employee
-294,741709,Ta***,Ka****,22.03.51,EE,1,3,Administrative employee
-295,510420,Ал*****,Ki**,15.05.55,EE,1,0,Professor
-296,204180,Ma****,Ko****,22.11.93,EE,0,0,Administrative employee
-297,564884,Ka***,Li**,06.09.93,EE,0,2,Banker
-298,412064,Ол***,Se**,30.07.74,EE,0,0,Banker
-299,490146,Je*****,Ta**,16.09.93,EE,0,4,Librarian
-300,881695,Si**,Ka****,15.03.99,EE,0,1,Lawyer
-301,933156,Al*******,Pä**,29.01.81,EE,1,2,Manager
-302,264350,To****,Sm******,18.03.70,EE,1,,Consultant
-303,433741,Ma****,Le***,30.05.70,EE,,4,Kitchen staff
-304,107841,An****,Re****,17.10.78,EE,1,0,Banker
-305,416507,Ан****,Il***,22.09.64,EE,1,1,Teaching Assistant
-306,649580,Kr****,Lu**,03.05.94,EE,0,,Kitchen staff
-307,441791,An****,Sm******,20.10.57,EE,0,1,Consultant
-308,565225,Al*****,Mä**,08.05.72,EE,1,0,Web Designer
-309,303568,An********,Ka**,09.10.68,EE,0,2,Banker
-310,427007,Ta*****,Sa**,26.01.02,EE,1,,Manager
-311,220240,Ал*****,Ko****,11.03.59,EE,0,,Lawyer
-312,304619,Dm****,Me**,24.05.85,EE,1,0,Banker
-313,866911,Ал*******,Mä**,31.07.85,EE,1,1,Banker
-314,452474,An****,Ta**,17.08.88,EE,0,,Manager
-315,168991,Ан****,Sm******,14.06.96,EE,0,2,Kitchen staff
-316,649442,Si**,Me**,09.03.03,EE,1,1,Librarian
-317,661915,Ma****,Ku**,28.04.85,EE,0,,Consultant
-318,754989,Ta*****,Mä**,03.01.95,EE,0,1,Banker
-319,809676,Li***,Oj*,04.11.50,EE,0,,Consultant
-320,779759,Ti***,Ka****,17.05.65,EE,,1,Manager
-321,937535,To****,Sm******,26.09.55,EE,1,0,Professor
-322,376743,An*****,He*******,04.12.73,ES,1,0,Kitchen staff
-323,767527,Ma***,Pe***,04.08.94,ES,0,0,Consultant
-324,225178,Al*****,Ga****,08.03.51,ES,0,0,Web Designer
-325,519735,Is****,Ga****,21.08.97,ES,1,4,Banker
-326,569511,So***,Go***,30.11.04,ES,,3,Banker
-327,953642,Da***,Mu***,29.12.99,ES,0,0,Teaching Assistant
-328,125746,An*,Go******,14.01.72,ES,1,3,Professor
-329,623880,Is****,Ga****,08.01.87,ES,0,1,Banker
-330,644096,Ro***,Ru**,13.11.62,ES,,3,Consultant
-331,494223,Mi****,Lo***,22.07.67,ES,1,,Banker
-332,720728,Ja****,Ma****,09.07.67,ES,0,0,Manager
-333,836925,Sa**,Di**,20.01.76,ES,0,0,Doctor
-334,538463,Ni**,Sa**,30.10.53,FI,1,,Teaching Assistant
-335,283140,Ja***,Mä*****,28.10.80,FI,,1,Manager
-336,449172,He***,Mä*****,04.02.83,FI,1,1,Web Designer
-337,799279,An***,Hä********,10.07.55,FI,0,,Manager
-338,198680,Ju***,Ni******,14.08.96,FI,0,0,Librarian
-339,428637,Pe***,Ni***,18.03.95,FI,0,1,Consultant
-340,702124,El***,Jo*****,31.03.88,FI,1,1,Lawyer
-341,706286,Sa**,Mä*****,08.08.51,FI,0,0,Manager
-342,934741,Ma****,La***,26.04.76,FI,0,0,Professor
-343,792996,Te***,He******,15.11.52,FI,0,0,Doctor
-344,841972,Ja***,Ni***,10.06.01,FI,,1,Manager
-345,391296,Mi**,He******,05.01.73,FI,1,1,Manager
-346,318978,Ti**,Sa******,03.06.97,FI,1,4,Consultant
-347,149578,Ju***,Ki******,13.06.51,FI,1,1,Doctor
-348,156341,Ju***,Ni***,17.11.93,FI,0,0,Administrative employee
-349,308490,Vi***,La***,19.02.56,FI,0,,Professor
-350,140991,Ti***,Mä****,08.01.66,FI,0,2,Teaching Assistant
-351,573948,An***,Jo*****,03.07.64,FI,,1,Doctor
-352,641389,Mi**,Mä****,25.06.57,FI,1,0,Lawyer
-353,421513,Pe***,La***,12.05.96,FI,1,2,Professor
-354,460980,Em****,Da******,30.07.64,FR,1,0,Banker
-355,184231,Ma***,Th****,12.02.84,FR,1,0,Doctor
-356,917044,Er**,Da******,22.12.01,FR,0,,Librarian
-357,355972,Ch*******,Ro****,03.01.91,FR,0,3,Teaching Assistant
-358,806187,Ro****,La*****,11.10.76,FR,0,1,Web Designer
-359,628233,Th*****,Du****,22.04.84,FR,1,0,Lawyer
-360,522966,Do*******,Ga****,10.07.85,FR,1,1,Consultant
-361,925217,Ca*******,Ma******,11.06.95,FR,0,1,Teaching Assistant
-362,535048,Da***,Le***,10.09.72,FR,1,2,Lawyer
-363,168728,Sa******,Th****,11.08.60,FR,1,2,Professor
-364,400123,So****,Ro****,09.07.82,FR,1,,Librarian
-365,241404,Pa*****,Th****,21.05.02,FR,0,1,Professor
-366,703326,Ph******,Mi****,18.04.74,FR,0,2,Manager
-367,325946,Ro****,Ma******,21.11.78,FR,0,2,Doctor
-368,154013,St***,Jo***,06.02.71,GB,0,1,Librarian
-369,448665,Da****,Wi****,08.12.78,GB,1,2,Teaching Assistant
-370,814931,Sa*,Hu****,23.05.86,GB,1,2,Lawyer
-371,537543,Ja***,Ta****,18.09.71,GB,1,1,Consultant
-372,803332,Ra****,Jo***,31.12.87,GB,1,0,Teaching Assistant
-373,581364,An****,Kh**,11.08.97,GB,1,2,Administrative employee
-374,455352,Ma**,Wh***,18.01.95,GB,0,0,Consultant
-375,128462,La****,Hu****,26.06.04,GB,1,1,Teaching Assistant
-376,151092,Da***,Sm***,05.12.51,GB,1,0,Kitchen staff
-377,875439,Sa***,Da****,04.09.61,GB,0,0,Kitchen staff
-378,782656,Sa*,Pa***,02.08.99,GB,,0,Administrative employee
-379,418245,Sa*,Gr***,28.07.91,GB,1,3,Professor
-380,843485,Am*,Kh**,07.07.67,GB,0,2,Banker
-381,99489,Pa**,Da****,25.09.98,GB,0,0,Administrative employee
-382,817477,Ja**,Ev***,10.12.56,GB,1,,Administrative employee
-383,231948,Pa**,Wr****,14.01.02,GB,1,0,Librarian
-384,645264,Ma**,Th****,12.11.67,GB,0,0,Manager
-385,121757,Cl****,Wh***,09.09.65,GB,0,,Web Designer
-386,649131,Ju***,Wi****,04.07.91,GB,1,3,Banker
-387,382851,Ja**,Wi******,30.12.83,GB,0,3,Teaching Assistant
-388,108420,Em***,Gr***,13.10.80,GB,1,1,Doctor
-389,794744,To*,NaN,12.04.54,GB,1,3,Administrative employee
-390,339524,An**,Br***,15.03.83,GB,1,1,Kitchen staff
-391,425338,NaN,Ro*****,08.04.68,GB,0,,Lawyer
-392,509130,Ma*****,He*******,09.09.90,GT,0,2,Kitchen staff
-393,719655,El*******,Lo***,02.12.91,GT,1,0,Teaching Assistant
-394,316652,Ju**,Ló***,14.08.79,GT,0,1,Professor
-395,653321,Es******,Ca******,29.01.01,GT,1,4,Kitchen staff
-396,251964,Fl**,Mo*****,26.03.60,GT,,2,Librarian
-397,569590,Ma****,Va*****,05.08.54,GT,0,2,Doctor
-398,517645,Ma***,Ag*****,17.02.52,GT,1,0,Lawyer
-399,481578,Br****,De*****,31.07.63,GT,1,0,Administrative employee
-400,438895,Ma***,Ra*****,02.04.87,GT,1,0,Consultant
-401,942442,Er***,Go***,03.05.79,GT,0,1,Manager
-402,129634,Ma*****,Es*****,24.02.83,GT,,2,Banker
-403,523716,Ma*****,Va*****,17.03.02,GT,1,,Kitchen staff
-404,304526,An******,He*******,12.11.76,GT,1,0,Manager
-405,393146,Fr*******,Mo*****,25.10.51,GT,1,1,Kitchen staff
-406,147954,Ma***,Di**,06.04.68,GT,1,,Administrative employee
-407,434361,El*******,Ra***,19.07.99,GT,0,0,Kitchen staff
-408,725560,El*******,Lo***,18.02.80,GT,0,,Kitchen staff
-409,548974,Ga**,Re***,01.10.99,GT,1,1,Teaching Assistant
-410,726678,Br****,Va*****,07.03.98,GT,0,0,Web Designer
-411,804662,Er***,He*******,08.08.54,GT,1,1,Consultant
-412,807369,Al*******,Me****,09.02.03,GT,1,,Teaching Assistant
-413,456436,Ka******,Gr***,04.07.62,HR,1,1,Doctor
-414,661944,Je****,Ša***,15.08.90,HR,1,1,Lawyer
-415,108215,Ma***,Ko*******,01.02.54,HR,0,1,Professor
-416,188504,Ve***,Pe***,24.07.52,HR,1,,Teaching Assistant
-417,378721,Ve***,Ko*****,14.02.97,HR,1,1,Professor
-418,573810,Iv*,Ko*****,27.01.57,HR,1,2,Librarian
-419,448489,Lu****,Ho****,26.08.95,HR,1,,Kitchen staff
-420,769196,Ka******,Ju***,19.06.69,HR,1,4,Doctor
-421,804201,Ma***,Ši***,06.05.92,HR,1,1,Librarian
-422,687648,Iv***,Ko*******,10.07.72,HR,1,,Administrative employee
-423,625887,Mi*****,Ma***,21.10.82,HR,0,,Professor
-424,395115,Ni******,Bo***,27.07.89,HR,1,4,Banker
-425,287607,Lu****,Bo***,07.06.73,HR,0,3,Kitchen staff
-426,866984,Ma******,Ho****,01.08.83,HR,0,1,Consultant
-427,791891,Go***,Ko*******,20.12.00,HR,0,4,Kitchen staff
-428,631142,Ni******,Ma***,03.02.70,HR,0,0,Doctor
-429,780084,Ma***,Ma***,21.11.59,HR,1,4,Doctor
-430,708168,Ka******,Ko*******,16.05.79,HR,1,2,Web Designer
-431,131191,Jo****,Ši***,28.08.83,HR,0,0,Banker
-432,474811,Ga*******,Pé***,09.03.78,HU,0,0,Banker
-433,490705,Tí***,Pa**,29.08.86,HU,0,0,Librarian
-434,898063,Ti***,Sz***,25.07.73,HU,1,2,Librarian
-435,409012,Év*,Tó**,30.10.86,HU,1,4,Consultant
-436,434104,Kr*******,Sz***,25.06.61,HU,,2,Professor
-437,522432,An****,Na**,26.09.93,HU,0,,Librarian
-438,610905,Ti***,Ju****,03.05.63,HU,1,0,Librarian
-439,621836,Ju***,Né****,09.09.69,HU,1,1,Administrative employee
-440,564184,Má***,Tó**,16.02.87,HU,0,,Banker
-441,387404,Sz*****,Va***,06.12.88,HU,1,2,Doctor
-442,454379,No*****,Ki**,08.11.73,HU,1,1,Banker
-443,503392,Il****,Ta***,12.08.68,HU,0,0,Lawyer
-444,859745,Sz*****,Ta***,21.02.93,HU,0,2,Manager
-445,931183,Er******,Fa****,13.06.84,HU,0,1,Lawyer
-446,780199,Dó**,Va***,27.12.96,HU,0,2,Web Designer
-447,185864,Is****,Gá***,23.11.01,HU,,4,Kitchen staff
-448,651597,Gá***,Ko****,28.01.02,HU,1,0,Librarian
-449,411537,An****,Pa**,27.11.72,HU,1,4,Web Designer
-450,795804,No*****,Ba****,28.06.75,HU,1,1,Administrative employee
-451,431634,Mó****,Pa**,20.05.53,HU,0,1,Lawyer
-452,883252,Sá****,Ko****,24.11.84,HU,1,2,Lawyer
-453,857627,An****,Pé***,15.12.77,HU,0,2,Kitchen staff
-454,795805,An****,Ba****,05.04.77,HU,0,4,Librarian
-455,372166,Cs***,Zo****,24.03.01,HU,0,0,Banker
-456,581173,Má***,Fa****,19.07.02,HU,0,4,Librarian
-457,98459,Lá****,Mo****,26.12.57,HU,1,0,Doctor
-458,280659,De*****,Ke***,04.11.01,IE,0,3,Librarian
-459,536355,Ja***,Da**,25.09.70,IE,1,1,Professor
-460,431378,Ma******,Ke***,01.02.71,IE,1,0,Web Designer
-461,935949,Ni***,Do***,05.11.84,IE,0,1,Professor
-462,201298,Se**,Ry**,16.01.72,IE,1,,Teaching Assistant
-463,201125,Li**,Ry**,05.06.76,IE,0,4,Doctor
-464,304338,Pa*,Ly***,05.03.71,IE,0,0,Banker
-465,704873,Pa***,Mu****,27.12.63,IE,0,2,Administrative employee
-466,131824,Em**,Mu****,11.05.54,IE,1,1,Manager
-467,204834,Cl****,Sm***,15.03.84,IE,1,1,Lawyer
-468,172656,Pa*,Bu***,22.06.69,IE,0,0,Manager
-469,527013,Ja***,Sm***,05.04.78,IE,0,0,Banker
-470,424791,Fi***,Mc******,23.06.74,IE,1,2,Teaching Assistant
-471,465159,Pa***,Ke***,05.07.85,IE,0,3,Consultant
-472,132322,Em**,Wa***,27.03.81,IE,0,1,Doctor
-473,861181,To*,Mc******,27.09.52,IE,0,2,Consultant
-474,455736,St*****,Ke***,16.02.75,IE,0,0,Consultant
-475,422474,An*,Ob****,23.04.04,IE,1,0,Manager
-476,411464,Ma**,na*,16.08.82,IE,0,2,Administrative employee
-477,329177,Al**,Mc******,11.05.60,IE,1,,Librarian
-478,350882,Pa*,Ke***,26.08.83,IE,1,,Administrative employee
-479,415269,Ca******,Fa*****,29.03.54,IE,0,2,Manager
-480,119792,Pa*****,Do***,26.10.69,IE,0,3,Banker
-481,788180,Po***,Gu***,05.04.98,IN,1,0,Teaching Assistant
-482,713550,Po***,Pa***,09.05.68,IN,1,3,Librarian
-483,347349,Ro***,Sh****,10.10.73,IN,1,0,Consultant
-484,427246,Di***,Mi****,29.04.82,IN,1,2,Consultant
-485,589319,Ma***,Ve***,14.06.98,IN,1,2,Web Designer
-486,509348,An**,Th****,03.08.58,IN,1,1,Banker
-487,383876,Ra**,Ra*,18.01.51,IN,0,4,Banker
-488,439819,Ma*****,Al*,10.01.78,IN,1,0,Web Designer
-489,887417,Ra**,Kh**,02.06.01,IN,0,1,Lawyer
-490,698537,Ka***,Al*,21.06.58,IN,1,,Kitchen staff
-491,258345,Aj**,Sk,15.04.99,IN,0,1,Manager
-492,693420,Ra***,Ch*****,27.08.62,IN,0,,Librarian
-493,618056,Ne**,Si***,13.10.71,IN,,2,Librarian
-494,792062,Sa****,Th****,27.08.91,IN,1,1,Consultant
-495,351472,Po***,Ku***,27.07.87,IN,1,0,Teaching Assistant
-496,416130,Ma***,Sh****,22.02.00,IN,1,0,Administrative employee
-497,694183,Vi***,Ro*,01.08.67,IN,1,0,Manager
-498,231770,Po***,Ya***,06.04.70,IN,0,2,Manager
-499,679196,Pu**,Ra****,25.07.88,IN,1,0,Librarian
-500,425350,Ri**,Sk,23.10.65,IN,0,1,Teaching Assistant
-501,254120,Md,Ku***,11.04.50,IN,0,,Manager
-502,544592,Ra****,Mi****,13.11.86,IN,0,0,Professor
-503,561241,Mu****,Gu***,03.08.83,IN,,4,Professor
-504,550287,Ra**,Sk,27.06.93,IN,1,1,Kitchen staff
-505,461640,Md,Si***,19.07.03,IN,1,,Lawyer
-506,942410,Ma*****,Jó*****,30.12.54,IS,1,,Doctor
-507,729575,Jó****,Gu********,03.08.84,IS,1,1,Banker
-508,813808,Br*****,Si************,23.06.60,IS,0,1,Web Designer
-509,597612,Hi****,Jó*****,18.02.02,IS,0,2,Professor
-510,826577,Gu*******,Jó********,08.06.96,IS,0,0,Librarian
-511,408115,Ra****,Gu********,04.05.88,IS,0,,Banker
-512,951822,Ei***,Gu***********,28.05.82,IS,0,1,Web Designer
-513,352848,Ko*****,Bj*******,21.11.78,IS,1,0,Manager
-514,219849,Si****,Bj*******,28.12.69,IS,0,1,Teaching Assistant
-515,183438,Ma****,Gu*********,08.04.92,IS,0,1,Lawyer
-516,339793,Hu***,Kr**********,11.04.70,IS,1,2,Librarian
-517,764805,Ma*****,Bj*******,30.01.74,IS,,,Manager
-518,930718,Al********,Co***,20.12.87,IT,0,,Manager
-519,744291,Da****,Gi******,27.03.00,IT,1,,Administrative employee
-520,131393,Ma***,De*****,09.04.82,IT,0,1,Lawyer
-521,410319,Al********,Bi*****,10.02.67,IT,1,0,Lawyer
-522,396551,El***,Bi*****,21.01.54,IT,1,,Doctor
-523,793674,Vi******,Ru***,01.11.94,IT,0,1,Librarian
-524,386917,Al********,Bi*****,20.08.84,IT,1,0,Consultant
-525,200688,An*****,Ri***,21.12.60,IT,1,2,Consultant
-526,382237,Ma*****,Fe*****,03.04.80,IT,0,0,Librarian
-527,224422,Ma****,Ro****,02.06.00,IT,0,0,Consultant
-528,772645,Gi******,Ru***,10.08.50,IT,1,0,Teaching Assistant
-529,755916,Da*****,Fe*****,25.07.89,IT,,,Professor
-530,169705,Vi******,Le***,03.06.55,IT,1,0,Librarian
-531,638950,Ta*****,In***,17.12.59,JP,0,1,Manager
-532,698563,Yo**,Ko*******,18.10.64,JP,0,1,Librarian
-533,949973,Ha****,Ya*******,03.02.75,JP,0,3,Lawyer
-534,643332,Mi**,Sa***,08.03.65,JP,1,0,Lawyer
-535,486395,Ko**,Ma*******,09.08.99,JP,0,1,Banker
-536,915055,Yu**,Ma*******,10.02.68,JP,1,2,Librarian
-537,505876,Yo**,Su****,07.07.52,JP,1,1,Librarian
-538,673325,Yu**,Ya*******,19.10.59,JP,0,0,Doctor
-539,223968,Yu****,Yo*****,07.06.01,JP,0,2,Doctor
-540,526779,Ma****,Sh*****,28.06.52,JP,,0,Doctor
-541,96722,Ay***,Ki****,31.08.97,JP,1,2,Professor
-542,232443,성희,Ba**,04.10.59,KR,,4,Teaching Assistant
-543,902629,준호,남자,20.09.55,KR,1,1,Banker
-544,531904,미숙,Ch*,14.03.03,KR,1,0,Lawyer
-545,128444,영철,Ba**,25.12.00,KR,0,1,Lawyer
-546,909535,경희,Se*,15.02.95,KR,,1,Teaching Assistant
-547,233577,은주,Ki*,25.08.59,KR,1,2,Banker
-548,123049,은숙,Ch*,11.09.96,KR,0,0,Teaching Assistant
-549,437181,재영,Ju**,02.11.52,KR,0,1,Kitchen staff
-550,628925,은영,Pa**,16.11.59,KR,1,2,Consultant
-551,376598,영희,Ch**,21.10.86,KR,1,4,Consultant
-552,919979,상훈,Se*,31.12.51,KR,1,2,Web Designer
-553,897796,경희,Kw**,16.10.79,KR,NaN.0,1,Administrative employee
-554,161109,현주,Ba**,12.09.99,KR,1,,Professor
-555,907542,경수,Se*,08.07.96,KR,0,3,Web Designer
-556,571155,영수,Pa**,10.03.76,KR,0,2,Teaching Assistant
-557,257731,정수,Yo**,22.07.89,KR,1,1,Consultant
-558,213269,정숙,Se*,23.11.66,KR,1,1,Administrative employee
-559,269302,성수,Ry*,13.03.99,KR,0,0,Manager
-560,623217,성수,Ry*,15.07.55,KR,0,1,Librarian
-561,119045,영숙,Hw***,11.06.70,KR,1,0,NaN
-562,789033,정수,Ju**,16.06.65,KR,0,0,Banker
-563,601927,영철,Yu*,01.11.69,KR,1,0,Kitchen staff
-564,674497,준호,Yo**,19.09.79,KR,0,3,Professor
-565,474746,경숙,Kw**,29.09.50,KR,0,1,Librarian
-566,739432,선희,Je***,02.03.72,KR,0,0,Manager
-567,793023,미영,Se*,26.03.60,KR,1,0,Manager
-568,171748,영진,Je**,09.03.72,KR,1,,Consultant
-569,724380,영호,Hw***,10.09.86,KR,0,1,Professor
-570,682811,정수,Sh**,09.08.77,KR,0,0,Teaching Assistant
-571,520750,Da*****,Na******,09.11.57,LT,1,0,Web Designer
-572,225733,Mi*******,Pe********,05.09.02,LT,,1,Doctor
-573,637567,Gr***,Jo******,18.04.52,LT,1,4,Doctor
-574,806987,Da***,Pe*******,13.02.81,LT,1,0,Banker
-575,678876,Va***,Ri****,11.04.85,LT,1,,Banker
-576,128570,Ar*****,Aš,24.10.94,LT,0,2,Banker
-577,945010,Ma****,Va**********,14.03.92,LT,1,1,Consultant
-578,364165,Ta***,Bu****,12.08.58,LT,,1,Teaching Assistant
-579,748037,Eg**,Sa*********,05.01.88,LT,0,1,Web Designer
-580,126337,Si****,Ja********,29.11.97,LT,,3,Lawyer
-581,867548,Da*****,Mi*********,07.06.97,LT,1,2,Manager
-582,453185,Vi*******,Sa******,04.01.01,LT,1,1,Doctor
-583,586186,La***,Aš,22.07.61,LT,0,4,Banker
-584,722727,Ta***,Ka**********,23.06.97,LT,,0,Professor
-585,886132,Eg******,Jo******,24.03.89,LT,0,3,Kitchen staff
-586,362504,La***,Pa********,28.06.70,LT,1,2,Teaching Assistant
-587,115712,Ma****,Pe********,22.09.54,LT,1,1,Professor
-588,119460,Mi*******,Ba*********,20.08.66,LT,,2,Web Designer
-589,410221,Ch********,Ho******,09.08.99,LU,0,0,Teaching Assistant
-590,750955,Di***,Si****,12.01.57,LU,0,0,Doctor
-591,253352,Ti***,An*****,21.06.92,LU,1,2,Consultant
-592,221952,Mi*****,Te******,03.01.52,LU,1,,Banker
-593,947685,Fa******,Mo******,14.10.69,LU,1,1,Professor
-594,802042,Jo****,Kr****,30.10.94,LU,1,0,Manager
-595,952903,Pi*,Mo******,20.12.67,LU,1,2,Lawyer
-596,633277,Ge*****,Sc*****,20.10.78,LU,1,,Teaching Assistant
-597,948037,An*****,We**,19.04.67,LU,0,1,Administrative employee
-598,569177,Ru*,Ki*****,24.03.00,LU,1,1,Kitchen staff
-599,404377,Te***,We**,01.10.98,LU,1,4,Administrative employee
-600,947658,Vi***,We**,18.10.02,LU,0,0,Professor
-601,96840,Th*****,Te******,06.05.61,LU,0,4,Doctor
-602,131489,Va*****,Re****,04.03.98,LU,1,0,Manager
-603,917041,Ma******,Ma*****,28.12.52,LU,1,2,Banker
-604,739909,Fa******,Sc****,08.02.64,LU,1,0,Administrative employee
-605,284349,Fi****,Cu***,09.06.76,LU,1,4,Consultant
-606,188061,Ph******,Sc*****,04.03.60,LU,1,0,Teaching Assistant
-607,784524,Sy****,An*****,11.04.90,LU,0,1,Web Designer
-608,354752,Jo****,Ma*****,10.05.66,LU,1,1,Consultant
-609,325666,Ma**********,We**,17.02.88,LU,1,1,Web Designer
-610,223665,Gi****,Sc*****,22.10.58,LU,0,3,Administrative employee
-611,846622,Cl******,Mo******,26.12.69,LU,0,0,Manager
-612,285653,St*******,Sc*****,24.03.03,LU,0,1,Doctor
-613,543239,Gi****,Ki*****,15.08.63,LU,0,0,Consultant
-614,623888,An*****,We**,07.10.88,LU,1,0,Lawyer
-615,384539,An*****,Fa***,15.02.82,LU,0,,Web Designer
-616,926004,Pi*,Sc*******,10.07.65,LU,0,4,Administrative employee
-617,553784,Ma******,Si****,04.01.75,LU,0,0,Banker
-618,485010,Va*****,Sc****,07.03.89,LU,1,0,Teaching Assistant
-619,648842,Du*****,Se****,23.12.88,MD,1,0,Consultant
-620,556033,Ма****,Tu*****,26.03.54,MD,1,2,Web Designer
-621,931749,Ан*******,Mo****,19.05.90,MD,1,0,Doctor
-622,334386,Va****,Ci*****,13.01.96,MD,1,0,Manager
-623,843464,Ox***,Mo****,27.08.96,MD,0,2,Administrative employee
-624,333546,Ма****,Se****,01.06.92,MD,1,1,Teaching Assistant
-625,896007,Du*****,Ro***,01.08.52,MD,,2,Consultant
-626,242361,Mi***,Ci*****,23.10.55,MD,0,1,Professor
-627,333547,St******,Ko************,01.06.92,MD,1,1,Teaching Assistant
-628,927749,Na*****,Se****,21.02.89,MD,1,,Manager
-629,802773,Al*******,Ce******,21.04.57,MD,0,1,Manager
-630,444482,Li******,Mo****,14.09.02,MD,0,1,Lawyer
-631,139463,На*****,Lu***,28.06.72,MD,1,0,Professor
-632,833402,Ан**,Ce******,08.03.94,MD,1,0,Banker
-633,102671,Va*****,Si***,12.09.72,MD,1,2,Teaching Assistant
-634,711683,Gh******,Ru**,01.01.76,MD,0,1,Kitchen staff
-635,843660,Mi***,Co******,13.04.79,MD,0,4,Teaching Assistant
-636,501454,Ал*******,Io*,14.02.76,MD,1,0,Administrative employee
-637,466702,Ни*****,Si***,04.09.57,MD,1,2,Kitchen staff
-638,208948,Ni*****,Ce******,18.03.67,MD,1,0,Banker
-639,587706,Ал*******,Ci*****,01.05.03,MD,0,1,Professor
-640,918924,Gh******,Si***,02.09.61,MD,0,2,Teaching Assistant
-641,245949,Se*****,Ci*****,09.03.83,MD,1,2,Librarian
-642,803882,Ni*****,Co******,11.11.67,MD,0,2,Banker
-643,623440,Ni*****,Ur**,06.07.98,MD,0,0,Banker
-644,405604,Li******,Ro****,01.06.92,MD,1,0,Kitchen staff
-645,138796,Va*****,Ru**,24.09.85,MD,0,0,Professor
-646,739300,Дм*****,Ro****,11.11.73,MD,1,1,Administrative employee
-647,232096,На*****,Ro****,10.05.87,MD,0,3,Kitchen staff
-648,509712,Se*****,Tu*****,12.06.89,MD,0,,Kitchen staff
-649,765508,Le**,Ab***,22.07.83,MT,1,1,Doctor
-650,872993,Jo*****,Za****,12.09.04,MT,0,4,Lawyer
-651,190042,Ma*******,Ca****,10.12.58,MT,0,1,Manager
-652,119767,Ro******,Ag***,24.07.62,MT,1,2,Manager
-653,158043,Ch*******,Fe****,29.05.04,MT,,2,Teaching Assistant
-654,655000,Ne*****,Gr***,28.08.01,MT,0,2,Consultant
-655,332018,Jo*****,Ga***,29.11.81,MT,1,3,Doctor
-656,515957,Go**,Ag***,10.02.75,MT,1,0,Teaching Assistant
-657,809385,Sy*****,Ca*****,19.12.77,MT,1,4,Web Designer
-658,908292,Cl***,Az*******,06.10.52,MT,,1,Lawyer
-659,403139,Sy*****,Gr***,25.02.73,MT,1,0,Kitchen staff
-660,261521,Ch****,Sp*****,27.07.62,MT,0,0,Administrative employee
-661,571092,Ma******,Mu****,26.12.94,MT,0,,Administrative employee
-662,245757,Si****,Lo***,05.06.86,MX,1,0,Consultant
-663,771503,Ad*****,Me*****,18.03.70,MX,0,,Teaching Assistant
-664,267120,Ro**,Ro*******,29.08.66,MX,0,2,Administrative employee
-665,428573,Ma**,Lo***,01.06.92,MX,0,1,Web Designer
-666,284274,Je***,Me*****,12.08.73,MX,1,0,Consultant
-667,949262,Jo**,Ru**,14.05.64,MX,0,2,Banker
-668,520948,Fr*******,Ma******,07.09.88,MX,0,0,Lawyer
-669,208153,An***,Lo***,22.12.62,MX,1,0,Doctor
-670,136015,El*******,Ma******,02.01.61,MX,1,1,Teaching Assistant
-671,773146,Gu*******,Me*****,19.11.86,MX,1,0,Manager
-672,820116,Lu**,Sa*****,29.11.68,MX,1,1,Kitchen staff
-673,410444,Pe***,He*******,23.12.56,MX,0,1,Librarian
-674,128800,Je***,Mo*****,28.02.79,MX,1,2,Professor
-675,327047,Da****,Me*****,05.11.70,MX,0,4,Web Designer
-676,413270,Si****,Ma******,17.02.54,MX,0,2,Kitchen staff
-677,790265,Vi****,Di**,24.04.76,MX,0,4,Doctor
-678,152304,La***,Ru**,15.12.90,MX,0,4,Manager
-679,409979,Ca****,Go******,28.08.61,MX,,0,Lawyer
-680,572046,Ma****,Ru**,10.09.87,MX,0,0,Lawyer
-681,651176,Al*******,Re***,15.10.74,MX,1,1,Consultant
-682,808893,Is****,Ca******,21.02.60,MX,0,0,Banker
-683,418505,Ca****,Ro*******,12.11.50,MX,0,3,Librarian
-684,476861,Pe***,Ro*******,05.12.64,MX,1,2,Consultant
-685,906609,Zu*,Li*,07.02.60,MY,0,0,Teaching Assistant
-686,874746,Mo*****,Ng,24.03.99,MY,0,0,Professor
-687,574476,Ct,Ng,05.08.00,MY,,3,Administrative employee
-688,354164,Am*,Ab******,11.10.98,MY,1,2,Librarian
-689,837811,Ad**,Ra****,15.06.53,MY,1,1,Manager
-690,818249,In***,Ya*,25.01.82,MY,1,1,Librarian
-691,371132,Wa*,Ot****,29.11.79,MY,1,2,Teaching Assistant
-692,702840,In***,Ta*,01.05.57,MY,0,0,Kitchen staff
-693,654139,Am*,Ch**,23.08.84,MY,1,0,Librarian
-694,123006,Pu****,Ha****,20.07.77,MY,1,0,Lawyer
-695,344301,Ah***,Wo**,09.10.89,MY,0,0,Doctor
-696,354837,Ta*,Az**,22.07.64,MY,,4,Manager
-697,517676,Je***,Ch**,08.10.80,MY,1,,Administrative employee
-698,299520,Je***,Ku***,18.07.96,MY,0,0,Teaching Assistant
-699,622305,Nu***,Ch***,22.07.66,MY,0,,Doctor
-700,954729,Am**,Ku***,05.02.84,MY,1,,Kitchen staff
-701,165762,Nu*,Is****,06.07.99,MY,1,1,Professor
-702,742635,Fa*****,Ch***,08.05.71,MY,0,0,Teaching Assistant
-703,345709,Ai****,Ah***,14.04.04,MY,0,2,Teaching Assistant
-704,812389,No*****,Al*,03.05.72,MY,0,1,Librarian
-705,723305,Pu****,Ra****,18.10.66,MY,1,,Lawyer
-706,564122,Jo**,Ja*****,24.07.69,NL,0,4,Banker
-707,409943,Pe***,Va**********,15.05.78,NL,0,1,Librarian
-708,426674,In****,Pe****,28.12.77,NL,0,0,Librarian
-709,601614,Li***,Br*****,05.09.94,NL,1,1,Banker
-710,926133,Ki*,De******,21.03.51,NL,0,,Doctor
-711,119796,Li***,De******,24.09.58,NL,1,1,Kitchen staff
-712,400700,Ba**,De****,23.06.60,NL,0,,Kitchen staff
-713,649811,Pa**,Ja****,03.05.52,NL,0,1,Kitchen staff
-714,858155,El***,De****,06.03.82,NL,0,1,Kitchen staff
-715,825203,Li***,Me****,15.07.58,NL,0,,Administrative employee
-716,429246,El***,Bo*,18.10.50,NL,0,1,Consultant
-717,745804,Bi****,Ba****,06.07.51,NL,,1,Consultant
-718,329120,Jo***,De*****,13.01.00,NL,1,0,Administrative employee
-719,856596,Ma*****,De*****,07.07.62,NL,,1,Manager
-720,722924,Pa*****,Br*****,26.08.83,NL,0,1,Web Designer
-721,405301,Ki*,Sm**,04.10.72,NL,1,1,Professor
-722,315644,Tr***,Jo*****,29.04.92,NO,1,0,Doctor
-723,640117,El**,Ha***,24.12.54,NO,0,4,Consultant
-724,884354,Ma***,Pe*******,09.08.78,NO,1,0,Consultant
-725,950581,Te***,Er*****,,NO,0,,Librarian
-726,792366,Ka**,Ha***,27.05.84,NO,1,0,Administrative employee
-727,197281,An*****,La****,06.02.67,NO,,0,Administrative employee
-728,704030,Kr******,La****,31.12.94,NO,,3,Lawyer
-729,842928,Te***,Je****,07.02.02,NO,0,0,Web Designer
-730,605032,In***,Kr*********,26.05.01,NO,0,0,Librarian
-731,264770,Ha***,Ja******,22.08.95,NO,,3,Manager
-732,317366,In***,Be**,16.03.55,NO,1,1,Web Designer
-733,470529,Te***,An******,17.06.85,NO,1,,Teaching Assistant
-734,221265,Kr******,Er*****,24.10.01,NO,0,0,Professor
-735,298219,Te***,An******,20.10.86,NO,1,,Banker
-736,128768,Ka**,Ja******,26.08.62,NO,1,4,Administrative employee
-737,139646,Ka**,Ha****,29.03.75,NO,1,1,Doctor
-738,446160,Mo****,Ka*****,01.11.70,NO,1,0,Teaching Assistant
-739,325262,Kn**,An******,15.01.01,NO,1,4,Banker
-740,277417,He****,Je****,02.06.74,NO,1,4,Consultant
-741,257826,Je****,Re***,02.01.80,PH,0,2,Teaching Assistant
-742,679178,Ar****,Go,22.02.69,PH,1,,Consultant
-743,407360,Ma*****,Li*,25.08.52,PH,1,0,Professor
-744,579515,Ar***,De*******,08.01.84,PH,0,0,Kitchen staff
-745,385721,Ma*****,De*****,05.11.81,PH,1,,Librarian
-746,769520,Ro****,Aq****,12.11.54,PH,0,4,Kitchen staff
-747,808816,Jc,Ta*,16.09.79,PH,1,2,Professor
-748,628854,Kr******,Di***,04.01.86,PH,1,1,Manager
-749,427874,Je*,On*,15.10.90,PH,0,1,Kitchen staff
-750,110215,Je****,Re***,16.09.65,PH,0,4,Lawyer
-751,592588,Ar***,Do*****,14.01.59,PH,0,1,Manager
-752,856347,Jo*****,Aq****,27.12.71,PH,1,2,Lawyer
-753,327000,Ja*,On*,16.06.78,PH,0,4,Doctor
-754,858436,Mj,Re***,28.07.86,PH,1,3,Lawyer
-755,332306,Jm,Ba******,06.10.80,PH,,3,Teaching Assistant
-756,878358,Ja****,On*,20.01.90,PH,0,0,Doctor
-757,195267,Da***,Si****,11.08.61,PL,0,0,Administrative employee
-758,213477,Sy****,Du***,25.06.60,PL,0,4,Lawyer
-759,98449,Ma*****,Wr****,24.08.55,PL,1,,Administrative employee
-760,574304,Ba*****,Ka,06.08.70,PL,1,1,Librarian
-761,692542,Pa*****,Ma***,05.03.83,PL,1,2,Librarian
-762,910232,An**,Ka*******,29.12.95,PL,0,1,Manager
-763,359736,Gr******,Kr******,22.06.86,PL,0,1,Kitchen staff
-764,790781,Ad**,Kr**,08.07.95,PL,0,1,Lawyer
-765,328573,Kr*******,Ko*******,13.03.86,PL,0,0,Kitchen staff
-766,586536,An**,Ko*******,20.10.91,PL,0,0,Teaching Assistant
-767,109855,To****,Le*********,07.11.60,PL,1,,Kitchen staff
-768,249197,Ra***,Ka*******,19.07.78,PL,1,0,Professor
-769,166980,Pa***,Ad******,06.04.70,PL,0,1,Web Designer
-770,563515,Ma********,Wó****,28.01.66,PL,1,,Doctor
-771,269018,Pa*****,Wo*****,04.01.71,PL,0,1,Librarian
-772,353950,Ra***,Ko******,04.09.02,PL,,0,Teaching Assistant
-773,726073,Ra***,Wi*******,29.03.89,PL,1,1,Manager
-774,483324,Ju*****,Wo*****,11.07.96,PL,1,1,Web Designer
-775,442127,Ba*****,Wo*****,04.08.86,PL,1,2,Lawyer
-776,505436,Aw****,Qu******,13.04.89,PR,0,1,Doctor
-777,929178,Hi***,Ro****,14.08.75,PR,0,4,Kitchen staff
-778,601920,Iv****,Ne****,07.02.78,PR,1,0,Manager
-779,481643,Ab*****,Ri****,30.11.55,PR,1,1,Professor
-780,347454,Mi****,Qu******,03.08.78,PR,1,2,Teaching Assistant
-781,129474,Wa***,Co***,30.09.60,PR,,2,Professor
-782,634658,Pa**,Fe*******,09.06.77,PR,1,1,Web Designer
-783,444557,An********,Ap****,11.07.74,PR,1,3,Lawyer
-784,919258,Ne*****,Ot***,29.07.61,PR,0,0,Professor
-785,932606,Zo*****,Ro****,01.05.94,PR,0,2,Teaching Assistant
-786,299033,Iv******,Va*****,29.10.94,PR,1,1,Manager
-787,185759,Ar******,Ot***,18.12.57,PR,,3,Administrative employee
-788,156531,Da*****,Fe*******,29.10.93,PT,1,0,Librarian
-789,596370,Fi****,Pi***,17.11.03,PT,,3,Teaching Assistant
-790,109683,Sa**,Pe*****,22.02.62,PT,1,4,Lawyer
-791,545263,An*****,Al***,24.09.75,PT,0,0,Consultant
-792,823828,Di***,Te******,04.10.67,PT,0,1,Doctor
-793,464219,Jo**,Ma*****,26.02.96,PT,0,1,Librarian
-794,316450,Di***,Te******,18.01.76,PT,1,4,Administrative employee
-795,685615,Te****,Ca******,12.08.52,PT,0,0,Professor
-796,957161,Su****,Lo***,01.01.83,PT,0,1,Lawyer
-797,638245,Ma***,Fe******,13.07.63,PT,1,,Kitchen staff
-798,937729,Ma****,Fe******,09.11.91,PT,,0,Web Designer
-799,762279,In**,Al*****,18.02.55,PT,0,1,Doctor
-800,764728,Ca****,Go*******,05.03.01,PT,1,,Banker
-801,296491,Ti***,Te******,18.02.87,PT,1,4,Kitchen staff
-802,441870,Is****,Fe******,20.06.98,PT,1,1,Consultant
-803,649162,Fi****,Fe******,15.02.92,PT,0,1,Manager
-804,662472,Nu**,Ri*****,28.01.75,PT,0,2,Professor
-805,681209,Jo**,Te******,24.06.03,PT,0,0,Teaching Assistant
-806,648381,Fi****,So***,09.03.77,PT,,1,Banker
-807,441742,Pa***,Al***,09.10.68,PT,0,2,Manager
-808,403993,Ma***,Co***,15.07.67,PT,0,2,Administrative employee
-809,364673,Ma***,Pi***,24.05.01,PT,0,2,Web Designer
-810,238897,Ел***,Мо******,08.03.52,RU,1,1,Professor
-811,398434,Ел***,Ку*******,01.06.50,RU,0,0,Librarian
-812,837764,Юл**,Во*****,01.11.54,RU,1,,Web Designer
-813,852328,Дм*****,Пе****,05.04.65,RU,0,2,Teaching Assistant
-814,401818,Га****,По***,13.07.56,RU,0,2,Kitchen staff
-815,105236,Лю*****,Ив*****,06.02.78,RU,0,2,Kitchen staff
-816,638911,На*****,Во*****,08.05.85,RU,0,2,Kitchen staff
-817,900334,Ми****,Ан******,28.03.78,RU,,,Banker
-818,716230,Ел***,См******,30.10.84,RU,1,0,Web Designer
-819,267286,Ма***,Пе****,25.04.95,RU,1,1,Professor
-820,411476,Ма***,Пе*****,28.01.93,RU,0,2,Kitchen staff
-821,453577,Та*****,См******,21.05.68,RU,0,4,Librarian
-822,206644,Ел***,Ва*******,14.02.52,RU,0,2,Doctor
-823,952376,На*****,См*****,22.03.63,RU,0,0,Doctor
-824,717160,Ма***,Ма********,23.01.52,RU,1,2,Doctor
-825,356021,Па***,Ив****,15.04.04,RU,1,,Professor
-826,178451,Юр**,Во*****,13.02.04,RU,1,1,Web Designer
-827,325225,Юл**,Ал***,28.05.68,RU,1,1,Banker
-828,479161,Вл******,Ал***,19.07.55,RU,1,,Consultant
-829,936397,На*****,Ма********,14.12.03,RU,1,,Professor
-830,251440,Ви******,Пе*****,23.08.96,RU,0,0,Manager
-831,785994,Га****,Мо******,09.09.96,RU,1,1,Administrative employee
-832,783029,Ол**,Ив*****,11.03.88,RU,1,0,Lawyer
-833,634396,El***,Во*****,04.09.99,RU,,0,Consultant
-834,880137,Ив**,Мо******,04.03.77,RU,0,1,Banker
-835,698469,Ол**,Ва*******,12.09.99,RU,0,,Manager
-836,281689,Ал*****,Ив*****,07.08.84,RU,,0,Web Designer
-837,136838,Ca*****,Ma*******,20.07.84,SE,0,0,Banker
-838,191622,Jo***,Li******,17.11.85,SE,0,1,Kitchen staff
-839,642133,Ni****,Sv******,31.05.78,SE,0,0,Teaching Assistant
-840,839562,Em**,Ni*****,05.11.54,SE,0,,Administrative employee
-841,156304,Ev*,An*******,02.11.55,SE,1,1,Manager
-842,910568,An****,Ni*****,10.10.92,SE,1,2,Web Designer
-843,776425,Ul****,Li*******,21.04.01,SE,1,0,Lawyer
-844,804047,Ma****,Ja*****,25.12.76,SE,0,2,Librarian
-845,788206,Pa****,Pe********,22.10.97,SE,1,0,Lawyer
-846,270618,Mi****,Ja*****,20.09.98,SE,,1,Banker
-847,820364,El**,Er******,06.01.76,SE,1,3,Doctor
-848,819111,Er**,Li*******,17.11.54,SE,1,4,Consultant
-849,526987,Jo*****,Be*******,26.01.89,SE,0,3,Web Designer
-850,235087,Fr***,An*******,27.07.03,SE,0,,Librarian
-851,851347,Ni****,La*****,08.08.92,SE,1,1,Teaching Assistant
-852,817107,Ma***,Li*******,27.07.59,SE,1,,Banker
-853,132368,Bi******,Ka******,28.12.62,SE,1,,Kitchen staff
-854,487236,An****,Li*******,10.02.04,SE,1,2,Doctor
-855,708256,Ma**,Ma*******,10.10.02,SE,0,0,Professor
-856,613408,St****,Li*******,02.03.99,SE,0,1,Professor
-857,905706,Ev*,Ni*****,19.07.66,SE,0,0,Banker
-858,676570,Ke*****,Ha*****,23.04.99,SE,,1,Administrative employee
-859,104986,Bj***,Ni*****,23.11.82,SE,0,0,Librarian
-860,223964,Bi******,Ha*****,18.08.95,SE,0,4,Doctor
-861,887875,Er**,Ol****,23.06.71,SE,0,0,Lawyer
-862,428951,Ni****,Ni*****,19.06.54,SE,1,4,Kitchen staff
-863,96249,Er**,Pe*****,21.07.95,SE,1,3,Administrative employee
-864,236907,Ca****,Er******,22.06.70,SE,0,3,Professor
-865,364432,Jo***,An*,25.04.63,SG,1,,Professor
-866,649233,Iv*,Ye*,03.10.93,SG,1,2,Kitchen staff
-867,191797,Ke****,Li*,09.02.97,SG,1,1,Teaching Assistant
-868,268218,Ra**,Is***,06.06.97,SG,0,0,Consultant
-869,237346,An**,Li*,22.05.83,SG,1,0,Doctor
-870,412762,Li*,Li*,20.03.62,SG,,4,Banker
-871,629634,Jo***,Ye*,01.11.68,SG,,,Manager
-872,811666,Ra**,Ho*****,29.05.76,SG,1,,Kitchen staff
-873,516165,Ch**,Ko*,28.07.67,SG,0,0,Web Designer
-874,447311,Go*,Ta*,22.11.76,SG,0,1,Web Designer
-875,542367,Ma*,Go*,25.07.92,SG,,2,Teaching Assistant
-876,302149,Ke****,Ko*,30.10.80,SG,0,1,Lawyer
-877,457865,Iv*,Ko*,28.02.74,SG,0,,Consultant
-878,738395,Ch**,Ho*****,10.02.65,SG,0,0,Manager
-879,582281,Li,Ho*****,18.12.84,SG,0,0,Manager
-880,719359,Li*,Ch**,16.10.61,SG,1,1,Kitchen staff
-881,230078,Ra**,Li*,12.05.99,SG,1,0,Web Designer
-882,858566,Ga***,As***,05.07.55,TR,0,0,Web Designer
-883,745000,Is****,Ko*****,07.12.68,TR,1,0,Librarian
-884,207973,De***,Ar****,17.08.51,TR,,,Web Designer
-885,917543,Ga***,Kı***,16.04.00,TR,0,,Teaching Assistant
-886,739104,Em**,Öz****,28.05.62,TR,1,1,Professor
-887,187956,Ka***,As***,25.10.75,TR,,,Doctor
-888,263704,Se***,Po***,08.12.82,TR,0,2,Teaching Assistant
-889,185334,De***,Öz****,31.12.54,TR,1,2,Administrative employee
-890,871006,Se***,Yı****,02.06.03,TR,0,,Manager
-891,828218,Hü***,Yı******,16.07.70,TR,1,4,Web Designer
-892,677158,Me***,Do***,09.03.97,TR,1,,Kitchen staff
-893,585467,Os***,Yı******,20.12.56,TR,1,0,Administrative employee
-894,401509,Em***,Yı****,27.08.84,TR,0,1,Teaching Assistant
-895,135963,Öm**,Ko*****,21.01.00,TR,,1,Banker
-896,457218,Ha***,Ku**,20.01.04,TR,0,0,Web Designer
-897,241540,El**,Yi****,03.12.78,TR,1,0,Consultant
-898,790654,Si***,Do***,02.05.76,TR,0,0,Doctor
-899,297742,Ah***,Kı***,07.08.53,TR,0,,Teaching Assistant
-900,528453,Fa***,Ar****,08.12.62,TR,1,2,Web Designer
-901,852352,Hü*****,Çe***,09.04.04,TR,1,0,Professor
-902,599095,Ab******,Yı******,11.06.84,TR,0,0,Manager
-903,353857,Me****,Öz****,18.06.52,TR,0,0,Manager
-904,213258,Ya*****,Ar****,11.11.92,TR,0,0,Teaching Assistant
-905,408689,Ze***,Yı******,10.12.89,TR,0,0,Librarian
-906,587678,Me****,Çe***,20.01.77,TR,0,4,Doctor
-907,687871,Ya*****,Po***,27.06.83,TR,1,4,Administrative employee
-908,297157,Ad**,Yı******,27.02.54,TR,1,2,Web Designer
-909,123699,Je*****,Pe***,18.03.55,US,0,0,Lawyer
-910,282393,Sa***,Di**,30.12.58,US,0,,Librarian
-911,581969,Na***,Sm***,27.07.58,US,0,3,Librarian
-912,414259,Ka***,Br***,21.02.61,US,1,0,Doctor
-913,123514,Mi******,He*******,31.03.64,US,0,4,Web Designer
-914,895839,An*,Ma******,21.10.73,US,1,1,Kitchen staff
-915,934535,Ma**,Ma******,09.04.00,US,0,1,Lawyer
-916,409055,Li***,Di**,25.05.71,US,1,0,Librarian
-917,850103,Li**,Pa***,13.12.53,US,1,3,Librarian
-918,162287,Da***,Ro*******,08.06.02,US,1,0,Consultant
-919,707686,Jo**,Fl****,22.08.90,US,1,2,Consultant
-920,942571,Lu**,Sa*****,19.11.58,US,0,4,Web Designer
-921,300377,Jo**,Sa*****,01.12.87,US,,2,Teaching Assistant
-922,907535,Jo**,Jo*****,18.01.72,US,1,2,Teaching Assistant
-923,832011,Da***,Sm***,02.09.79,US,0,2,Lawyer
-924,331833,Ke***,Go***,29.07.63,US,0,,Lawyer
-925,539529,Mi*****,Br***,07.11.75,US,1,0,Administrative employee
-926,570351,Na***,He*******,27.06.52,US,0,,Librarian
-927,680273,Ka***,To****,11.09.89,US,1,1,Kitchen staff
-928,321117,Ma***,Ra*****,11.02.57,US,0,,Doctor
-929,619738,Sa****,Wi******,28.06.94,US,,2,Teaching Assistant
-930,247617,El*******,Br***,10.07.61,US,0,0,Banker
-931,748564,Mi****,Fl****,20.09.00,US,,,Consultant
-932,543267,Pa******,Di**,21.01.75,US,1,2,Doctor
-933,868229,Li***,He*******,29.06.57,US,1,0,Administrative employee
-934,789469,Na***,Ga****,23.06.70,US,1,1,Kitchen staff
-935,389314,Ja***,Jo*****,18.09.93,US,1,2,Lawyer
-936,620807,Jo**,Go***,06.12.65,US,0,0,Banker
-937,248876,Na***,Pe***,25.12.83,US,0,1,Manager
-938,866017,Ma***,Lo***,01.10.53,US,0,0,Manager
-939,887305,Th*****,Bu*******,17.02.98,ZA,0,2,Kitchen staff
-940,172555,Mi*****,Nd****,17.02.03,ZA,0,,Consultant
-941,459020,Li*****,Mo******,20.10.92,ZA,1,3,Professor
-942,911593,Jo**,Mt*****,06.02.82,ZA,1,0,Manager
-943,682880,Jo***,Zu**,02.03.82,ZA,0,0,Consultant
-944,300800,Si*******,Gu****,15.08.66,ZA,1,0,Consultant
-945,571277,Zi****,Nd****,13.05.99,ZA,0,2,Manager
-946,281076,Le****,Sm***,12.12.73,ZA,0,2,Banker
-947,458293,No********,Wi******,26.03.54,ZA,1,2,Professor
-948,268773,Le****,Nk***,30.04.82,ZA,1,,Kitchen staff
-949,218415,Bu******,Mo******,22.01.01,ZA,0,1,Web Designer
-950,173906,Th*****,Mo******,06.11.61,ZA,0,2,Web Designer
-951,178685,Mi*****,Bu*******,29.05.53,ZA,0,1,Professor
-952,200865,Si*******,Na****,16.12.62,ZA,0,0,Web Designer
-953,102637,Bo*****,Na****,24.02.50,ZA,0,,Consultant
+UserID,first_name,last_name,birthday,country,marital_status,number_of_kids,employment
+317991,Lu***,Al*****,29.07.03,AR,1,2,Web Designer
+241892,Ma****,Ro*******,10.11.99,AR,1,0,Banker
+303376,Fr****,Ac****,25.07.84,AR,1,0,Kitchen staff
+761992,Fr****,Go***,20.03.70,AR,1,0,Teaching Assistant
+373318,Jo***,Ro***,05.10.71,AR,1,0,Administrative employee
+938770,Ri*****,Ro***,16.12.59,AR,1,1,Professor
+676003,Cr******,Ro*******,24.07.67,AR,0,0,Lawyer
+169743,Li*****,Fe*******,19.09.68,AR,0,,Doctor
+255073,Al****,Ga****,06.09.98,AR,0,2,Manager
+468560,Ga******,Fe*******,18.04.60,AR,1,2,Lawyer
+263592,Ni*****,Sa*****,03.10.01,AR,1,2,Banker
+437022,Ga******,Ro*******,24.04.98,AR,0,,Teaching Assistant
+189915,Ma*****,na*,22.08.73,AR,0,,Web Designer
+660506,Ju**,Go***,30.11.04,AR,1,3,Librarian
+302708,Ed*****,Fl****,08.11.04,AR,1,,Doctor
+244162,Di***,Be*****,14.09.62,AR,1,0,Lawyer
+774730,Se****,To****,06.09.76,AR,0,3,Web Designer
+892754,Ro**,Go******,12.04.96,AR,,4,Consultant
+100684,Ma*****,Me****,17.06.76,AR,,0,Administrative employee
+100684,Ma*****,Me****,17.06.76,AR,,0,Administrative employee
+911014,Ma*****,Me****,19.05.57,AR,1,1,Banker
+601633,Ad*****,Lo***,18.09.79,AR,1,4,Banker
+645054,Su*****,Ed**,10.04.57,AT,0,0,Professor
+944932,Ka*******,Hu***,04.09.58,AT,,2,Web Designer
+255830,Ch*******,Be****,26.12.59,AT,1,1,Professor
+353527,Mo****,Mü****,17.05.56,AT,1,1,Teaching Assistant
+930234,Su*****,Ba***,09.04.72,AT,0,,Banker
+531937,Sa*****,Fu***,30.03.95,AT,0,2,Teaching Assistant
+413250,Ma*****,Ma***,27.04.87,AT,0,0,Lawyer
+601958,Ma*****,Sc*******,01.06.58,AT,1,2,Librarian
+717019,Ch*******,Ed**,28.01.95,AT,,2,Administrative employee
+596063,Ka*******,Fu***,05.04.72,AT,1,1,Teaching Assistant
+308658,Br******,St*****,23.07.89,AT,1,,Administrative employee
+744938,Ch*******,Le*****,27.03.52,AT,0,,Web Designer
+764821,So***,Ed**,25.06.57,AT,0,4,Consultant
+499175,El*******,Fu***,18.11.73,AT,1,,Kitchen staff
+291994,Pe***,Le*****,04.02.69,AT,,1,Consultant
+880689,Do*****,Ba***,05.10.53,AT,1,0,Professor
+919502,Ma*****,Ba***,27.01.81,AT,1,,Banker
+340001,Wo******,Pi*****,22.11.00,AT,1,4,Banker
+512604,Me******,Qu*****,12.02.75,AZ,0,0,Teaching Assistant
+165305,Ka****,Ag****,14.08.70,AZ,0,0,Librarian
+334769,Gu***,El*****,24.06.90,AZ,0,0,Banker
+564061,Em**,Al*****,29.03.99,AZ,1,3,Web Designer
+678161,Se***,Ag****,06.12.95,AZ,0,,Librarian
+569587,Gu****,Qa*****,03.07.79,AZ,0,,Manager
+848523,Gu***,Ba******,02.12.91,AZ,,4,Teaching Assistant
+910382,Ni***,El****,21.03.75,AZ,,0,Administrative employee
+794398,Ay***,Qu******,19.08.74,AZ,0,,Professor
+306495,Ra***,Is*******,12.12.85,AZ,0,0,Doctor
+647912,Se****,Ma*****,28.09.56,AZ,1,0,Lawyer
+946059,El***,Al*****,06.04.59,AZ,0,0,Manager
+917315,Nu***,Ab*****,02.10.55,AZ,1,0,Consultant
+716537,Fi***,Me*******,02.08.02,AZ,0,,Lawyer
+504629,Ay***,Ke*****,15.02.86,AZ,1,0,Banker
+872332,Ni***,El****,07.10.53,AZ,,1,Administrative employee
+520229,Fu**,Is*******,12.01.93,AZ,1,2,Doctor
+229860,Ke***,Ba*****,24.11.95,AZ,0,,Lawyer
+861915,Ay***,Al*****,26.02.78,AZ,0,1,Doctor
+308845,Az**,El*****,16.10.63,AZ,0,1,Librarian
+654987,Vu***,Me*******,11.02.54,AZ,1,4,Librarian
+398531,Ce****,Qa*****,05.06.63,AZ,1,0,Teaching Assistant
+560152,Ay***,Al*****,04.11.82,AZ,0,,Banker
+327507,Ra***,Qu******,03.01.93,AZ,0,0,Kitchen staff
+888670,Ay***,Hu******,06.06.03,AZ,0,1,Lawyer
+613185,Ke***,Ha*****,25.03.74,AZ,,1,Librarian
+604322,Gu***,Mu********,03.10.04,AZ,0,,Administrative employee
+597007,Na****,Is***,01.11.03,BD,,1,Banker
+595591,Ta*****,Kh**,12.04.81,BD,1,,Teaching Assistant
+561296,Jo*,Sa**,14.05.65,BD,,,Consultant
+449514,Ab******,Ha***,29.10.02,BD,1,2,Web Designer
+819045,Ha***,Ra****,16.06.56,BD,1,1,Web Designer
+899768,Is***,Sa**,22.12.52,BD,1,0,Librarian
+251233,Sh*****,Ma****,16.03.88,BD,1,0,Doctor
+470030,Ka**,Ha***,24.07.67,BD,,4,Manager
+511852,Ha***,Mi**,25.11.83,BD,,0,Manager
+344946,Ay****,Bi****,06.12.02,BD,1,0,Lawyer
+932285,Nu****,Is***,14.11.79,BD,1,3,Professor
+169664,Ja****,Is***,12.07.04,BD,1,0,Administrative employee
+226545,Ru***,Ho*****,04.04.60,BD,,0,Doctor
+534300,Ch*****,Du****,26.10.66,BE,,0,Kitchen staff
+275629,An*,Ja****,17.09.77,BE,,2,Teaching Assistant
+265615,Er**,La*****,13.03.67,BE,1,2,Web Designer
+867078,Lu*,Ja****,19.04.94,BE,0,2,Web Designer
+618568,Do*******,Wo*****,16.06.69,BE,0,1,Professor
+728073,Ni*****,Ae***,16.04.75,BE,,0,Banker
+512128,Ci***,Me*****,29.05.69,BE,1,1,Librarian
+222875,Th****,Ae***,07.03.53,BE,0,1,Kitchen staff
+160212,Er**,Pe*****,27.04.81,BE,1,0,Manager
+627731,Ch*******,He*****,06.01.78,BE,,1,Lawyer
+466624,Al***,Go******,08.11.57,BE,0,3,Kitchen staff
+903438,Ma**,El,08.03.86,BE,1,4,Web Designer
+957997,Ch********,La*****,30.08.90,BE,0,3,Kitchen staff
+362662,Mi****,De*****,22.01.95,BE,0,1,Manager
+892546,So****,Wi*****,11.11.59,BE,0,0,Consultant
+777470,Ch********,Ve*******,23.05.83,BE,0,1,Administrative employee
+118722,Th****,Wo*****,12.02.57,BE,1,,Manager
+397912,Al***,Ve*******,16.06.97,BE,0,0,Teaching Assistant
+123562,So****,El,09.09.95,BE,0,0,Librarian
+939524,St****,Mi******,06.02.55,BE,0,3,Administrative employee
+387676,Ni****,Pa*****,19.08.79,BE,0,1,Doctor
+860681,So***,Ma**,10.04.63,BE,0,3,Banker
+789726,Ci***,Be*,23.09.51,BE,1,2,Kitchen staff
+167822,Pl****,Ni*****,14.04.66,BG,1,4,Administrative employee
+919782,Ge*****,Ge******,09.11.84,BG,,2,Librarian
+571370,Di*****,Ив*****,15.03.73,BG,1,0,Consultant
+752431,Kr******,Di*******,27.05.69,BG,1,,Librarian
+388211,Ga****,Di******,11.12.85,BG,0,,Administrative employee
+863210,Ni*****,Di*******,12.03.51,BG,0,0,Consultant
+717780,Hr******,Ге******,15.12.61,BG,1,0,Web Designer
+863592,Ne**,Di*******,14.08.99,BG,1,2,Doctor
+898254,Te*****,Iv****,07.02.56,BG,1,0,Kitchen staff
+243358,Ге****,Iv*****,24.12.57,BG,0,,Web Designer
+424603,Ni*****,Pe****,16.11.76,BG,1,2,Web Designer
+632973,Pe***,Ге*******,26.03.69,BG,1,0,Librarian
+142868,Си****,Pe****,30.06.67,BG,0,,Librarian
+599462,Та**,Ге*******,15.01.82,BG,0,0,Lawyer
+278850,Ca****,Na********,25.12.04,BR,,,Web Designer
+601265,El****,Lo***,26.03.61,BR,1,0,Web Designer
+402663,El****,Al*****,16.02.68,BR,1,3,Administrative employee
+226609,Ga*****,Ol******,22.03.82,BR,1,2,Kitchen staff
+790344,Fr*******,Al***,27.08.52,BR,0,0,Banker
+862416,Fr*******,Ri*****,01.07.65,BR,1,0,Librarian
+134514,Ma*****,Ma*****,27.06.62,BR,0,0,Manager
+615453,Lu**,Sa****,02.05.85,BR,,0,Web Designer
+177842,Jo**,Go***,15.08.51,BR,1,0,Kitchen staff
+551506,Br***,Fe******,09.04.61,BR,0,1,Web Designer
+933648,Pa***,Ol******,19.07.92,BR,0,,Lawyer
+365406,Fe****,Co***,06.02.79,BR,1,2,Manager
+825733,Al***,Ca******,23.04.94,BR,0,4,Teaching Assistant
+329574,Jo**,Ma*****,20.03.51,BR,0,,Web Designer
+220420,Ma*****,So****,23.12.84,BR,0,3,Web Designer
+927140,Da****,Si***,05.04.97,BR,1,0,Administrative employee
+881143,Jo**,Ca******,21.02.67,BR,,0,Lawyer
+805210,Ed*****,Pe*****,06.08.89,BR,,2,Kitchen staff
+596661,La*****,Co***,04.07.51,BR,1,2,Professor
+688784,Da****,So****,15.10.03,BR,0,3,Manager
+219047,Sa****,So***,11.01.73,BR,1,0,Kitchen staff
+154955,Ma****,Go***,05.03.02,BR,,,Teaching Assistant
+947999,Ch***,Gi**,14.05.03,CA,,1,Manager
+829946,Mi**,Sh****,07.12.56,CA,1,1,Web Designer
+732448,Ra****,Gi**,12.09.53,CA,,2,Kitchen staff
+463087,Li**,Pa***,19.06.04,CA,1,,Teaching Assistant
+242912,Am****,Si***,26.08.74,CA,0,0,Teaching Assistant
+443524,Mi**,Wa**,10.10.55,CA,0,1,Lawyer
+464891,Ry**,Sm***,29.09.53,CA,0,0,Banker
+501209,Ch*******,Ng****,17.04.03,CA,1,,Professor
+380835,Me*****,Ki*,03.09.77,CA,1,0,Administrative employee
+823355,Am****,Ch**,08.03.90,CA,1,1,Doctor
+456546,Su***,Gi**,24.02.54,CA,1,3,Banker
+790046,St*******,Sa****,15.03.83,CA,0,1,Manager
+932281,He*****,Ng****,09.04.89,CA,0,0,Web Designer
+538431,St*******,Br***,10.07.80,CA,1,2,Administrative employee
+297653,Br***,Wo**,22.09.68,CA,1,0,Lawyer
+206269,Ki*,Ki*,08.05.88,CA,0,1,Banker
+96336,Ma*****,Br***,27.04.82,CA,1,4,Consultant
+273453,Lu**,Ke****,15.07.98,CH,0,1,Professor
+112768,Do*******,Me***,28.05.95,CH,1,0,Banker
+785535,Ma**,St*****,05.01.95,CH,0,,Manager
+446376,Na****,Me***,29.12.63,CH,1,1,Web Designer
+205381,Ma**,Pe*****,28.01.75,CH,1,0,Kitchen staff
+614048,Ka***,Ro*******,12.01.69,CH,0,1,Administrative employee
+931353,Ma*****,Fe*******,09.10.96,CH,0,1,Administrative employee
+773737,Ja****,Me***,27.09.94,CH,1,0,Manager
+937775,Ch*******,Fe*******,14.02.51,CH,0,,Professor
+910382,Ni***,El****,21.03.75,AZ,,0,Administrative employee
+805237,Re**,St*****,11.08.02,CH,1,,Doctor
+793505,Ur*,Ol******,16.11.58,CH,0,3,Lawyer
+638693,Ro****,Ro*******,05.03.76,CH,,2,Consultant
+747112,Pa****,Kr******,17.12.89,CH,,2,Teaching Assistant
+419563,Be******,Mü****,22.10.86,CH,1,3,Manager
+299485,Br******,Da******,24.08.85,CH,0,0,Manager
+752845,Pa******,Ca******,28.11.54,CL,0,1,Doctor
+278360,Al*******,Ro***,10.05.83,CL,1,1,Teaching Assistant
+494514,Al*******,Ca****,02.04.79,CL,1,2,Consultant
+157584,Ce*****,Ca******,02.09.68,CL,0,,Kitchen staff
+153161,Pa******,Go******,08.08.71,CL,0,,Teaching Assistant
+571364,Ca****,Re***,07.02.85,CL,0,1,Manager
+303529,Ju**,Ca******,13.07.66,CL,0,0,Kitchen staff
+481237,Mi****,Es******,31.12.71,CL,,0,Web Designer
+796491,Mi****,Ro***,06.03.76,CL,0,2,Doctor
+938286,Ma****,So**,08.02.93,CL,,,Banker
+205775,Fr*******,Mu***,01.11.75,CL,1,0,Administrative employee
+133154,Ro**,Fu*****,22.09.68,CL,1,0,Banker
+658036,Al*******,Si***,14.08.83,CL,,2,Administrative employee
+182040,Al*******,Di**,28.08.68,CL,0,1,Manager
+425341,Mi****,Fl****,08.01.55,CL,1,0,Consultant
+375333,Ro**,Ca****,07.10.90,CL,,0,Banker
+778887,Fr*******,Di**,29.09.85,CL,0,3,Consultant
+583984,Mi****,Pe***,08.02.79,CO,0,0,Consultant
+892108,An*,Ji*****,16.06.87,CO,,,Doctor
+236456,Li*****,To****,07.07.62,CO,0,,Doctor
+539227,Se*******,Va****,29.03.92,CO,0,0,Web Designer
+564387,Li*****,Qu******,13.03.59,CO,1,0,Kitchen staff
+676494,Fe******,Di**,10.09.96,CO,1,2,Librarian
+430864,Fe******,Va******,08.03.80,CO,0,1,Professor
+899581,Ju**,Go******,12.10.60,CO,1,2,Professor
+541677,Cr******,Ro***,15.12.78,CO,,,Consultant
+240613,Ma****,Go***,19.08.63,CO,0,2,Professor
+475447,Gl****,Ro***,30.07.88,CO,0,,Kitchen staff
+859112,Ca****,Lo***,06.01.68,CO,0,2,Banker
+673755,Al*******,Va******,11.07.84,CO,1,,Administrative employee
+541833,Lu**,Ro***,20.06.78,CO,0,1,Lawyer
+126115,Cl*****,Ma******,02.11.89,CO,1,3,Kitchen staff
+839591,An****,Mu***,19.06.97,CO,0,0,Web Designer
+453712,An*,Ma******,18.03.59,CO,1,1,Professor
+544861,Os***,To****,14.08.55,CO,0,0,Teaching Assistant
+544078,Al*******,Lo***,17.11.96,CO,1,1,Teaching Assistant
+183509,An****,Mo**,19.10.63,CR,0,1,Doctor
+233165,Ma*****,He*******,08.01.55,CR,,2,Teaching Assistant
+259083,Ra****,Ar***,13.12.74,CR,1,1,Librarian
+512432,Ka****,Go******,17.02.01,CR,1,1,Kitchen staff
+935750,Sh*****,Sa*****,03.09.79,CR,,2,Kitchen staff
+874150,An***,Ro***,30.05.97,CR,1,2,Kitchen staff
+484182,Ka*******,Sa*****,24.05.02,CR,0,1,Professor
+745938,Ed***,Ra*****,13.08.94,CR,1,0,Administrative employee
+291359,Es*****,Ca******,04.01.70,CR,1,0,Consultant
+728010,Sh*****,Qu*****,11.08.50,CR,,,Teaching Assistant
+499672,Br***,Ag*****,25.06.92,CR,1,1,Manager
+336775,Ke*****,Qu*****,15.07.93,CR,1,,Consultant
+386207,Ma****,Ca****,23.11.57,CR,0,,Consultant
+757865,Al****,He*******,12.06.73,CR,0,1,Consultant
+744124,Ma****,Ca******,01.05.72,CR,1,0,Lawyer
+641947,Ma******,Ca****,24.04.91,CR,1,1,Consultant
+631749,Ma*****,Qu*****,23.11.77,CR,0,0,Manager
+306277,Ju*********,Es******,10.08.68,CR,0,1,Manager
+235799,Ma******,Ar***,01.12.76,CR,0,1,Manager
+710764,Ra*****,He*******,27.05.76,CR,0,4,Manager
+781819,Li***,Ar***,03.07.87,CR,1,1,Professor
+666304,Al****,Ca****,11.09.92,CR,1,2,Kitchen staff
+936933,Sh*****,Va****,12.12.00,CR,0,0,Teaching Assistant
+553754,Sh*****,Es******,27.05.66,CR,0,0,Librarian
+388481,Ma*****,Mo**,27.03.94,CR,,,Teaching Assistant
+549118,Ma******,Sa*****,12.02.69,CR,1,1,Lawyer
+700708,Ka****,Mo**,23.06.52,CR,0,1,Librarian
+817857,Ro***,Qu*****,25.10.83,CR,1,1,Administrative employee
+874839,Ca****,Qu*****,04.02.76,CR,1,0,Teaching Assistant
+693763,Ca****,So****,28.01.55,CR,0,0,Doctor
+370133,Pa***,Če***,21.02.69,CZ,,2,Administrative employee
+367673,Ve******,Pr*********,08.09.63,CZ,0,1,Lawyer
+619595,Zu****,No***,24.04.88,CZ,1,1,Lawyer
+752974,Mi****,No***,18.12.57,CZ,0,,Professor
+103928,Ma****,Pr*********,30.11.84,CZ,0,4,Banker
+830225,Ha**,Ve****,28.07.81,CZ,,2,Professor
+307584,Ka***,No***,21.05.91,CZ,,3,Professor
+245167,Lu***,No***,28.03.91,CZ,1,1,Banker
+893389,Kr******,Dv*******,21.08.85,CZ,0,1,Administrative employee
+199853,Le***,Če***,16.07.81,CZ,1,,Consultant
+397601,Ba*****,No***,06.12.98,CZ,0,0,Manager
+442794,Mi******,No*****,23.07.51,CZ,0,2,Consultant
+145612,Mo****,Ku******,13.10.72,CZ,1,,Professor
+949985,Ma***,Ma***,13.12.75,CZ,0,2,Professor
+954902,Ve******,Ma***,07.09.89,CZ,,1,Banker
+448389,Ke*****,Ne*****,01.07.55,DE,0,,Lawyer
+422134,Da****,Me***,31.01.02,DE,1,1,Consultant
+852073,He***,Ne*****,18.09.00,DE,0,4,Web Designer
+822072,Ma***,Sc******,15.06.99,DE,0,0,Lawyer
+628503,An**,Ne*****,03.04.67,DE,0,1,Banker
+102027,Pe***,Sc*****,08.04.64,DE,,,Teaching Assistant
+953342,Mo****,Sc****,07.03.68,DE,1,1,Lawyer
+397921,Su*****,Ri*****,03.06.01,DE,0,1,Professor
+927269,Th****,Be****,05.05.68,DE,0,4,Manager
+360869,An*****,Wa****,13.05.94,DE,0,,Doctor
+228819,Ju***,Kl***,05.08.75,DE,1,1,Librarian
+317639,He***,Ho******,15.09.94,DE,0,,Web Designer
+554189,Ki*,Mø****,15.01.60,DK,,0,Lawyer
+913560,Ma**,Ha****,21.11.63,DK,1,3,Lawyer
+648234,An****,Mø****,19.02.75,DK,0,2,Kitchen staff
+901061,Ra****,Jø*******,02.02.79,DK,1,,Professor
+294336,Ma**,Sø******,06.02.94,DK,0,2,Administrative employee
+943792,Je****,Kn*****,05.06.99,DK,1,3,Librarian
+267733,Sø***,Ma****,14.09.98,DK,0,0,Kitchen staff
+638192,An****,Mø****,28.06.89,DK,1,2,Manager
+353596,Ch*******,Ol***,24.07.71,DK,1,2,Teaching Assistant
+718820,Ha***,Jø*******,22.12.51,DK,0,,Administrative employee
+408523,Le**,Sø******,13.09.69,DK,,1,Professor
+610518,An*****,An******,15.02.53,DK,1,,Manager
+348465,Ch*******,Sø******,17.06.88,DK,0,,Administrative employee
+350035,Mi****,La****,19.08.53,DK,0,4,Teaching Assistant
+348955,Am***,Mi****,26.05.77,DZ,,4,Professor
+99437,Fa****,Ka***,02.02.98,DZ,0,,Web Designer
+570734,Yo****,ال*****,14.04.72,DZ,1,0,Web Designer
+743377,Am**,Mi****,04.10.85,DZ,0,1,Doctor
+605766,na*,Mi****,15.03.89,DZ,0,0,Manager
+957079,Br****,Ab***,23.01.60,DZ,0,3,Manager
+774151,Me****,Mo*,15.04.62,DZ,0,,Administrative employee
+150642,So****,Ch,15.06.87,DZ,1,0,Doctor
+356865,Br****,Ab***,06.03.79,DZ,1,3,Librarian
+621691,نو*,Ka***,24.12.57,DZ,1,2,Librarian
+888216,Sa**,Mc*,22.05.76,DZ,1,3,Administrative employee
+610518,An*****,An******,15.02.53,DK,1,,Manager
+210667,أم,Ma****,02.11.62,DZ,1,0,Web Designer
+794594,Mi**,Ch,01.01.95,DZ,1,2,Consultant
+524465,Ka***,Am***,28.03.57,DZ,1,4,Lawyer
+740078,Am**,Ab***,19.06.99,DZ,1,0,Librarian
+754702,An********,Sa**,13.03.57,EE,1,0,Librarian
+429697,Li**,Re****,28.07.59,EE,1,3,Administrative employee
+741709,Ta***,Ka****,22.03.51,EE,1,3,Administrative employee
+510420,Ал*****,Ki**,15.05.55,EE,1,0,Professor
+204180,Ma****,Ko****,22.11.93,EE,0,0,Administrative employee
+564884,Ka***,Li**,06.09.93,EE,0,2,Banker
+412064,Ол***,Se**,30.07.74,EE,0,0,Banker
+490146,Je*****,Ta**,16.09.93,EE,0,4,Librarian
+881695,Si**,Ka****,15.03.99,EE,0,1,Lawyer
+933156,Al*******,Pä**,29.01.81,EE,1,2,Manager
+264350,To****,Sm******,18.03.70,EE,1,,Consultant
+433741,Ma****,Le***,30.05.70,EE,,4,Kitchen staff
+107841,An****,Re****,17.10.78,EE,1,0,Banker
+416507,Ан****,Il***,22.09.64,EE,1,1,Teaching Assistant
+649580,Kr****,Lu**,03.05.94,EE,0,,Kitchen staff
+441791,An****,Sm******,20.10.57,EE,0,1,Consultant
+565225,Al*****,Mä**,08.05.72,EE,1,0,Web Designer
+303568,An********,Ka**,09.10.68,EE,0,2,Banker
+427007,Ta*****,Sa**,26.01.02,EE,1,,Manager
+220240,Ал*****,Ko****,11.03.59,EE,0,,Lawyer
+304619,Dm****,Me**,24.05.85,EE,1,0,Banker
+866911,Ал*******,Mä**,31.07.85,EE,1,1,Banker
+452474,An****,Ta**,17.08.88,EE,0,,Manager
+168991,Ан****,Sm******,14.06.96,EE,0,2,Kitchen staff
+649442,Si**,Me**,09.03.03,EE,1,1,Librarian
+661915,Ma****,Ku**,28.04.85,EE,0,,Consultant
+754989,Ta*****,Mä**,03.01.95,EE,0,1,Banker
+809676,Li***,Oj*,04.11.50,EE,0,,Consultant
+779759,Ti***,Ka****,17.05.65,EE,,1,Manager
+937535,To****,Sm******,26.09.55,EE,1,0,Professor
+376743,An*****,He*******,04.12.73,ES,1,0,Kitchen staff
+767527,Ma***,Pe***,04.08.94,ES,0,0,Consultant
+225178,Al*****,Ga****,08.03.51,ES,0,0,Web Designer
+519735,Is****,Ga****,21.08.97,ES,1,4,Banker
+569511,So***,Go***,30.11.04,ES,,3,Banker
+953642,Da***,Mu***,29.12.99,ES,0,0,Teaching Assistant
+125746,An*,Go******,14.01.72,ES,1,3,Professor
+623880,Is****,Ga****,08.01.87,ES,0,1,Banker
+644096,Ro***,Ru**,13.11.62,ES,,3,Consultant
+494223,Mi****,Lo***,22.07.67,ES,1,,Banker
+720728,Ja****,Ma****,09.07.67,ES,0,0,Manager
+836925,Sa**,Di**,20.01.76,ES,0,0,Doctor
+538463,Ni**,Sa**,30.10.53,FI,1,,Teaching Assistant
+283140,Ja***,Mä*****,28.10.80,FI,,1,Manager
+449172,He***,Mä*****,04.02.83,FI,1,1,Web Designer
+799279,An***,Hä********,10.07.55,FI,0,,Manager
+198680,Ju***,Ni******,14.08.96,FI,0,0,Librarian
+428637,Pe***,Ni***,18.03.95,FI,0,1,Consultant
+702124,El***,Jo*****,31.03.88,FI,1,1,Lawyer
+706286,Sa**,Mä*****,08.08.51,FI,0,0,Manager
+934741,Ma****,La***,26.04.76,FI,0,0,Professor
+792996,Te***,He******,15.11.52,FI,0,0,Doctor
+841972,Ja***,Ni***,10.06.01,FI,,1,Manager
+391296,Mi**,He******,05.01.73,FI,1,1,Manager
+318978,Ti**,Sa******,03.06.97,FI,1,4,Consultant
+149578,Ju***,Ki******,13.06.51,FI,1,1,Doctor
+156341,Ju***,Ni***,17.11.93,FI,0,0,Administrative employee
+308490,Vi***,La***,19.02.56,FI,0,,Professor
+140991,Ti***,Mä****,08.01.66,FI,0,2,Teaching Assistant
+573948,An***,Jo*****,03.07.64,FI,,1,Doctor
+641389,Mi**,Mä****,25.06.57,FI,1,0,Lawyer
+421513,Pe***,La***,12.05.96,FI,1,2,Professor
+460980,Em****,Da******,30.07.64,FR,1,0,Banker
+184231,Ma***,Th****,12.02.84,FR,1,0,Doctor
+917044,Er**,Da******,22.12.01,FR,0,,Librarian
+355972,Ch*******,Ro****,03.01.91,FR,0,3,Teaching Assistant
+806187,Ro****,La*****,11.10.76,FR,0,1,Web Designer
+628233,Th*****,Du****,22.04.84,FR,1,0,Lawyer
+522966,Do*******,Ga****,10.07.85,FR,1,1,Consultant
+925217,Ca*******,Ma******,11.06.95,FR,0,1,Teaching Assistant
+535048,Da***,Le***,10.09.72,FR,1,2,Lawyer
+168728,Sa******,Th****,11.08.60,FR,1,2,Professor
+400123,So****,Ro****,09.07.82,FR,1,,Librarian
+241404,Pa*****,Th****,21.05.02,FR,0,1,Professor
+703326,Ph******,Mi****,18.04.74,FR,0,2,Manager
+325946,Ro****,Ma******,21.11.78,FR,0,2,Doctor
+154013,St***,Jo***,06.02.71,GB,0,1,Librarian
+448665,Da****,Wi****,08.12.78,GB,1,2,Teaching Assistant
+814931,Sa*,Hu****,23.05.86,GB,1,2,Lawyer
+537543,Ja***,Ta****,18.09.71,GB,1,1,Consultant
+803332,Ra****,Jo***,31.12.87,GB,1,0,Teaching Assistant
+581364,An****,Kh**,11.08.97,GB,1,2,Administrative employee
+455352,Ma**,Wh***,18.01.95,GB,0,0,Consultant
+128462,La****,Hu****,26.06.04,GB,1,1,Teaching Assistant
+151092,Da***,Sm***,05.12.51,GB,1,0,Kitchen staff
+875439,Sa***,Da****,04.09.61,GB,0,0,Kitchen staff
+782656,Sa*,Pa***,02.08.99,GB,,0,Administrative employee
+418245,Sa*,Gr***,28.07.91,GB,1,3,Professor
+843485,Am*,Kh**,07.07.67,GB,0,2,Banker
+99489,Pa**,Da****,25.09.98,GB,0,0,Administrative employee
+817477,Ja**,Ev***,10.12.56,GB,1,,Administrative employee
+231948,Pa**,Wr****,14.01.02,GB,1,0,Librarian
+645264,Ma**,Th****,12.11.67,GB,0,0,Manager
+121757,Cl****,Wh***,09.09.65,GB,0,,Web Designer
+649131,Ju***,Wi****,04.07.91,GB,1,3,Banker
+382851,Ja**,Wi******,30.12.83,GB,0,3,Teaching Assistant
+108420,Em***,Gr***,13.10.80,GB,1,1,Doctor
+794744,To*,NaN,12.04.54,GB,1,3,Administrative employee
+339524,An**,Br***,15.03.83,GB,1,1,Kitchen staff
+425338,NaN,Ro*****,08.04.68,GB,0,,Lawyer
+509130,Ma*****,He*******,09.09.90,GT,0,2,Kitchen staff
+719655,El*******,Lo***,02.12.91,GT,1,0,Teaching Assistant
+316652,Ju**,Ló***,14.08.79,GT,0,1,Professor
+653321,Es******,Ca******,29.01.01,GT,1,4,Kitchen staff
+251964,Fl**,Mo*****,26.03.60,GT,,2,Librarian
+569590,Ma****,Va*****,05.08.54,GT,0,2,Doctor
+517645,Ma***,Ag*****,17.02.52,GT,1,0,Lawyer
+481578,Br****,De*****,31.07.63,GT,1,0,Administrative employee
+438895,Ma***,Ra*****,02.04.87,GT,1,0,Consultant
+942442,Er***,Go***,03.05.79,GT,0,1,Manager
+129634,Ma*****,Es*****,24.02.83,GT,,2,Banker
+523716,Ma*****,Va*****,17.03.02,GT,1,,Kitchen staff
+304526,An******,He*******,12.11.76,GT,1,0,Manager
+393146,Fr*******,Mo*****,25.10.51,GT,1,1,Kitchen staff
+147954,Ma***,Di**,06.04.68,GT,1,,Administrative employee
+434361,El*******,Ra***,19.07.99,GT,0,0,Kitchen staff
+725560,El*******,Lo***,18.02.80,GT,0,,Kitchen staff
+548974,Ga**,Re***,01.10.99,GT,1,1,Teaching Assistant
+726678,Br****,Va*****,07.03.98,GT,0,0,Web Designer
+804662,Er***,He*******,08.08.54,GT,1,1,Consultant
+807369,Al*******,Me****,09.02.03,GT,1,,Teaching Assistant
+456436,Ka******,Gr***,04.07.62,HR,1,1,Doctor
+661944,Je****,Ša***,15.08.90,HR,1,1,Lawyer
+108215,Ma***,Ko*******,01.02.54,HR,0,1,Professor
+188504,Ve***,Pe***,24.07.52,HR,1,,Teaching Assistant
+378721,Ve***,Ko*****,14.02.97,HR,1,1,Professor
+573810,Iv*,Ko*****,27.01.57,HR,1,2,Librarian
+448489,Lu****,Ho****,26.08.95,HR,1,,Kitchen staff
+769196,Ka******,Ju***,19.06.69,HR,1,4,Doctor
+804201,Ma***,Ši***,06.05.92,HR,1,1,Librarian
+687648,Iv***,Ko*******,10.07.72,HR,1,,Administrative employee
+625887,Mi*****,Ma***,21.10.82,HR,0,,Professor
+395115,Ni******,Bo***,27.07.89,HR,1,4,Banker
+287607,Lu****,Bo***,07.06.73,HR,0,3,Kitchen staff
+866984,Ma******,Ho****,01.08.83,HR,0,1,Consultant
+791891,Go***,Ko*******,20.12.00,HR,0,4,Kitchen staff
+631142,Ni******,Ma***,03.02.70,HR,0,0,Doctor
+780084,Ma***,Ma***,21.11.59,HR,1,4,Doctor
+708168,Ka******,Ko*******,16.05.79,HR,1,2,Web Designer
+131191,Jo****,Ši***,28.08.83,HR,0,0,Banker
+474811,Ga*******,Pé***,09.03.78,HU,0,0,Banker
+490705,Tí***,Pa**,29.08.86,HU,0,0,Librarian
+898063,Ti***,Sz***,25.07.73,HU,1,2,Librarian
+409012,Év*,Tó**,30.10.86,HU,1,4,Consultant
+434104,Kr*******,Sz***,25.06.61,HU,,2,Professor
+522432,An****,Na**,26.09.93,HU,0,,Librarian
+610905,Ti***,Ju****,03.05.63,HU,1,0,Librarian
+621836,Ju***,Né****,09.09.69,HU,1,1,Administrative employee
+564184,Má***,Tó**,16.02.87,HU,0,,Banker
+387404,Sz*****,Va***,06.12.88,HU,1,2,Doctor
+454379,No*****,Ki**,08.11.73,HU,1,1,Banker
+503392,Il****,Ta***,12.08.68,HU,0,0,Lawyer
+859745,Sz*****,Ta***,21.02.93,HU,0,2,Manager
+931183,Er******,Fa****,13.06.84,HU,0,1,Lawyer
+780199,Dó**,Va***,27.12.96,HU,0,2,Web Designer
+185864,Is****,Gá***,23.11.01,HU,,4,Kitchen staff
+651597,Gá***,Ko****,28.01.02,HU,1,0,Librarian
+411537,An****,Pa**,27.11.72,HU,1,4,Web Designer
+795804,No*****,Ba****,28.06.75,HU,1,1,Administrative employee
+431634,Mó****,Pa**,20.05.53,HU,0,1,Lawyer
+883252,Sá****,Ko****,24.11.84,HU,1,2,Lawyer
+857627,An****,Pé***,15.12.77,HU,0,2,Kitchen staff
+795805,An****,Ba****,05.04.77,HU,0,4,Librarian
+372166,Cs***,Zo****,24.03.01,HU,0,0,Banker
+581173,Má***,Fa****,19.07.02,HU,0,4,Librarian
+98459,Lá****,Mo****,26.12.57,HU,1,0,Doctor
+280659,De*****,Ke***,04.11.01,IE,0,3,Librarian
+536355,Ja***,Da**,25.09.70,IE,1,1,Professor
+431378,Ma******,Ke***,01.02.71,IE,1,0,Web Designer
+935949,Ni***,Do***,05.11.84,IE,0,1,Professor
+201298,Se**,Ry**,16.01.72,IE,1,,Teaching Assistant
+201125,Li**,Ry**,05.06.76,IE,0,4,Doctor
+304338,Pa*,Ly***,05.03.71,IE,0,0,Banker
+704873,Pa***,Mu****,27.12.63,IE,0,2,Administrative employee
+131824,Em**,Mu****,11.05.54,IE,1,1,Manager
+204834,Cl****,Sm***,15.03.84,IE,1,1,Lawyer
+172656,Pa*,Bu***,22.06.69,IE,0,0,Manager
+527013,Ja***,Sm***,05.04.78,IE,0,0,Banker
+424791,Fi***,Mc******,23.06.74,IE,1,2,Teaching Assistant
+465159,Pa***,Ke***,05.07.85,IE,0,3,Consultant
+132322,Em**,Wa***,27.03.81,IE,0,1,Doctor
+861181,To*,Mc******,27.09.52,IE,0,2,Consultant
+455736,St*****,Ke***,16.02.75,IE,0,0,Consultant
+422474,An*,Ob****,23.04.04,IE,1,0,Manager
+411464,Ma**,na*,16.08.82,IE,0,2,Administrative employee
+329177,Al**,Mc******,11.05.60,IE,1,,Librarian
+350882,Pa*,Ke***,26.08.83,IE,1,,Administrative employee
+415269,Ca******,Fa*****,29.03.54,IE,0,2,Manager
+119792,Pa*****,Do***,26.10.69,IE,0,3,Banker
+788180,Po***,Gu***,05.04.98,IN,1,0,Teaching Assistant
+713550,Po***,Pa***,09.05.68,IN,1,3,Librarian
+347349,Ro***,Sh****,10.10.73,IN,1,0,Consultant
+427246,Di***,Mi****,29.04.82,IN,1,2,Consultant
+589319,Ma***,Ve***,14.06.98,IN,1,2,Web Designer
+509348,An**,Th****,03.08.58,IN,1,1,Banker
+383876,Ra**,Ra*,18.01.51,IN,0,4,Banker
+439819,Ma*****,Al*,10.01.78,IN,1,0,Web Designer
+887417,Ra**,Kh**,02.06.01,IN,0,1,Lawyer
+698537,Ka***,Al*,21.06.58,IN,1,,Kitchen staff
+258345,Aj**,Sk,15.04.99,IN,0,1,Manager
+693420,Ra***,Ch*****,27.08.62,IN,0,,Librarian
+618056,Ne**,Si***,13.10.71,IN,,2,Librarian
+792062,Sa****,Th****,27.08.91,IN,1,1,Consultant
+351472,Po***,Ku***,27.07.87,IN,1,0,Teaching Assistant
+416130,Ma***,Sh****,22.02.00,IN,1,0,Administrative employee
+694183,Vi***,Ro*,01.08.67,IN,1,0,Manager
+231770,Po***,Ya***,06.04.70,IN,0,2,Manager
+679196,Pu**,Ra****,25.07.88,IN,1,0,Librarian
+425350,Ri**,Sk,23.10.65,IN,0,1,Teaching Assistant
+254120,Md,Ku***,11.04.50,IN,0,,Manager
+544592,Ra****,Mi****,13.11.86,IN,0,0,Professor
+561241,Mu****,Gu***,03.08.83,IN,,4,Professor
+550287,Ra**,Sk,27.06.93,IN,1,1,Kitchen staff
+461640,Md,Si***,19.07.03,IN,1,,Lawyer
+942410,Ma*****,Jó*****,30.12.54,IS,1,,Doctor
+729575,Jó****,Gu********,03.08.84,IS,1,1,Banker
+813808,Br*****,Si************,23.06.60,IS,0,1,Web Designer
+597612,Hi****,Jó*****,18.02.02,IS,0,2,Professor
+826577,Gu*******,Jó********,08.06.96,IS,0,0,Librarian
+408115,Ra****,Gu********,04.05.88,IS,0,,Banker
+951822,Ei***,Gu***********,28.05.82,IS,0,1,Web Designer
+352848,Ko*****,Bj*******,21.11.78,IS,1,0,Manager
+219849,Si****,Bj*******,28.12.69,IS,0,1,Teaching Assistant
+183438,Ma****,Gu*********,08.04.92,IS,0,1,Lawyer
+339793,Hu***,Kr**********,11.04.70,IS,1,2,Librarian
+764805,Ma*****,Bj*******,30.01.74,IS,,,Manager
+930718,Al********,Co***,20.12.87,IT,0,,Manager
+744291,Da****,Gi******,27.03.00,IT,1,,Administrative employee
+131393,Ma***,De*****,09.04.82,IT,0,1,Lawyer
+410319,Al********,Bi*****,10.02.67,IT,1,0,Lawyer
+396551,El***,Bi*****,21.01.54,IT,1,,Doctor
+793674,Vi******,Ru***,01.11.94,IT,0,1,Librarian
+386917,Al********,Bi*****,20.08.84,IT,1,0,Consultant
+200688,An*****,Ri***,21.12.60,IT,1,2,Consultant
+382237,Ma*****,Fe*****,03.04.80,IT,0,0,Librarian
+224422,Ma****,Ro****,02.06.00,IT,0,0,Consultant
+772645,Gi******,Ru***,10.08.50,IT,1,0,Teaching Assistant
+755916,Da*****,Fe*****,25.07.89,IT,,,Professor
+169705,Vi******,Le***,03.06.55,IT,1,0,Librarian
+638950,Ta*****,In***,17.12.59,JP,0,1,Manager
+698563,Yo**,Ko*******,18.10.64,JP,0,1,Librarian
+949973,Ha****,Ya*******,03.02.75,JP,0,3,Lawyer
+643332,Mi**,Sa***,08.03.65,JP,1,0,Lawyer
+486395,Ko**,Ma*******,09.08.99,JP,0,1,Banker
+915055,Yu**,Ma*******,10.02.68,JP,1,2,Librarian
+505876,Yo**,Su****,07.07.52,JP,1,1,Librarian
+673325,Yu**,Ya*******,19.10.59,JP,0,0,Doctor
+223968,Yu****,Yo*****,07.06.01,JP,0,2,Doctor
+526779,Ma****,Sh*****,28.06.52,JP,,0,Doctor
+96722,Ay***,Ki****,31.08.97,JP,1,2,Professor
+232443,성희,Ba**,04.10.59,KR,,4,Teaching Assistant
+902629,준호,남자,20.09.55,KR,1,1,Banker
+531904,미숙,Ch*,14.03.03,KR,1,0,Lawyer
+128444,영철,Ba**,25.12.00,KR,0,1,Lawyer
+909535,경희,Se*,15.02.95,KR,,1,Teaching Assistant
+233577,은주,Ki*,25.08.59,KR,1,2,Banker
+123049,은숙,Ch*,11.09.96,KR,0,0,Teaching Assistant
+437181,재영,Ju**,02.11.52,KR,0,1,Kitchen staff
+628925,은영,Pa**,16.11.59,KR,1,2,Consultant
+376598,영희,Ch**,21.10.86,KR,1,4,Consultant
+919979,상훈,Se*,31.12.51,KR,1,2,Web Designer
+897796,경희,Kw**,16.10.79,KR,NaN.0,1,Administrative employee
+161109,현주,Ba**,12.09.99,KR,1,,Professor
+907542,경수,Se*,08.07.96,KR,0,3,Web Designer
+571155,영수,Pa**,10.03.76,KR,0,2,Teaching Assistant
+257731,정수,Yo**,22.07.89,KR,1,1,Consultant
+213269,정숙,Se*,23.11.66,KR,1,1,Administrative employee
+269302,성수,Ry*,13.03.99,KR,0,0,Manager
+623217,성수,Ry*,15.07.55,KR,0,1,Librarian
+119045,영숙,Hw***,11.06.70,KR,1,0,NaN
+789033,정수,Ju**,16.06.65,KR,0,0,Banker
+601927,영철,Yu*,01.11.69,KR,1,0,Kitchen staff
+674497,준호,Yo**,19.09.79,KR,0,3,Professor
+474746,경숙,Kw**,29.09.50,KR,0,1,Librarian
+739432,선희,Je***,02.03.72,KR,0,0,Manager
+793023,미영,Se*,26.03.60,KR,1,0,Manager
+171748,영진,Je**,09.03.72,KR,1,,Consultant
+724380,영호,Hw***,10.09.86,KR,0,1,Professor
+682811,정수,Sh**,09.08.77,KR,0,0,Teaching Assistant
+520750,Da*****,Na******,09.11.57,LT,1,0,Web Designer
+225733,Mi*******,Pe********,05.09.02,LT,,1,Doctor
+637567,Gr***,Jo******,18.04.52,LT,1,4,Doctor
+806987,Da***,Pe*******,13.02.81,LT,1,0,Banker
+678876,Va***,Ri****,11.04.85,LT,1,,Banker
+128570,Ar*****,Aš,24.10.94,LT,0,2,Banker
+945010,Ma****,Va**********,14.03.92,LT,1,1,Consultant
+364165,Ta***,Bu****,12.08.58,LT,,1,Teaching Assistant
+748037,Eg**,Sa*********,05.01.88,LT,0,1,Web Designer
+126337,Si****,Ja********,29.11.97,LT,,3,Lawyer
+867548,Da*****,Mi*********,07.06.97,LT,1,2,Manager
+453185,Vi*******,Sa******,04.01.01,LT,1,1,Doctor
+586186,La***,Aš,22.07.61,LT,0,4,Banker
+722727,Ta***,Ka**********,23.06.97,LT,,0,Professor
+886132,Eg******,Jo******,24.03.89,LT,0,3,Kitchen staff
+362504,La***,Pa********,28.06.70,LT,1,2,Teaching Assistant
+115712,Ma****,Pe********,22.09.54,LT,1,1,Professor
+119460,Mi*******,Ba*********,20.08.66,LT,,2,Web Designer
+410221,Ch********,Ho******,09.08.99,LU,0,0,Teaching Assistant
+750955,Di***,Si****,12.01.57,LU,0,0,Doctor
+253352,Ti***,An*****,21.06.92,LU,1,2,Consultant
+221952,Mi*****,Te******,03.01.52,LU,1,,Banker
+947685,Fa******,Mo******,14.10.69,LU,1,1,Professor
+802042,Jo****,Kr****,30.10.94,LU,1,0,Manager
+952903,Pi*,Mo******,20.12.67,LU,1,2,Lawyer
+633277,Ge*****,Sc*****,20.10.78,LU,1,,Teaching Assistant
+948037,An*****,We**,19.04.67,LU,0,1,Administrative employee
+569177,Ru*,Ki*****,24.03.00,LU,1,1,Kitchen staff
+404377,Te***,We**,01.10.98,LU,1,4,Administrative employee
+947658,Vi***,We**,18.10.02,LU,0,0,Professor
+96840,Th*****,Te******,06.05.61,LU,0,4,Doctor
+131489,Va*****,Re****,04.03.98,LU,1,0,Manager
+917041,Ma******,Ma*****,28.12.52,LU,1,2,Banker
+739909,Fa******,Sc****,08.02.64,LU,1,0,Administrative employee
+284349,Fi****,Cu***,09.06.76,LU,1,4,Consultant
+188061,Ph******,Sc*****,04.03.60,LU,1,0,Teaching Assistant
+784524,Sy****,An*****,11.04.90,LU,0,1,Web Designer
+354752,Jo****,Ma*****,10.05.66,LU,1,1,Consultant
+325666,Ma**********,We**,17.02.88,LU,1,1,Web Designer
+223665,Gi****,Sc*****,22.10.58,LU,0,3,Administrative employee
+846622,Cl******,Mo******,26.12.69,LU,0,0,Manager
+285653,St*******,Sc*****,24.03.03,LU,0,1,Doctor
+543239,Gi****,Ki*****,15.08.63,LU,0,0,Consultant
+623888,An*****,We**,07.10.88,LU,1,0,Lawyer
+384539,An*****,Fa***,15.02.82,LU,0,,Web Designer
+926004,Pi*,Sc*******,10.07.65,LU,0,4,Administrative employee
+553784,Ma******,Si****,04.01.75,LU,0,0,Banker
+485010,Va*****,Sc****,07.03.89,LU,1,0,Teaching Assistant
+648842,Du*****,Se****,23.12.88,MD,1,0,Consultant
+556033,Ма****,Tu*****,26.03.54,MD,1,2,Web Designer
+931749,Ан*******,Mo****,19.05.90,MD,1,0,Doctor
+334386,Va****,Ci*****,13.01.96,MD,1,0,Manager
+843464,Ox***,Mo****,27.08.96,MD,0,2,Administrative employee
+333546,Ма****,Se****,01.06.92,MD,1,1,Teaching Assistant
+896007,Du*****,Ro***,01.08.52,MD,,2,Consultant
+242361,Mi***,Ci*****,23.10.55,MD,0,1,Professor
+333547,St******,Ko************,01.06.92,MD,1,1,Teaching Assistant
+927749,Na*****,Se****,21.02.89,MD,1,,Manager
+802773,Al*******,Ce******,21.04.57,MD,0,1,Manager
+444482,Li******,Mo****,14.09.02,MD,0,1,Lawyer
+139463,На*****,Lu***,28.06.72,MD,1,0,Professor
+833402,Ан**,Ce******,08.03.94,MD,1,0,Banker
+102671,Va*****,Si***,12.09.72,MD,1,2,Teaching Assistant
+711683,Gh******,Ru**,01.01.76,MD,0,1,Kitchen staff
+843660,Mi***,Co******,13.04.79,MD,0,4,Teaching Assistant
+501454,Ал*******,Io*,14.02.76,MD,1,0,Administrative employee
+466702,Ни*****,Si***,04.09.57,MD,1,2,Kitchen staff
+208948,Ni*****,Ce******,18.03.67,MD,1,0,Banker
+587706,Ал*******,Ci*****,01.05.03,MD,0,1,Professor
+918924,Gh******,Si***,02.09.61,MD,0,2,Teaching Assistant
+245949,Se*****,Ci*****,09.03.83,MD,1,2,Librarian
+803882,Ni*****,Co******,11.11.67,MD,0,2,Banker
+623440,Ni*****,Ur**,06.07.98,MD,0,0,Banker
+405604,Li******,Ro****,01.06.92,MD,1,0,Kitchen staff
+138796,Va*****,Ru**,24.09.85,MD,0,0,Professor
+739300,Дм*****,Ro****,11.11.73,MD,1,1,Administrative employee
+232096,На*****,Ro****,10.05.87,MD,0,3,Kitchen staff
+509712,Se*****,Tu*****,12.06.89,MD,0,,Kitchen staff
+765508,Le**,Ab***,22.07.83,MT,1,1,Doctor
+872993,Jo*****,Za****,12.09.04,MT,0,4,Lawyer
+190042,Ma*******,Ca****,10.12.58,MT,0,1,Manager
+119767,Ro******,Ag***,24.07.62,MT,1,2,Manager
+158043,Ch*******,Fe****,29.05.04,MT,,2,Teaching Assistant
+655000,Ne*****,Gr***,28.08.01,MT,0,2,Consultant
+332018,Jo*****,Ga***,29.11.81,MT,1,3,Doctor
+515957,Go**,Ag***,10.02.75,MT,1,0,Teaching Assistant
+809385,Sy*****,Ca*****,19.12.77,MT,1,4,Web Designer
+908292,Cl***,Az*******,06.10.52,MT,,1,Lawyer
+403139,Sy*****,Gr***,25.02.73,MT,1,0,Kitchen staff
+261521,Ch****,Sp*****,27.07.62,MT,0,0,Administrative employee
+571092,Ma******,Mu****,26.12.94,MT,0,,Administrative employee
+245757,Si****,Lo***,05.06.86,MX,1,0,Consultant
+771503,Ad*****,Me*****,18.03.70,MX,0,,Teaching Assistant
+267120,Ro**,Ro*******,29.08.66,MX,0,2,Administrative employee
+428573,Ma**,Lo***,01.06.92,MX,0,1,Web Designer
+284274,Je***,Me*****,12.08.73,MX,1,0,Consultant
+949262,Jo**,Ru**,14.05.64,MX,0,2,Banker
+520948,Fr*******,Ma******,07.09.88,MX,0,0,Lawyer
+208153,An***,Lo***,22.12.62,MX,1,0,Doctor
+136015,El*******,Ma******,02.01.61,MX,1,1,Teaching Assistant
+773146,Gu*******,Me*****,19.11.86,MX,1,0,Manager
+820116,Lu**,Sa*****,29.11.68,MX,1,1,Kitchen staff
+410444,Pe***,He*******,23.12.56,MX,0,1,Librarian
+128800,Je***,Mo*****,28.02.79,MX,1,2,Professor
+327047,Da****,Me*****,05.11.70,MX,0,4,Web Designer
+413270,Si****,Ma******,17.02.54,MX,0,2,Kitchen staff
+790265,Vi****,Di**,24.04.76,MX,0,4,Doctor
+152304,La***,Ru**,15.12.90,MX,0,4,Manager
+409979,Ca****,Go******,28.08.61,MX,,0,Lawyer
+572046,Ma****,Ru**,10.09.87,MX,0,0,Lawyer
+651176,Al*******,Re***,15.10.74,MX,1,1,Consultant
+808893,Is****,Ca******,21.02.60,MX,0,0,Banker
+418505,Ca****,Ro*******,12.11.50,MX,0,3,Librarian
+476861,Pe***,Ro*******,05.12.64,MX,1,2,Consultant
+906609,Zu*,Li*,07.02.60,MY,0,0,Teaching Assistant
+874746,Mo*****,Ng,24.03.99,MY,0,0,Professor
+574476,Ct,Ng,05.08.00,MY,,3,Administrative employee
+354164,Am*,Ab******,11.10.98,MY,1,2,Librarian
+837811,Ad**,Ra****,15.06.53,MY,1,1,Manager
+818249,In***,Ya*,25.01.82,MY,1,1,Librarian
+371132,Wa*,Ot****,29.11.79,MY,1,2,Teaching Assistant
+702840,In***,Ta*,01.05.57,MY,0,0,Kitchen staff
+654139,Am*,Ch**,23.08.84,MY,1,0,Librarian
+123006,Pu****,Ha****,20.07.77,MY,1,0,Lawyer
+344301,Ah***,Wo**,09.10.89,MY,0,0,Doctor
+354837,Ta*,Az**,22.07.64,MY,,4,Manager
+517676,Je***,Ch**,08.10.80,MY,1,,Administrative employee
+299520,Je***,Ku***,18.07.96,MY,0,0,Teaching Assistant
+622305,Nu***,Ch***,22.07.66,MY,0,,Doctor
+954729,Am**,Ku***,05.02.84,MY,1,,Kitchen staff
+165762,Nu*,Is****,06.07.99,MY,1,1,Professor
+742635,Fa*****,Ch***,08.05.71,MY,0,0,Teaching Assistant
+345709,Ai****,Ah***,14.04.04,MY,0,2,Teaching Assistant
+812389,No*****,Al*,03.05.72,MY,0,1,Librarian
+723305,Pu****,Ra****,18.10.66,MY,1,,Lawyer
+564122,Jo**,Ja*****,24.07.69,NL,0,4,Banker
+409943,Pe***,Va**********,15.05.78,NL,0,1,Librarian
+426674,In****,Pe****,28.12.77,NL,0,0,Librarian
+601614,Li***,Br*****,05.09.94,NL,1,1,Banker
+926133,Ki*,De******,21.03.51,NL,0,,Doctor
+119796,Li***,De******,24.09.58,NL,1,1,Kitchen staff
+400700,Ba**,De****,23.06.60,NL,0,,Kitchen staff
+649811,Pa**,Ja****,03.05.52,NL,0,1,Kitchen staff
+858155,El***,De****,06.03.82,NL,0,1,Kitchen staff
+825203,Li***,Me****,15.07.58,NL,0,,Administrative employee
+429246,El***,Bo*,18.10.50,NL,0,1,Consultant
+745804,Bi****,Ba****,06.07.51,NL,,1,Consultant
+329120,Jo***,De*****,13.01.00,NL,1,0,Administrative employee
+856596,Ma*****,De*****,07.07.62,NL,,1,Manager
+722924,Pa*****,Br*****,26.08.83,NL,0,1,Web Designer
+405301,Ki*,Sm**,04.10.72,NL,1,1,Professor
+315644,Tr***,Jo*****,29.04.92,NO,1,0,Doctor
+640117,El**,Ha***,24.12.54,NO,0,4,Consultant
+884354,Ma***,Pe*******,09.08.78,NO,1,0,Consultant
+950581,Te***,Er*****,,NO,0,,Librarian
+792366,Ka**,Ha***,27.05.84,NO,1,0,Administrative employee
+197281,An*****,La****,06.02.67,NO,,0,Administrative employee
+704030,Kr******,La****,31.12.94,NO,,3,Lawyer
+842928,Te***,Je****,07.02.02,NO,0,0,Web Designer
+605032,In***,Kr*********,26.05.01,NO,0,0,Librarian
+264770,Ha***,Ja******,22.08.95,NO,,3,Manager
+317366,In***,Be**,16.03.55,NO,1,1,Web Designer
+470529,Te***,An******,17.06.85,NO,1,,Teaching Assistant
+221265,Kr******,Er*****,24.10.01,NO,0,0,Professor
+298219,Te***,An******,20.10.86,NO,1,,Banker
+128768,Ka**,Ja******,26.08.62,NO,1,4,Administrative employee
+139646,Ka**,Ha****,29.03.75,NO,1,1,Doctor
+446160,Mo****,Ka*****,01.11.70,NO,1,0,Teaching Assistant
+325262,Kn**,An******,15.01.01,NO,1,4,Banker
+277417,He****,Je****,02.06.74,NO,1,4,Consultant
+257826,Je****,Re***,02.01.80,PH,0,2,Teaching Assistant
+679178,Ar****,Go,22.02.69,PH,1,,Consultant
+407360,Ma*****,Li*,25.08.52,PH,1,0,Professor
+579515,Ar***,De*******,08.01.84,PH,0,0,Kitchen staff
+385721,Ma*****,De*****,05.11.81,PH,1,,Librarian
+769520,Ro****,Aq****,12.11.54,PH,0,4,Kitchen staff
+808816,Jc,Ta*,16.09.79,PH,1,2,Professor
+628854,Kr******,Di***,04.01.86,PH,1,1,Manager
+427874,Je*,On*,15.10.90,PH,0,1,Kitchen staff
+110215,Je****,Re***,16.09.65,PH,0,4,Lawyer
+592588,Ar***,Do*****,14.01.59,PH,0,1,Manager
+856347,Jo*****,Aq****,27.12.71,PH,1,2,Lawyer
+327000,Ja*,On*,16.06.78,PH,0,4,Doctor
+858436,Mj,Re***,28.07.86,PH,1,3,Lawyer
+332306,Jm,Ba******,06.10.80,PH,,3,Teaching Assistant
+878358,Ja****,On*,20.01.90,PH,0,0,Doctor
+195267,Da***,Si****,11.08.61,PL,0,0,Administrative employee
+213477,Sy****,Du***,25.06.60,PL,0,4,Lawyer
+98449,Ma*****,Wr****,24.08.55,PL,1,,Administrative employee
+574304,Ba*****,Ka,06.08.70,PL,1,1,Librarian
+692542,Pa*****,Ma***,05.03.83,PL,1,2,Librarian
+910232,An**,Ka*******,29.12.95,PL,0,1,Manager
+359736,Gr******,Kr******,22.06.86,PL,0,1,Kitchen staff
+790781,Ad**,Kr**,08.07.95,PL,0,1,Lawyer
+328573,Kr*******,Ko*******,13.03.86,PL,0,0,Kitchen staff
+586536,An**,Ko*******,20.10.91,PL,0,0,Teaching Assistant
+109855,To****,Le*********,07.11.60,PL,1,,Kitchen staff
+249197,Ra***,Ka*******,19.07.78,PL,1,0,Professor
+166980,Pa***,Ad******,06.04.70,PL,0,1,Web Designer
+563515,Ma********,Wó****,28.01.66,PL,1,,Doctor
+269018,Pa*****,Wo*****,04.01.71,PL,0,1,Librarian
+353950,Ra***,Ko******,04.09.02,PL,,0,Teaching Assistant
+726073,Ra***,Wi*******,29.03.89,PL,1,1,Manager
+483324,Ju*****,Wo*****,11.07.96,PL,1,1,Web Designer
+442127,Ba*****,Wo*****,04.08.86,PL,1,2,Lawyer
+505436,Aw****,Qu******,13.04.89,PR,0,1,Doctor
+929178,Hi***,Ro****,14.08.75,PR,0,4,Kitchen staff
+601920,Iv****,Ne****,07.02.78,PR,1,0,Manager
+481643,Ab*****,Ri****,30.11.55,PR,1,1,Professor
+347454,Mi****,Qu******,03.08.78,PR,1,2,Teaching Assistant
+129474,Wa***,Co***,30.09.60,PR,,2,Professor
+634658,Pa**,Fe*******,09.06.77,PR,1,1,Web Designer
+444557,An********,Ap****,11.07.74,PR,1,3,Lawyer
+919258,Ne*****,Ot***,29.07.61,PR,0,0,Professor
+932606,Zo*****,Ro****,01.05.94,PR,0,2,Teaching Assistant
+299033,Iv******,Va*****,29.10.94,PR,1,1,Manager
+185759,Ar******,Ot***,18.12.57,PR,,3,Administrative employee
+156531,Da*****,Fe*******,29.10.93,PT,1,0,Librarian
+596370,Fi****,Pi***,17.11.03,PT,,3,Teaching Assistant
+109683,Sa**,Pe*****,22.02.62,PT,1,4,Lawyer
+545263,An*****,Al***,24.09.75,PT,0,0,Consultant
+823828,Di***,Te******,04.10.67,PT,0,1,Doctor
+464219,Jo**,Ma*****,26.02.96,PT,0,1,Librarian
+316450,Di***,Te******,18.01.76,PT,1,4,Administrative employee
+685615,Te****,Ca******,12.08.52,PT,0,0,Professor
+957161,Su****,Lo***,01.01.83,PT,0,1,Lawyer
+638245,Ma***,Fe******,13.07.63,PT,1,,Kitchen staff
+937729,Ma****,Fe******,09.11.91,PT,,0,Web Designer
+762279,In**,Al*****,18.02.55,PT,0,1,Doctor
+764728,Ca****,Go*******,05.03.01,PT,1,,Banker
+296491,Ti***,Te******,18.02.87,PT,1,4,Kitchen staff
+441870,Is****,Fe******,20.06.98,PT,1,1,Consultant
+649162,Fi****,Fe******,15.02.92,PT,0,1,Manager
+662472,Nu**,Ri*****,28.01.75,PT,0,2,Professor
+681209,Jo**,Te******,24.06.03,PT,0,0,Teaching Assistant
+648381,Fi****,So***,09.03.77,PT,,1,Banker
+441742,Pa***,Al***,09.10.68,PT,0,2,Manager
+403993,Ma***,Co***,15.07.67,PT,0,2,Administrative employee
+364673,Ma***,Pi***,24.05.01,PT,0,2,Web Designer
+238897,Ел***,Мо******,08.03.52,RU,1,1,Professor
+398434,Ел***,Ку*******,01.06.50,RU,0,0,Librarian
+837764,Юл**,Во*****,01.11.54,RU,1,,Web Designer
+852328,Дм*****,Пе****,05.04.65,RU,0,2,Teaching Assistant
+401818,Га****,По***,13.07.56,RU,0,2,Kitchen staff
+105236,Лю*****,Ив*****,06.02.78,RU,0,2,Kitchen staff
+638911,На*****,Во*****,08.05.85,RU,0,2,Kitchen staff
+900334,Ми****,Ан******,28.03.78,RU,,,Banker
+716230,Ел***,См******,30.10.84,RU,1,0,Web Designer
+267286,Ма***,Пе****,25.04.95,RU,1,1,Professor
+411476,Ма***,Пе*****,28.01.93,RU,0,2,Kitchen staff
+453577,Та*****,См******,21.05.68,RU,0,4,Librarian
+206644,Ел***,Ва*******,14.02.52,RU,0,2,Doctor
+952376,На*****,См*****,22.03.63,RU,0,0,Doctor
+717160,Ма***,Ма********,23.01.52,RU,1,2,Doctor
+356021,Па***,Ив****,15.04.04,RU,1,,Professor
+178451,Юр**,Во*****,13.02.04,RU,1,1,Web Designer
+325225,Юл**,Ал***,28.05.68,RU,1,1,Banker
+479161,Вл******,Ал***,19.07.55,RU,1,,Consultant
+936397,На*****,Ма********,14.12.03,RU,1,,Professor
+251440,Ви******,Пе*****,23.08.96,RU,0,0,Manager
+785994,Га****,Мо******,09.09.96,RU,1,1,Administrative employee
+783029,Ол**,Ив*****,11.03.88,RU,1,0,Lawyer
+634396,El***,Во*****,04.09.99,RU,,0,Consultant
+880137,Ив**,Мо******,04.03.77,RU,0,1,Banker
+698469,Ол**,Ва*******,12.09.99,RU,0,,Manager
+281689,Ал*****,Ив*****,07.08.84,RU,,0,Web Designer
+136838,Ca*****,Ma*******,20.07.84,SE,0,0,Banker
+191622,Jo***,Li******,17.11.85,SE,0,1,Kitchen staff
+642133,Ni****,Sv******,31.05.78,SE,0,0,Teaching Assistant
+839562,Em**,Ni*****,05.11.54,SE,0,,Administrative employee
+156304,Ev*,An*******,02.11.55,SE,1,1,Manager
+910568,An****,Ni*****,10.10.92,SE,1,2,Web Designer
+776425,Ul****,Li*******,21.04.01,SE,1,0,Lawyer
+804047,Ma****,Ja*****,25.12.76,SE,0,2,Librarian
+788206,Pa****,Pe********,22.10.97,SE,1,0,Lawyer
+270618,Mi****,Ja*****,20.09.98,SE,,1,Banker
+820364,El**,Er******,06.01.76,SE,1,3,Doctor
+819111,Er**,Li*******,17.11.54,SE,1,4,Consultant
+526987,Jo*****,Be*******,26.01.89,SE,0,3,Web Designer
+235087,Fr***,An*******,27.07.03,SE,0,,Librarian
+851347,Ni****,La*****,08.08.92,SE,1,1,Teaching Assistant
+817107,Ma***,Li*******,27.07.59,SE,1,,Banker
+132368,Bi******,Ka******,28.12.62,SE,1,,Kitchen staff
+487236,An****,Li*******,10.02.04,SE,1,2,Doctor
+708256,Ma**,Ma*******,10.10.02,SE,0,0,Professor
+613408,St****,Li*******,02.03.99,SE,0,1,Professor
+905706,Ev*,Ni*****,19.07.66,SE,0,0,Banker
+676570,Ke*****,Ha*****,23.04.99,SE,,1,Administrative employee
+104986,Bj***,Ni*****,23.11.82,SE,0,0,Librarian
+223964,Bi******,Ha*****,18.08.95,SE,0,4,Doctor
+887875,Er**,Ol****,23.06.71,SE,0,0,Lawyer
+428951,Ni****,Ni*****,19.06.54,SE,1,4,Kitchen staff
+96249,Er**,Pe*****,21.07.95,SE,1,3,Administrative employee
+236907,Ca****,Er******,22.06.70,SE,0,3,Professor
+364432,Jo***,An*,25.04.63,SG,1,,Professor
+649233,Iv*,Ye*,03.10.93,SG,1,2,Kitchen staff
+191797,Ke****,Li*,09.02.97,SG,1,1,Teaching Assistant
+268218,Ra**,Is***,06.06.97,SG,0,0,Consultant
+237346,An**,Li*,22.05.83,SG,1,0,Doctor
+412762,Li*,Li*,20.03.62,SG,,4,Banker
+629634,Jo***,Ye*,01.11.68,SG,,,Manager
+811666,Ra**,Ho*****,29.05.76,SG,1,,Kitchen staff
+516165,Ch**,Ko*,28.07.67,SG,0,0,Web Designer
+447311,Go*,Ta*,22.11.76,SG,0,1,Web Designer
+542367,Ma*,Go*,25.07.92,SG,,2,Teaching Assistant
+302149,Ke****,Ko*,30.10.80,SG,0,1,Lawyer
+457865,Iv*,Ko*,28.02.74,SG,0,,Consultant
+738395,Ch**,Ho*****,10.02.65,SG,0,0,Manager
+582281,Li,Ho*****,18.12.84,SG,0,0,Manager
+719359,Li*,Ch**,16.10.61,SG,1,1,Kitchen staff
+230078,Ra**,Li*,12.05.99,SG,1,0,Web Designer
+858566,Ga***,As***,05.07.55,TR,0,0,Web Designer
+745000,Is****,Ko*****,07.12.68,TR,1,0,Librarian
+207973,De***,Ar****,17.08.51,TR,,,Web Designer
+917543,Ga***,Kı***,16.04.00,TR,0,,Teaching Assistant
+739104,Em**,Öz****,28.05.62,TR,1,1,Professor
+187956,Ka***,As***,25.10.75,TR,,,Doctor
+263704,Se***,Po***,08.12.82,TR,0,2,Teaching Assistant
+185334,De***,Öz****,31.12.54,TR,1,2,Administrative employee
+871006,Se***,Yı****,02.06.03,TR,0,,Manager
+828218,Hü***,Yı******,16.07.70,TR,1,4,Web Designer
+677158,Me***,Do***,09.03.97,TR,1,,Kitchen staff
+585467,Os***,Yı******,20.12.56,TR,1,0,Administrative employee
+401509,Em***,Yı****,27.08.84,TR,0,1,Teaching Assistant
+135963,Öm**,Ko*****,21.01.00,TR,,1,Banker
+457218,Ha***,Ku**,20.01.04,TR,0,0,Web Designer
+241540,El**,Yi****,03.12.78,TR,1,0,Consultant
+790654,Si***,Do***,02.05.76,TR,0,0,Doctor
+297742,Ah***,Kı***,07.08.53,TR,0,,Teaching Assistant
+528453,Fa***,Ar****,08.12.62,TR,1,2,Web Designer
+852352,Hü*****,Çe***,09.04.04,TR,1,0,Professor
+599095,Ab******,Yı******,11.06.84,TR,0,0,Manager
+353857,Me****,Öz****,18.06.52,TR,0,0,Manager
+213258,Ya*****,Ar****,11.11.92,TR,0,0,Teaching Assistant
+408689,Ze***,Yı******,10.12.89,TR,0,0,Librarian
+587678,Me****,Çe***,20.01.77,TR,0,4,Doctor
+687871,Ya*****,Po***,27.06.83,TR,1,4,Administrative employee
+297157,Ad**,Yı******,27.02.54,TR,1,2,Web Designer
+123699,Je*****,Pe***,18.03.55,US,0,0,Lawyer
+282393,Sa***,Di**,30.12.58,US,0,,Librarian
+581969,Na***,Sm***,27.07.58,US,0,3,Librarian
+414259,Ka***,Br***,21.02.61,US,1,0,Doctor
+123514,Mi******,He*******,31.03.64,US,0,4,Web Designer
+895839,An*,Ma******,21.10.73,US,1,1,Kitchen staff
+934535,Ma**,Ma******,09.04.00,US,0,1,Lawyer
+409055,Li***,Di**,25.05.71,US,1,0,Librarian
+850103,Li**,Pa***,13.12.53,US,1,3,Librarian
+162287,Da***,Ro*******,08.06.02,US,1,0,Consultant
+707686,Jo**,Fl****,22.08.90,US,1,2,Consultant
+942571,Lu**,Sa*****,19.11.58,US,0,4,Web Designer
+300377,Jo**,Sa*****,01.12.87,US,,2,Teaching Assistant
+907535,Jo**,Jo*****,18.01.72,US,1,2,Teaching Assistant
+832011,Da***,Sm***,02.09.79,US,0,2,Lawyer
+331833,Ke***,Go***,29.07.63,US,0,,Lawyer
+539529,Mi*****,Br***,07.11.75,US,1,0,Administrative employee
+570351,Na***,He*******,27.06.52,US,0,,Librarian
+680273,Ka***,To****,11.09.89,US,1,1,Kitchen staff
+321117,Ma***,Ra*****,11.02.57,US,0,,Doctor
+619738,Sa****,Wi******,28.06.94,US,,2,Teaching Assistant
+247617,El*******,Br***,10.07.61,US,0,0,Banker
+748564,Mi****,Fl****,20.09.00,US,,,Consultant
+543267,Pa******,Di**,21.01.75,US,1,2,Doctor
+868229,Li***,He*******,29.06.57,US,1,0,Administrative employee
+789469,Na***,Ga****,23.06.70,US,1,1,Kitchen staff
+389314,Ja***,Jo*****,18.09.93,US,1,2,Lawyer
+620807,Jo**,Go***,06.12.65,US,0,0,Banker
+248876,Na***,Pe***,25.12.83,US,0,1,Manager
+866017,Ma***,Lo***,01.10.53,US,0,0,Manager
+887305,Th*****,Bu*******,17.02.98,ZA,0,2,Kitchen staff
+172555,Mi*****,Nd****,17.02.03,ZA,0,,Consultant
+459020,Li*****,Mo******,20.10.92,ZA,1,3,Professor
+911593,Jo**,Mt*****,06.02.82,ZA,1,0,Manager
+682880,Jo***,Zu**,02.03.82,ZA,0,0,Consultant
+300800,Si*******,Gu****,15.08.66,ZA,1,0,Consultant
+571277,Zi****,Nd****,13.05.99,ZA,0,2,Manager
+281076,Le****,Sm***,12.12.73,ZA,0,2,Banker
+458293,No********,Wi******,26.03.54,ZA,1,2,Professor
+268773,Le****,Nk***,30.04.82,ZA,1,,Kitchen staff
+218415,Bu******,Mo******,22.01.01,ZA,0,1,Web Designer
+173906,Th*****,Mo******,06.11.61,ZA,0,2,Web Designer
+178685,Mi*****,Bu*******,29.05.53,ZA,0,1,Professor
+200865,Si*******,Na****,16.12.62,ZA,0,0,Web Designer
+102637,Bo*****,Na****,24.02.50,ZA,0,,Consultant
