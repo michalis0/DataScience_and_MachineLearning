@@ -18,7 +18,7 @@ This repository includes content for the "Data Science and Machine Learning".
 - Week 11: [Clustering](Week_11)
 - Week 12: [Recommender Systems](Week_12)
 - Week 13: [Interpretability](Week_13)
-- Week 14: [Social Implications of AI](Week_14)
+- Week 14: [Social Implications of AI]
 
 
 ## Data to explore
