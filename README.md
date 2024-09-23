@@ -6,19 +6,19 @@
 This repository includes content for the "Data Science and Machine Learning".
 
 - Week 1: [No Lecture]
-- Week 2: [Review: Google Colab/Pandas/Visualization](Week_2)
-- Week 3: [Regression](Week_3)
-- Week 4: [Classification](Week_4)
-- Week 5: [Neural Networks](Week_5)
-- Week 6: [Text Analytics](Week_6)
-- Week 7: [Internet of Things](Week_7)
-- Week 8: [No Lecture]
-- Week 9: [Gen AI](Week_9)
-- Week 10: [Dimensionality reduction](Week_10)
-- Week 11: [Clustering](Week_11)
-- Week 12: [Recommender Systems](Week_12)
-- Week 13: [Interpretability](Week_13)
-- Week 14: [Social Implications of AI]
+- Week 2: [Review: Google Colab/Pandas/Visualization](02-review-pandas)
+- Week 3: Regression
+- Week 4: Classification
+- Week 5: Neural Networks
+- Week 6: Text Analytics
+- Week 7: Internet of Things
+- Week 8: No Lecture
+- Week 9: Gen AI
+- Week 10: Dimensionality reduction
+- Week 11: Clustering
+- Week 12: Recommender Systems
+- Week 13: Interpretability
+- Week 14: Social Implications of AI
 
 
 ## Data to explore
