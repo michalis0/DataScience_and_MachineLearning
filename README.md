@@ -7,7 +7,7 @@ This repository includes content for the "Data Science and Machine Learning".
 
 - Week 1: [No Lecture]
 - Week 2: [Review: Google Colab/Pandas/Visualization](02-review-pandas)
-- Week 3: Regression
+- Week 3: [Regression](03-regression)
 - Week 4: Classification
 - Week 5: Neural Networks
 - Week 6: Text Analytics
