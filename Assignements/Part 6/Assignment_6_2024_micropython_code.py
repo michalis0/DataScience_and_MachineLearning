@@ -1,3 +1,12 @@
+############################################
+# Assignment 6
+# Instructions:
+# 1. Create a new project in UIFlow.
+# 2. Copy the code below and paste it into the UIFlow editor.
+# 3. Run the code on your M5Stack device.
+############################################
+
+
 from m5stack import *
 from m5stack_ui import *
 from uiflow import *
