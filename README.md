@@ -10,13 +10,13 @@ This repository includes content for the "Data Science and Machine Learning".
 - Week 3: [Regression](03-regression)
 - Week 4: [Classification](04-classification)
 - Week 5: [Neural Networks](05-neural-networks)
-- Week 6: Text Analytics
-- Week 7: Internet of Things
+- Week 6: [Text Analytics](06-text-analytics)
+- Week 7: [Internet of Things & Api](07-api)
 - Week 8: No Lecture
-- Week 9: Gen AI
-- Week 10: Dimensionality reduction
-- Week 11: Clustering
-- Week 12: Recommender Systems
+- Week 9: [Recommender Systems](09-recommender-systems)
+- Week 10: Gen AI
+- Week 11: Dimensionality reduction
+- Week 12: Clustering
 - Week 13: Interpretability
 - Week 14: Social Implications of AI
 
