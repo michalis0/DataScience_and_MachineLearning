@@ -14,9 +14,9 @@ This repository includes content for the "Data Science and Machine Learning".
 - Week 7: [Internet of Things & Api](07-api)
 - Week 8: No Lecture
 - Week 9: [Recommender Systems](09-recommender-systems)
-- Week 10: Gen AI
-- Week 11: Dimensionality reduction
-- Week 12: Clustering
+- Week 10: [Gen AI](10-gen-ai)
+- Week 11: [Dimensionality reduction](11-dimensionality-reduction)
+- Week 12: [Clustering](12-clustering)
 - Week 13: Interpretability
 - Week 14: Social Implications of AI
 
