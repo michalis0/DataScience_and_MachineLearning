@@ -17,7 +17,7 @@ This repository includes content for the "Data Science and Machine Learning".
 - Week 10: [Gen AI](10-gen-ai)
 - Week 11: [Dimensionality reduction](11-dimensionality-reduction)
 - Week 12: [Clustering](12-clustering)
-- Week 13: Interpretability
+- Week 13: [Interpretability](13-intepretability-for-ai)
 - Week 14: Social Implications of AI
 
 
