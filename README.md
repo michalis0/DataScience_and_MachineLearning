@@ -1,45 +1,72 @@
-# Data Science and Machine Learning 
+# Data Science and Machine Learning
+
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
+**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/) & Prof. Seyed Moosavi
+**Teaching Assistants**: Stergios Konstantinidis & Donia Gasmi
 
-This repository includes content for the "Data Science and Machine Learning".
+---
 
-- Week 1: [No Lecture]
-- Week 2: [Review: Google Colab/Pandas/Visualization](02-review-pandas)
-- Week 3: [Regression](03-regression)
-- Week 4: [Classification](04-classification)
-- Week 5: [Neural Networks](05-neural-networks)
-- Week 6: [Text Analytics](06-text-analytics)
-- Week 7: [Internet of Things & Api](07-api)
-- Week 8: No Lecture
-- Week 9: [Recommender Systems](09-recommender-systems)
-- Week 10: [Gen AI](10-gen-ai)
-- Week 11: [Dimensionality reduction](11-dimensionality-reduction)
-- Week 12: [Clustering](12-clustering)
-- Week 13: [Interpretability](13-intepretability-for-ai)
-- Week 14: Social Implications of AI
+## Repository Structure
 
+This repo contains both non-graded lab material and graded coursework.
 
-## Data to explore
-- [OpenML](https://www.openml.org/)
-- [75 Public datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/)
-- https://github.com/fivethirtyeight/data
-- [Kaggle](https://www.kaggle.com/datasets)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
-- [Data.gov](https://www.data.gov)
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
-- [AWS Open Data Registry](https://registry.opendata.aws)
-- [Reddit's r/datasets](https://www.reddit.com/r/datasets)
-- [World Bank Open Data](https://data.worldbank.org)
-- [Data.gov.uk](https://data.gov.uk)
-- [Microsoft Research Open Data](https://msropendata.com)
-- [DataHub](https://datahub.io)
+- **Labs** — Weekly Jupyter notebooks used in class for practice (*not graded*).  
+- **Assignments** — Individual programming assignments (**graded**).  
+- **Project** — Group project (**graded**).  
 
-### Regression
-- [Appliance Energy Prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
-- [Facebook Comment Volume](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#)
+---
 
-### Recommendation Systems
-- [Book-crossings Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
-- [MovieLens](https://grouplens.org/datasets/movielens/)
+## Syllabus (Fall 2025)
+
+Schedule may be adjusted slightly depending on progress.
+
+| Week | Date     | Topic                                                                 | Notes |
+|------|----------|-----------------------------------------------------------------------|-------|
+| 1    | Sept 15  | [Introduction / Data / Methods / Visualization](02-review-pandas)     |       |
+| 2    | Sept 22  | *No Lecture – Lundi du Jeûne Fédéral*                                 | Quiz 1 due Sept 29 |
+| 3    | Sept 29  | [Linear Regression](03-regression)                                    | Quiz 2 due Oct 6  |
+| 4    | Oct 06   | [Classification](04-classification)                                   | Quiz 3 due Oct 13 |
+| 5    | Oct 13   | [Neural Networks](05-neural-networks)                                 | Quiz 4 due Oct 20 |
+| 6    | Oct 20   | [Text Analytics](06-text-analytics)                                   | Quiz 5 due Oct 27 |
+| 7    | Oct 27   | [Internet of Things](07-api)                                          | Quiz 6 due Nov 9  |
+| 8    | Nov 03   | *No Lecture – Block Week*                                             |       |
+| 9    | Nov 10   | [Recommender Systems](09-recommender-systems)                         | Project released  |
+| 10   | Nov 17   | [Generative AI](10-gen-ai)                                            | Project repo setup|
+| 11   | Nov 24   | [Dimensionality Reduction](11-dimensionality-reduction)               | Project stand-up 1|
+| 12   | Dec 01   | [Clustering](12-clustering)                                           | Project stand-up 2|
+| 13   | Dec 08   | [Interpretability for AI & Sustainable Development for AI](13-interpretability-for-ai) | Project due Dec 15|
+| 14   | Dec 15   | Social Implications of AI + Project Presentations                     | Prep for exam     |
+
+---
+
+## Data to Explore
+
+Here are useful open datasets for assignments, projects, and practice.
+
+### General Collections
+
+* [OpenML](https://www.openml.org/) — large online platform with datasets for ML benchmarking.
+* [Kaggle Datasets](https://www.kaggle.com/datasets) — community-driven ML datasets.
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets) — classic curated datasets.
+* [FiveThirtyEight](https://github.com/fivethirtyeight/data) — data behind popular data-journalism articles.
+* [Google Dataset Search](https://datasetsearch.research.google.com/) — meta-search engine for datasets.
+* [AWS Open Data Registry](https://registry.opendata.aws) — cloud-hosted scientific & public datasets.
+* [Microsoft Research Open Data](https://msropendata.com) — curated academic datasets.
+* [World Bank Open Data](https://data.worldbank.org) — global development indicators.
+* [Data.gov](https://www.data.gov) & [Data.gov.uk](https://data.gov.uk) — open government datasets.
+* [DataHub](https://datahub.io) — catalog of community datasets.
+* [Reddit r/datasets](https://www.reddit.com/r/datasets) — user-shared datasets across domains.
+* [75 Public Datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/) — curated list with explanations.
+
+### Examples by Topic
+
+* **Regression**
+
+  * [Appliance Energy Prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction) — predict energy usage.
+  * [Facebook Comment Volume](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#) — predict comment volume on posts.
+
+* **Recommendation Systems**
+
+  * [MovieLens](https://grouplens.org/datasets/movielens/) — classic benchmark dataset for recommender systems.
+  * [Book-Crossings](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) — large dataset of book ratings.
