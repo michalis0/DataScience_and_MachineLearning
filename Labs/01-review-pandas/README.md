@@ -6,7 +6,7 @@
 - Brief overview of the [Moodle page for the course](https://moodle.unil.ch/course/view.php?id=30961), the Slack channel, the Git repository
   - Brief intro on how to use Slack. Everyone please join [the class Slack channel](https://join.slack.com/t/datasciencean-ekb8056/shared_invite/zt-2qpv5g344-L2w0vK8C840fwylo6pRDiw). We will use Slack for all course-related communications outside the class & lab.
   - **Slack Exercise** (everyone): Post a message under `#general` introducing yourself, where you are from and a fun fact about you.
-- **We will go over this [walkthrough]([https://github.com/michalis0/DataScience_and_MachineLearning/blob/master/02-review-pandas/Week_2.ipynb](https://colab.research.google.com/github/michalis0/DataScience_and_MachineLearning/blob/master/Labs/01-review-pandas/Week_1.ipynb))**: introduction of Google Colab, Pandas & Data visualization.
+- **We will go over this [walkthrough](https://colab.research.google.com/github/michalis0/DataScience_and_MachineLearning/blob/master/Labs/01-review-pandas/Week_1.ipynb)**: introduction of Google Colab, Pandas & Data visualization.
 
 ## What you will learn 
 - Review of Google Colab
