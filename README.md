@@ -24,7 +24,7 @@ Schedule may be adjusted slightly depending on progress.
 
 | Week | Date     | Topic                                                                 | Notes |
 |------|----------|-----------------------------------------------------------------------|-------|
-| 1    | Sept 15  | [Introduction / Data / Methods / Visualization](Labs/02-review-pandas)     |       |
+| 1    | Sept 15  | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     |       |
 | 2    | Sept 22  | *No Lecture – Lundi du Jeûne Fédéral*                                 | Quiz 1 due Sept 29 |
 | 3    | Sept 29  | [Linear Regression](Labs/03-regression)                                    | Quiz 2 due Oct 6  |
 | 4    | Oct 06   | [Classification](Labs/04-classification)                                   | Quiz 3 due Oct 13 |
