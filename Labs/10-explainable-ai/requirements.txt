@@ -1,0 +1,13 @@
+blas
+freetype2-devel
+gcc
+gcc-c++
+gcc-gfortran
+lapack
+libpng-devel
+python3
+python3-devel
+shap
+xz
+zeromq
+zeromq-devel
