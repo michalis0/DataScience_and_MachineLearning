@@ -2,9 +2,9 @@
 
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/) & Prof. Seyed Moosavi
+**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/) 
 
-**Teaching Assistants**: Stergios Konstantinidis & Donia Gasmi
+**Teaching Assistants**: Stergios Konstantinidis & Vikhyat Agrawal
 
 ---
 
