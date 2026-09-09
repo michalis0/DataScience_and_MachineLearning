@@ -18,7 +18,7 @@ This repo contains both non-graded lab material and graded coursework.
 
 ---
 
-## Syllabus (Fall 2025)
+## Content
 
 Schedule may be adjusted slightly depending on progress.
 
