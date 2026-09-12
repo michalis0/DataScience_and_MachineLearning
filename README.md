@@ -20,21 +20,20 @@ This repo contains both non-graded lab material and graded coursework.
 
 ## Content
 
-Schedule may be adjusted slightly depending on progress.
+Schedule may be adjusted depending on progress. Note: Retrieve the current week's lab not before, because it will likely be updated in the meantime.
 
-|  | Date     | Topic                                                                 | 
-|------|----------|-----------------------------------------------------------------------|
-| 1    |   | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     | 
-| 2    |   | [Linear Regression](Labs/03-regression)                                    | 
-| 3    |    | [Classification](Labs/04-classification)                                   | 
-| 4    |    | [Neural Networks](Labs/05-neural-networks)                                 | 
-| 5    |    | [Text Analytics](Labs/06-text-analytics)                                   | 
-| 6    |    | [Recommender Systems](Labs/09-recommender-systems) |  |
-| 7    |          | [Internet of Things](Labs/07-api)            |                              
-| 8   |    | [Generative AI](Labs/10-gen-ai)                                            | 
-| 09   |    | [Unsupervised Learning](Labs/09-clustering)               | 
-| 10   |    |   | [Explainable AI](Labs/13-interpretability-for-ai) |                                       
-    
+|       | Topic                                                                 | 
+|----------------|-----------------------------------------------------------------------|
+| 1       | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     | 
+| 2       | [Linear Regression](Labs/03-regression)                                    | 
+| 3        | [Classification](Labs/04-classification)                                   | 
+| 4        | [Neural Networks](Labs/05-neural-networks)                                 | 
+| 5        | [Text Analytics](Labs/06-text-analytics)                                   | 
+| 6        | [Recommender Systems](Labs/09-recommender-systems) |  |
+| 7              | [Internet of Things](Labs/07-api)            |                              
+| 8       | [Generative AI](Labs/10-gen-ai)                                            | 
+| 09       | [Unsupervised Learning](Labs/09-clustering)               | 
+| 10       |   | [Explainable AI](Labs/10-explainable-ai) |                                       
 ---
 
 ## Data to Explore
