@@ -8,9 +8,7 @@
 
 ---
 
-## Repository Structure
-
-This repo contains both non-graded lab material and graded coursework.
+This repository contains the following material:
 
 - **/Labs** — Weekly Jupyter notebooks used in class for practice.  
 - **/Assignments** — Individual programming assignments.  
