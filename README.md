@@ -32,8 +32,8 @@ Schedule may be adjusted depending on progress. Note: Retrieve the current week'
 | 6        | [Recommender Systems](Labs/09-recommender-systems) |  |
 | 7              | [Internet of Things](Labs/07-api)            |                              
 | 8       | [Generative AI](Labs/10-gen-ai)                                            | 
-| 09       | [Unsupervised Learning](Labs/09-clustering)               | 
-| 10       |   | [Explainable AI](Labs/10-explainable-ai) |                                       
+| 9       | [Unsupervised Learning](Labs/09-clustering)               | 
+| 10       | [Explainable AI](Labs/10-explainable-ai) |                                       
 ---
 
 ## Data to Explore
