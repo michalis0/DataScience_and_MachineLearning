@@ -12,9 +12,9 @@
 
 This repo contains both non-graded lab material and graded coursework.
 
-- **Labs** — Weekly Jupyter notebooks used in class for practice.  
-- **Assignments** — Individual programming assignments.  
-- **Project** — Group project.  
+- **/Labs** — Weekly Jupyter notebooks used in class for practice.  
+- **/Assignments** — Individual programming assignments.  
+- **/Project** — Group project (To be announced later).  
 
 ---
 
@@ -22,23 +22,19 @@ This repo contains both non-graded lab material and graded coursework.
 
 Schedule may be adjusted slightly depending on progress.
 
-| Week | Date     | Topic                                                                 | Notes |
-|------|----------|-----------------------------------------------------------------------|-------|
-| 1    | Sept 14  | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     |       |
-| 2    | Sept 21  | *No Lecture – Lundi du Jeûne Fédéral*                                 | Quiz 1 due Sept 27 |
-| 3    | Sept 28  | [Linear Regression](Labs/03-regression)                                    | Quiz 2 due Oct 4  |
-| 4    | Oct 05   | [Classification](Labs/04-classification)                                   | Quiz 3 due Oct 11 |
-| 5    | Oct 12   | [Neural Networks](Labs/05-neural-networks)                                 | Quiz 4 due Oct 25 |
-| 6    | Oct 19   | [Text Analytics](Labs/06-text-analytics)                                   | Quiz 5 due Nov 8 |
-| 7    | Oct 26   | [Internet of Things](Labs/07-api)                                          | Quiz 6 due Nov 15  |
-| 8    | Nov 02   | *No Lecture – Block Week*                                             |       |
-| 9    | Nov 09   | [Recommender Systems](Labs/09-recommender-systems)                         | Project released  |
-| 10   | Nov 16   | [Generative AI](Labs/10-gen-ai)                                            | Project repo setup|
-| 11   | Nov 23   | [Dimensionality Reduction](Labs/11-dimensionality-reduction)               | Project stand-up 1|
-| 12   | Nov 30   | [Clustering](Labs/12-clustering)                                           | Project stand-up 2|
-| 13   | Dec 07   | [Interpretability for AI & Sustainable Development for AI](Labs/13-interpretability-for-ai) | Project due Dec 13|
-| 14   | Dec 14   | Social Implications of AI + Project Presentations                     | Prep for exam     |
-
+|  | Date     | Topic                                                                 | 
+|------|----------|-----------------------------------------------------------------------|
+| 1    |   | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     | 
+| 2    |   | [Linear Regression](Labs/03-regression)                                    | 
+| 3    |    | [Classification](Labs/04-classification)                                   | 
+| 4    |    | [Neural Networks](Labs/05-neural-networks)                                 | 
+| 5    |    | [Text Analytics](Labs/06-text-analytics)                                   | 
+| 6    |    | [Recommender Systems](Labs/09-recommender-systems) |  |
+| 7    |          | [Internet of Things](Labs/07-api)            |                              
+| 8   |    | [Generative AI](Labs/10-gen-ai)                                            | 
+| 09   |    | [Unsupervised Learning](Labs/09-clustering)               | 
+| 10   |    |   | [Explainable AI](Labs/13-interpretability-for-ai) |                                       
+    
 ---
 
 ## Data to Explore
