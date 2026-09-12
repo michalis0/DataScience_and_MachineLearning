@@ -12,9 +12,9 @@
 
 This repo contains both non-graded lab material and graded coursework.
 
-- **Labs** — Weekly Jupyter notebooks used in class for practice (*not graded*).  
-- **Assignments** — Individual programming assignments (**graded**).  
-- **Project** — Group project (**graded**).  
+- **Labs** — Weekly Jupyter notebooks used in class for practice.  
+- **Assignments** — Individual programming assignments.  
+- **Project** — Group project.  
 
 ---
 
