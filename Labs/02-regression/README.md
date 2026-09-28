@@ -14,6 +14,7 @@
 ## Additional resources (optional)
 - Brush up on regression concepts [here](https://scikit-learn.org/stable/modules/linear_model.html)
 - Explore this [guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
+- StatQuest has nice examples of linear regressions and how they work on [YouTube.com](https://www.youtube.com/watch?v=7ArmBVF2dCs)
 
     
 
