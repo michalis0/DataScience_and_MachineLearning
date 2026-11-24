@@ -1,21 +1,25 @@
-# Colab and Python Notebooks
+# Lab 2 · Linear Regression
 
-## Lab structure
+[All labs](../README.md) · [Course home](../../README.md)
+
+## Learning goals
+
+- Fit and evaluate simple and multivariable regression models on held-out data.
+- Compare polynomial models with ridge and lasso regularization.
+- Use cross-validation to select model settings.
+
+## Contents
+
+- [Walkthrough](./linear-regression.ipynb)
+- [Data and figures](./data/)
+- [Solution notebook](./linear-regression-solutions.ipynb)
+
+## In class
 
 - Introductions
 - Feedback on the Assignment 1
-- **We will go over this [walkthrough](https://colab.research.google.com/github/michalis0/DataScience_and_MachineLearning/blob/master/Labs/02-regression/Week_2.ipynb)**: Introduction to regression techniques using Python.
-
-## What you will learn 
-- Introduction to regression and its applications
-- Implementing linear regression, Lasso, and Ridge regression with Scikit-Learn
-- Cross-validation for model tuning
 
 ## Additional resources (optional)
 - Brush up on regression concepts [here](https://scikit-learn.org/stable/modules/linear_model.html)
 - Explore this [guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
 - StatQuest has nice examples of linear regressions and how they work on [YouTube.com](https://www.youtube.com/watch?v=7ArmBVF2dCs)
-
-    
-
----

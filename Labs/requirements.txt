@@ -1,0 +1,16 @@
+# Install with Python 3.13. Lab 5 also uses the spaCy English model:
+# python -m spacy download en_core_web_sm
+beautifulsoup4
+gensim>=4.4,<5
+ipykernel
+ipywidgets
+lime
+matplotlib
+numpy
+pandas>=2.3,<3
+scikit-learn>=1.7,<1.8
+scipy
+seaborn
+shap
+spacy>=3.8,<3.9
+torch

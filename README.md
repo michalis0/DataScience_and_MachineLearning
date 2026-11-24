@@ -1,66 +1,27 @@
-# Data Science and Machine Learning
+<h1><img src="./.github/01-campus/course.png" width="670" alt="Data Science and Machine Learning · University of Lausanne, HEC"></h1>
 
-## University of Lausanne, HEC
+**Instructor** · [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)<br>
+**Teaching Assistants** · Stergios Konstantinidis & Vikhyat Agrawal
 
-**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/) 
+[Weekly labs](./Labs/README.md) · [Assignments](./Assignments/README.md) · [Lab slides](./Labs/_menti_files/readme.md)
 
-**Teaching Assistants**: Stergios Konstantinidis & Vikhyat Agrawal
+## Weekly labs
 
----
+The schedule may change. Download each lab during its scheduled week.
 
-This repository contains the following material:
-
-- **/Labs** — Weekly Jupyter notebooks used in class for practice.  
-- **/Assignments** — Individual programming assignments.  
-- **/Project** — Group project (To be announced later).  
-
----
-
-## Content
-
-Schedule may be adjusted depending on progress. Note: Retrieve the current week's lab not before, because it will likely be updated in the meantime.
-
-|       | Topic                                                                 | 
-|----------------|-----------------------------------------------------------------------|
-| 1       | [Introduction / Data / Methods / Visualization](Labs/01-review-pandas)     | 
-| 2       | [Linear Regression](Labs/02-regression)                                    | 
-| 3        | [Classification](Labs/03-classification)                                   | 
-| 4        | [Neural Networks](Labs/04-neural-networks)                                 | 
-| 5        | [Text Analytics](Labs/05-text-analytics)                                   | 
-| 6        | [Recommender Systems](Labs/06-recommender-systems) |  |
-| 7              | [Internet of Things](Labs/07-api)            |                              
-| 8       | [Generative AI](Labs/8-gen-ai)                                            | 
-| 9       | [Unsupervised Learning](Labs/09-clustering)               | 
-| 10       | [Explainable AI](Labs/10-explainable-ai) |                                       
----
-
-## Data to Explore
-
-Here are useful open datasets for assignments, projects, and practice.
-
-### General Collections
-
-* [OpenML](https://www.openml.org/) — large online platform with datasets for ML benchmarking.
-* [Kaggle Datasets](https://www.kaggle.com/datasets) — community-driven ML datasets.
-* [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets) — classic curated datasets.
-* [FiveThirtyEight](https://github.com/fivethirtyeight/data) — data behind popular data-journalism articles.
-* [Google Dataset Search](https://datasetsearch.research.google.com/) — meta-search engine for datasets.
-* [AWS Open Data Registry](https://registry.opendata.aws) — cloud-hosted scientific & public datasets.
-* [Microsoft Research Open Data](https://msropendata.com) — curated academic datasets.
-* [World Bank Open Data](https://data.worldbank.org) — global development indicators.
-* [Data.gov](https://www.data.gov) & [Data.gov.uk](https://data.gov.uk) — open government datasets.
-* [DataHub](https://datahub.io) — catalog of community datasets.
-* [Reddit r/datasets](https://www.reddit.com/r/datasets) — user-shared datasets across domains.
-* [75 Public Datasets for Machine Learning](https://blog.superannotate.com/public-datasets-for-machine-learning/) — curated list with explanations.
-
-### Examples by Topic
-
-* **Regression**
-
-  * [Appliance Energy Prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction) — predict energy usage.
-  * [Facebook Comment Volume](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset#) — predict comment volume on posts.
-
-* **Recommendation Systems**
-
-  * [MovieLens](https://grouplens.org/datasets/movielens/) — classic benchmark dataset for recommender systems.
-  * [Book-Crossings](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) — large dataset of book ratings.
+<table>
+  <tr>
+    <td><a href="./Labs/01-review-pandas/README.md"><img src="./.github/01-campus/01.png" width="112" alt="1. Introduction / Data / Methods / Visualization"></a></td>
+    <td><a href="./Labs/02-regression/README.md"><img src="./.github/01-campus/02.png" width="112" alt="2. Linear Regression"></a></td>
+    <td><a href="./Labs/03-classification/README.md"><img src="./.github/01-campus/03.png" width="112" alt="3. Classification"></a></td>
+    <td><a href="./Labs/04-neural-networks/README.md"><img src="./.github/01-campus/04.png" width="112" alt="4. Neural Networks"></a></td>
+    <td><a href="./Labs/05-text-analytics/README.md"><img src="./.github/01-campus/05.png" width="112" alt="5. Text Analytics"></a></td>
+  </tr>
+  <tr>
+    <td><a href="./Labs/06-recommender-systems/README.md"><img src="./.github/01-campus/06.png" width="112" alt="6. Recommender Systems"></a></td>
+    <td><a href="./Labs/07-internet-of-things/README.md"><img src="./.github/01-campus/07.png" width="112" alt="7. Internet of Things"></a></td>
+    <td><a href="./Labs/08-gen-ai/README.md"><img src="./.github/01-campus/08.png" width="112" alt="8. Generative AI"></a></td>
+    <td><a href="./Labs/09-unsupervised-learning/README.md"><img src="./.github/01-campus/09.png" width="112" alt="9. Unsupervised Learning"></a></td>
+    <td><a href="./Labs/10-explainable-ai/README.md"><img src="./.github/01-campus/10.png" width="112" alt="10. Explainable AI"></a></td>
+  </tr>
+</table>
